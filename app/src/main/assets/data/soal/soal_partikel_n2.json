@@ -1,0 +1,758 @@
+[
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n本日は定休日___、お休みさせていただきます。\n(Dikarenakan hari ini hari libur reguler, kami tutup.)",
+    "options": [
+      "始末だ",
+      "に沿って",
+      "につき",
+      "てからというもの"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N2",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'につき' digunakan sebagai Dikarenakan / Per. [Rumus: KB + につき] 1. Menyatakan alasan dalam konteks formal (pemberitahuan tertulis). 2. Menyatakan rasio (per orang/per item).",
+    "particle": "につき"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n冷房中___、ドアを閉めてください。\n(Dikarenakan ber-AC, tolong tutup pintunya.)",
+    "options": [
+      "にかけては",
+      "すら",
+      "に比べて",
+      "につき"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N2",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'につき' digunakan sebagai Dikarenakan / Per. [Rumus: KB + につき] 1. Menyatakan alasan dalam konteks formal (pemberitahuan tertulis). 2. Menyatakan rasio (per orang/per item).",
+    "particle": "につき"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n手数料は１回___２００円です。\n(Biaya admin adalah 200 yen per satu kali transaksi.)",
+    "options": [
+      "にとって",
+      "に応えて",
+      "か",
+      "につき"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N2",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'につき' digunakan sebagai Dikarenakan / Per. [Rumus: KB + につき] 1. Menyatakan alasan dalam konteks formal (pemberitahuan tertulis). 2. Menyatakan rasio (per orang/per item).",
+    "particle": "につき"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Dikarenakan / Per'?\n\nContoh: 工事中につき、立ち入り禁止 (Dilarang masuk dikarenakan sedang ada konstruksi).",
+    "options": [
+      "につき",
+      "ないものでもない",
+      "なり",
+      "に応えて"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N2",
+    "inputType": "CHOICE",
+    "explanation": "[Rumus: KB + につき] 1. Menyatakan alasan dalam konteks formal (pemberitahuan tertulis). 2. Menyatakan rasio (per orang/per item).",
+    "particle": "につき"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n学生の希望___、図書館の開館時間を延長した。\n(Menjawab harapan siswa, jam buka perpustakaan diperpanjang.)",
+    "options": [
+      "に応えて",
+      "に対して",
+      "に比べて",
+      "が早いか"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N2",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'に応えて' digunakan sebagai Menjawab / Memenuhi. [Rumus: KB + に応えて] Melakukan sesuatu sebagai respon terhadap harapan, permintaan, atau tuntutan orang lain.",
+    "particle": "に応えて"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n親の期待___、医者になった。\n(Menjadi dokter demi memenuhi harapan orang tua.)",
+    "options": [
+      "に応えて",
+      "てからというもの",
+      "あっての",
+      "さいに"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N2",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'に応えて' digunakan sebagai Menjawab / Memenuhi. [Rumus: KB + に応えて] Melakukan sesuatu sebagai respon terhadap harapan, permintaan, atau tuntutan orang lain.",
+    "particle": "に応えて"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n時代の要請___、新しい法律が作られた。\n(Hukum baru dibuat untuk menjawab tuntutan zaman.)",
+    "options": [
+      "をこめて",
+      "にかこつけて",
+      "に応えて",
+      "極まりない"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N2",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'に応えて' digunakan sebagai Menjawab / Memenuhi. [Rumus: KB + に応えて] Melakukan sesuatu sebagai respon terhadap harapan, permintaan, atau tuntutan orang lain.",
+    "particle": "に応えて"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Menjawab / Memenuhi'?\n\nContoh: アンコールに応えて、もう１曲歌った (Menyanyikan satu lagu lagi untuk menjawab permintaan encore).",
+    "options": [
+      "に応えて",
+      "こと",
+      "が早いか",
+      "ほど"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N2",
+    "inputType": "CHOICE",
+    "explanation": "[Rumus: KB + に応えて] Melakukan sesuatu sebagai respon terhadap harapan, permintaan, atau tuntutan orang lain.",
+    "particle": "に応えて"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n感謝の気持ち___、花束を贈ります。\n(Saya mengirimkan buket bunga dengan penuh rasa terima kasih.)",
+    "options": [
+      "をこめて",
+      "ゆえに",
+      "ね",
+      "たびに"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N2",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'をこめて' digunakan sebagai Dengan Sepenuh (Perasaan). [Rumus: KB + をこめて] Melakukan sesuatu dengan memasukkan perasaan (cinta, doa, harapan) yang mendalam.",
+    "particle": "をこめて"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n平和への祈り___、千羽鶴を折った。\n(Melipat seribu bangau kertas dengan penuh doa untuk perdamaian.)",
+    "options": [
+      "は",
+      "か",
+      "をこめて",
+      "ではあるまいし"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N2",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'をこめて' digunakan sebagai Dengan Sepenuh (Perasaan). [Rumus: KB + をこめて] Melakukan sesuatu dengan memasukkan perasaan (cinta, doa, harapan) yang mendalam.",
+    "particle": "をこめて"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n心___歌います。\n(Saya akan menyanyi dengan segenap hati.)",
+    "options": [
+      "や",
+      "ずくめ",
+      "をこめて",
+      "ないものでもない"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N2",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'をこめて' digunakan sebagai Dengan Sepenuh (Perasaan). [Rumus: KB + をこめて] Melakukan sesuatu dengan memasukkan perasaan (cinta, doa, harapan) yang mendalam.",
+    "particle": "をこめて"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Dengan Sepenuh (Perasaan)'?\n\nContoh: 愛をこめて、手紙を書きました (Saya menulis surat dengan penuh cinta).",
+    "options": [
+      "をこめて",
+      "は",
+      "と",
+      "よ"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N2",
+    "inputType": "CHOICE",
+    "explanation": "[Rumus: KB + をこめて] Melakukan sesuatu dengan memasukkan perasaan (cinta, doa, harapan) yang mendalam.",
+    "particle": "をこめて"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\nその事件___、様々な噂が流れている。\n(Beredar berbagai rumor seputar kejadian itu.)",
+    "options": [
+      "なんて",
+      "と",
+      "をめぐって",
+      "を"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N2",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'をめぐって' digunakan sebagai Mengenai / Seputar (Perdebatan). [Rumus: KB + をめぐって] Digunakan saat ada perdebatan, diskusi, atau konflik yang berpusat pada satu topik.",
+    "particle": "をめぐって"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n環境問題___、激しい議論が交わされた。\n(Terjadi diskusi sengit mengenai masalah lingkungan.)",
+    "options": [
+      "に先立って",
+      "に基づいて",
+      "をめぐって",
+      "とあって"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N2",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'をめぐって' digunakan sebagai Mengenai / Seputar (Perdebatan). [Rumus: KB + をめぐって] Digunakan saat ada perdebatan, diskusi, atau konflik yang berpusat pada satu topik.",
+    "particle": "をめぐって"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n一人の女性___、二人の男が戦った。\n(Dua pria bertarung memperebutkan satu wanita.)",
+    "options": [
+      "そばから",
+      "をめぐって",
+      "つ～つ",
+      "かな"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N2",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'をめぐって' digunakan sebagai Mengenai / Seputar (Perdebatan). [Rumus: KB + をめぐって] Digunakan saat ada perdebatan, diskusi, atau konflik yang berpusat pada satu topik.",
+    "particle": "をめぐって"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Mengenai / Seputar (Perdebatan)'?\n\nContoh: 遺産をめぐって、兄弟が争っている (Saudara bertengkar seputar warisan).",
+    "options": [
+      "とか",
+      "をめぐって",
+      "とあって",
+      "ごとき"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N2",
+    "inputType": "CHOICE",
+    "explanation": "[Rumus: KB + をめぐって] Digunakan saat ada perdebatan, diskusi, atau konflik yang berpusat pada satu topik.",
+    "particle": "をめぐって"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n漢字の知識___、誰にも負けない自信がある。\n(Kalau soal pengetahuan Kanji, saya pede tidak akan kalah dari siapapun.)",
+    "options": [
+      "始末だ",
+      "にかけては",
+      "から",
+      "てやまない"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N2",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'にかけては' digunakan sebagai Kalau soal... (Paling hebat). [Rumus: KB + にかけては] Jika berbicara tentang bidang/hal tersebut, subjek adalah yang terbaik/tidak kalah dari siapapun.",
+    "particle": "にかけては"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n値段の安さ___、あの店が一番だ。\n(Kalau soal murahnya harga, toko itu nomor satu.)",
+    "options": [
+      "とばかりに",
+      "が早いか",
+      "にかけては",
+      "に先立って"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N2",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'にかけては' digunakan sebagai Kalau soal... (Paling hebat). [Rumus: KB + にかけては] Jika berbicara tentang bidang/hal tersebut, subjek adalah yang terbaik/tidak kalah dari siapapun.",
+    "particle": "にかけては"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\nピアノ___、彼女の右に出る者はいない。\n(Kalau soal piano, tidak ada yang lebih hebat darinya.)",
+    "options": [
+      "に加えて",
+      "ばかりに",
+      "ないものでもない",
+      "にかけては"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N2",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'にかけては' digunakan sebagai Kalau soal... (Paling hebat). [Rumus: KB + にかけては] Jika berbicara tentang bidang/hal tersebut, subjek adalah yang terbaik/tidak kalah dari siapapun.",
+    "particle": "にかけては"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Kalau soal... (Paling hebat)'?\n\nContoh: 足の速さにかけては、彼に勝てる人はいない (Kalau soal kecepatan lari, tidak ada yang bisa mengalahkannya).",
+    "options": [
+      "ごとき",
+      "にかけては",
+      "とか",
+      "なくしては"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N2",
+    "inputType": "CHOICE",
+    "explanation": "[Rumus: KB + にかけては] Jika berbicara tentang bidang/hal tersebut, subjek adalah yang terbaik/tidak kalah dari siapapun.",
+    "particle": "にかけては"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\nこのマニュアル___、作業を進めてください。\n(Tolong kerjakan sesuai dengan manual ini.)",
+    "options": [
+      "に沿って",
+      "とあって",
+      "よ",
+      "へ"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N2",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'に沿って' digunakan sebagai Sesuai dengan / Sepanjang. [Rumus: KB + に沿って] 1. Mengikuti garis fisik (sungai, jalan). 2. Mengikuti aturan, rencana, atau harapan.",
+    "particle": "に沿って"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n線路___、道が続いている。\n(Jalan berlanjut di sepanjang rel kereta.)",
+    "options": [
+      "のみならず",
+      "なら",
+      "に沿って",
+      "とか"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N2",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'に沿って' digunakan sebagai Sesuai dengan / Sepanjang. [Rumus: KB + に沿って] 1. Mengikuti garis fisik (sungai, jalan). 2. Mengikuti aturan, rencana, atau harapan.",
+    "particle": "に沿って"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Sesuai dengan / Sepanjang'?\n\nContoh: 川に沿って歩く (Berjalan di sepanjang sungai).",
+    "options": [
+      "あっての",
+      "そばから",
+      "に沿って",
+      "へ"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N2",
+    "inputType": "CHOICE",
+    "explanation": "[Rumus: KB + に沿って] 1. Mengikuti garis fisik (sungai, jalan). 2. Mengikuti aturan, rencana, atau harapan.",
+    "particle": "に沿って"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n台風の影響で、広い範囲___停電が起きた。\n(Akibat topan, terjadi mati listrik di wilayah yang luas.)",
+    "options": [
+      "に対して",
+      "にわたって",
+      "問わず",
+      "とばかりに"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N2",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'にわたって' digunakan sebagai Selama / Di seluruh. [Rumus: KB + にわたって] Menunjukkan jangkauan waktu yang panjang atau area yang luas secara keseluruhan.",
+    "particle": "にわたって"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n彼は長き___、この会社に貢献した。\n(Dia berkontribusi pada perusahaan ini dalam kurun waktu yang lama.)",
+    "options": [
+      "そばから",
+      "で",
+      "にわたって",
+      "きり"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N2",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'にわたって' digunakan sebagai Selama / Di seluruh. [Rumus: KB + にわたって] Menunjukkan jangkauan waktu yang panjang atau area yang luas secara keseluruhan.",
+    "particle": "にわたって"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n手術は１０時間___行われた。\n(Operasi dilakukan selama 10 jam.)",
+    "options": [
+      "に先立って",
+      "にわたって",
+      "しか",
+      "の"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N2",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'にわたって' digunakan sebagai Selama / Di seluruh. [Rumus: KB + にわたって] Menunjukkan jangkauan waktu yang panjang atau area yang luas secara keseluruhan.",
+    "particle": "にわたって"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Selama / Di seluruh'?\n\nContoh: 会議は３日間にわたって行われた (Rapat diadakan selama 3 hari).",
+    "options": [
+      "や",
+      "にわたって",
+      "ごとき",
+      "なくしては"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N2",
+    "inputType": "CHOICE",
+    "explanation": "[Rumus: KB + にわたって] Menunjukkan jangkauan waktu yang panjang atau area yang luas secara keseluruhan.",
+    "particle": "にわたって"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\nインターネット___、世界中の人と話せる。\n(Bisa bicara dengan orang di seluruh dunia melalui internet.)",
+    "options": [
+      "とあれば",
+      "を通じて",
+      "にわたって",
+      "手前"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N2",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'を通じて' digunakan sebagai Melalui / Sepanjang (Waktu). [Rumus: KB + を通じて/を通して] 1. Menggunakan perantara (media/orang). 2. Selama periode waktu tersebut terus menerus.",
+    "particle": "を通じて"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\nこの国は一年___、暖かいです。\n(Negara ini hangat sepanjang tahun.)",
+    "options": [
+      "が早いか",
+      "を通じて",
+      "うちに",
+      "かな"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N2",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'を通じて' digunakan sebagai Melalui / Sepanjang (Waktu). [Rumus: KB + を通じて/を通して] 1. Menggunakan perantara (media/orang). 2. Selama periode waktu tersebut terus menerus.",
+    "particle": "を通じて"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n社長との面会は、秘書___申し込んでください。\n(Tolong ajukan pertemuan dengan presdir melalui sekretaris.)",
+    "options": [
+      "すら",
+      "を通じて",
+      "だに",
+      "に対して"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N2",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'を通じて' digunakan sebagai Melalui / Sepanjang (Waktu). [Rumus: KB + を通じて/を通して] 1. Menggunakan perantara (media/orang). 2. Selama periode waktu tersebut terus menerus.",
+    "particle": "を通じて"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Melalui / Sepanjang (Waktu)'?\n\nContoh: 友人を通じて、彼と知り合った (Saya kenalan dengannya melalui teman).",
+    "options": [
+      "を通じて",
+      "たびに",
+      "ばかり",
+      "極まりない"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N2",
+    "inputType": "CHOICE",
+    "explanation": "[Rumus: KB + を通じて/を通して] 1. Menggunakan perantara (media/orang). 2. Selama periode waktu tersebut terus menerus.",
+    "particle": "を通じて"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n映画の公開___、試写会が開かれた。\n(Sebelum rilis film, diadakan pemutaran perdana (preview).)",
+    "options": [
+      "ごとき",
+      "で",
+      "に先立って",
+      "ゆえに"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N2",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'に先立って' digunakan sebagai Sebelum (Agenda penting). [Rumus: KB + に先立って] Sebelum memulai sesuatu yang penting/besar (Formal).",
+    "particle": "に先立って"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Sebelum (Agenda penting)'?\n\nContoh: 会議に先立って、資料が配られた (Sebelum rapat, dokumen dibagikan).",
+    "options": [
+      "あっての",
+      "ゆえに",
+      "について",
+      "に先立って"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N2",
+    "inputType": "CHOICE",
+    "explanation": "[Rumus: KB + に先立って] Sebelum memulai sesuatu yang penting/besar (Formal).",
+    "particle": "に先立って"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n経験の有無を___、募集しています。\n(Kami merekrut tanpa memandang ada/tidaknya pengalaman.)",
+    "options": [
+      "に加えて",
+      "に対して",
+      "たりとも",
+      "問わず"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N2",
+    "inputType": "CHOICE",
+    "explanation": "Partikel '問わず' digunakan sebagai Tanpa memandang / Tidak masalah. [Rumus: KB + を問わず] Tidak menjadikan ... sebagai masalah/syarat. (Regardless of...).",
+    "particle": "問わず"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n昼夜を___、工事が行われている。\n(Konstruksi dilakukan siang dan malam (tanpa memandang waktu).)",
+    "options": [
+      "問わず",
+      "きり",
+      "あっての",
+      "なり"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N2",
+    "inputType": "CHOICE",
+    "explanation": "Partikel '問わず' digunakan sebagai Tanpa memandang / Tidak masalah. [Rumus: KB + を問わず] Tidak menjadikan ... sebagai masalah/syarat. (Regardless of...).",
+    "particle": "問わず"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n国籍を___、優秀な人材を採用する。\n(Merekrut SDM unggul tanpa memandang kewarganegaraan.)",
+    "options": [
+      "問わず",
+      "なんて",
+      "など",
+      "に加えて"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N2",
+    "inputType": "CHOICE",
+    "explanation": "Partikel '問わず' digunakan sebagai Tanpa memandang / Tidak masalah. [Rumus: KB + を問わず] Tidak menjadikan ... sebagai masalah/syarat. (Regardless of...).",
+    "particle": "問わず"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Tanpa memandang / Tidak masalah'?\n\nContoh: 年齢を問わず、誰でも参加できます (Siapa saja boleh ikut tanpa memandang umur).",
+    "options": [
+      "に沿って",
+      "問わず",
+      "しか",
+      "だに"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N2",
+    "inputType": "CHOICE",
+    "explanation": "[Rumus: KB + を問わず] Tidak menjadikan ... sebagai masalah/syarat. (Regardless of...).",
+    "particle": "問わず"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\nこのアニメは日本___、世界中で人気がある。\n(Anime ini populer tidak hanya di Jepang, tapi di seluruh dunia.)",
+    "options": [
+      "けど",
+      "のみならず",
+      "やら",
+      "が早いか"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N2",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'のみならず' digunakan sebagai Tidak hanya... (tapi juga). [Rumus: KB/Bentuk Biasa + のみならず] Bentuk kaku/formal dari \"dake de naku\". Tidak hanya A, tapi juga B (lingkup lebih luas).",
+    "particle": "のみならず"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\nタバコは吸う人___、周りの人にも害を与える。\n(Rokok tidak hanya berbahaya bagi perokok, tapi juga bagi orang di sekitarnya.)",
+    "options": [
+      "にとって",
+      "のみならず",
+      "くらい",
+      "が早いか"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N2",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'のみならず' digunakan sebagai Tidak hanya... (tapi juga). [Rumus: KB/Bentuk Biasa + のみならず] Bentuk kaku/formal dari \"dake de naku\". Tidak hanya A, tapi juga B (lingkup lebih luas).",
+    "particle": "のみならず"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Tidak hanya... (tapi juga)'?\n\nContoh: 彼は英語のみならず、中国語も話せる (Dia tidak hanya bisa bahasa Inggris, tapi juga Mandarin).",
+    "options": [
+      "をめぐって",
+      "に比べて",
+      "なんて",
+      "のみならず"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N2",
+    "inputType": "CHOICE",
+    "explanation": "[Rumus: KB/Bentuk Biasa + のみならず] Bentuk kaku/formal dari \"dake de naku\". Tidak hanya A, tapi juga B (lingkup lebih luas).",
+    "particle": "のみならず"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n嘘をついた___、信用を失ってしまった。\n(Hanya gara-gara berbohong, saya kehilangan kepercayaan.)",
+    "options": [
+      "こと",
+      "ばかりに",
+      "にかこつけて",
+      "そばから"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N2",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'ばかりに' digunakan sebagai Hanya karena... (Akibat buruk). [Rumus: Bentuk Biasa + ばかりに] Hanya karena satu sebab sepele, terjadi akibat yang sangat buruk (Penyesalan).",
+    "particle": "ばかりに"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n住所を書き間違えた___、手紙が届かなかった。\n(Hanya gara-gara salah tulis alamat, suratnya tidak sampai.)",
+    "options": [
+      "とも",
+      "なくしては",
+      "のに",
+      "ばかりに"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N2",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'ばかりに' digunakan sebagai Hanya karena... (Akibat buruk). [Rumus: Bentuk Biasa + ばかりに] Hanya karena satu sebab sepele, terjadi akibat yang sangat buruk (Penyesalan).",
+    "particle": "ばかりに"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Hanya karena... (Akibat buruk)'?\n\nContoh: お金がないばかりに、進学をあきらめた (Hanya karena tidak ada uang, saya menyerah lanjut sekolah).",
+    "options": [
+      "だけ",
+      "ばかりに",
+      "は",
+      "のみならず"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N2",
+    "inputType": "CHOICE",
+    "explanation": "[Rumus: Bentuk Biasa + ばかりに] Hanya karena satu sebab sepele, terjadi akibat yang sangat buruk (Penyesalan).",
+    "particle": "ばかりに"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n長年の経験___、アドバイスします。\n(Saya memberi saran berdasarkan pengalaman bertahun-tahun.)",
+    "options": [
+      "に加えて",
+      "や",
+      "が",
+      "に基づいて"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N2",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'に基づいて' digunakan sebagai Berdasarkan. [Rumus: KB + に基づいて] Menggunakan sesuatu sebagai dasar/pondasi untuk melakukan sesuatu (Based on).",
+    "particle": "に基づいて"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n事実___記事を書く。\n(Menulis artikel berdasarkan fakta.)",
+    "options": [
+      "が早いか",
+      "に基づいて",
+      "こと",
+      "よ"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N2",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'に基づいて' digunakan sebagai Berdasarkan. [Rumus: KB + に基づいて] Menggunakan sesuatu sebagai dasar/pondasi untuk melakukan sesuatu (Based on).",
+    "particle": "に基づいて"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\nこの映画は実話___いる。\n(Film ini didasarkan pada kisah nyata.)",
+    "options": [
+      "に基づいて",
+      "そばから",
+      "に比べて",
+      "なら"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N2",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'に基づいて' digunakan sebagai Berdasarkan. [Rumus: KB + に基づいて] Menggunakan sesuatu sebagai dasar/pondasi untuk melakukan sesuatu (Based on).",
+    "particle": "に基づいて"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Berdasarkan'?\n\nContoh: 法律に基づいて判断する (Memutuskan berdasarkan hukum).",
+    "options": [
+      "とか",
+      "に沿って",
+      "に基づいて",
+      "につき"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N2",
+    "inputType": "CHOICE",
+    "explanation": "[Rumus: KB + に基づいて] Menggunakan sesuatu sebagai dasar/pondasi untuk melakukan sesuatu (Based on).",
+    "particle": "に基づいて"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n兄___、弟は静かだ。\n(Dibandingkan kakaknya, adiknya pendiam.)",
+    "options": [
+      "に比べて",
+      "から",
+      "なら",
+      "なり"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N2",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'に比べて' digunakan sebagai Dibandingkan dengan. [Rumus: KB + に比べて] Membandingkan dua hal (lebih formal dari \"yori\").",
+    "particle": "に比べて"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n都会___、田舎は空気がきれいだ。\n(Dibandingkan kota besar, di desa udaranya bersih.)",
+    "options": [
+      "たびに",
+      "に比べて",
+      "し",
+      "で"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N2",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'に比べて' digunakan sebagai Dibandingkan dengan. [Rumus: KB + に比べて] Membandingkan dua hal (lebih formal dari \"yori\").",
+    "particle": "に比べて"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n男性___、女性のほうが寿命が長い。\n(Dibandingkan pria, wanita memiliki harapan hidup lebih panjang.)",
+    "options": [
+      "に比べて",
+      "ではあるまいし",
+      "と",
+      "なくしては"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N2",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'に比べて' digunakan sebagai Dibandingkan dengan. [Rumus: KB + に比べて] Membandingkan dua hal (lebih formal dari \"yori\").",
+    "particle": "に比べて"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Dibandingkan dengan'?\n\nContoh: 去年に比べて、今年は暑い (Dibandingkan tahun lalu, tahun ini panas).",
+    "options": [
+      "ばかり",
+      "にとって",
+      "に比べて",
+      "さいに"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N2",
+    "inputType": "CHOICE",
+    "explanation": "[Rumus: KB + に比べて] Membandingkan dua hal (lebih formal dari \"yori\").",
+    "particle": "に比べて"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n人手不足___、材料費も上がっている。\n(Ditambah kekurangan tenaga kerja, biaya bahan baku juga naik.)",
+    "options": [
+      "に加えて",
+      "なり",
+      "たら",
+      "をこめて"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N2",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'に加えて' digunakan sebagai Di tambah lagi. [Rumus: KB + に加えて] Menambahkan satu hal di atas hal yang sudah ada (In addition to).",
+    "particle": "に加えて"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n英語___、フランス語も勉強している。\n(Selain bahasa Inggris, saya juga belajar bahasa Perancis.)",
+    "options": [
+      "に加えて",
+      "し",
+      "に基づいて",
+      "こと"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N2",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'に加えて' digunakan sebagai Di tambah lagi. [Rumus: KB + に加えて] Menambahkan satu hal di atas hal yang sudah ada (In addition to).",
+    "particle": "に加えて"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Di tambah lagi'?\n\nContoh: 雨に加えて、風も強くなってきた (Ditambah hujan, angin juga jadi kencang).",
+    "options": [
+      "うちに",
+      "に沿って",
+      "さいに",
+      "に加えて"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N2",
+    "inputType": "CHOICE",
+    "explanation": "[Rumus: KB + に加えて] Menambahkan satu hal di atas hal yang sudah ada (In addition to).",
+    "particle": "に加えて"
+  }
+]

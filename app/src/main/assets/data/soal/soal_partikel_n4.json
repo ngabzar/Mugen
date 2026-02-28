@@ -1,0 +1,1738 @@
+[
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n彼は親切だ___、頭もいいです。\n(Dia ramah, dan lagi pintar.)",
+    "options": [
+      "を通じて",
+      "くらい",
+      "し",
+      "に先立って"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'し' digunakan sebagai Menyebutkan Alasan. Digunakan untuk menyebutkan beberapa alasan dari suatu kesimpulan atau keadaan. Sering diterjemahkan sebagai \"dan lagi...\" atau \"selain itu...\".",
+    "particle": "し"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n雨も降っている___、行きたくないです。\n(Hujan sedang turun, lagipula saya tidak ingin pergi.)",
+    "options": [
+      "や",
+      "きり",
+      "し",
+      "始末だ"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'し' digunakan sebagai Menyebutkan Alasan. Digunakan untuk menyebutkan beberapa alasan dari suatu kesimpulan atau keadaan. Sering diterjemahkan sebagai \"dan lagi...\" atau \"selain itu...\".",
+    "particle": "し"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\nお腹もすいた___、何か食べましょう。\n(Sudah lapar juga, ayo makan sesuatu.)",
+    "options": [
+      "し",
+      "ね",
+      "だに",
+      "を通じて"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'し' digunakan sebagai Menyebutkan Alasan. Digunakan untuk menyebutkan beberapa alasan dari suatu kesimpulan atau keadaan. Sering diterjemahkan sebagai \"dan lagi...\" atau \"selain itu...\".",
+    "particle": "し"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n荷物も多い___、タクシーで行きましょう。\n(Barang bawaan banyak, jadi ayo pergi naik taksi.)",
+    "options": [
+      "し",
+      "が早いか",
+      "へ",
+      "ずくめ"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'し' digunakan sebagai Menyebutkan Alasan. Digunakan untuk menyebutkan beberapa alasan dari suatu kesimpulan atau keadaan. Sering diterjemahkan sebagai \"dan lagi...\" atau \"selain itu...\".",
+    "particle": "し"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\nこの店は安い___、美味しいです。\n(Toko ini murah, dan lagi enak.)",
+    "options": [
+      "し",
+      "なら",
+      "とはいえ",
+      "ではあるまいし"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'し' digunakan sebagai Menyebutkan Alasan. Digunakan untuk menyebutkan beberapa alasan dari suatu kesimpulan atau keadaan. Sering diterjemahkan sebagai \"dan lagi...\" atau \"selain itu...\".",
+    "particle": "し"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Menyebutkan Alasan'?\n\nContoh: 彼は親切だし、頭もいいです (Dia ramah, dan lagi pintar).",
+    "options": [
+      "は",
+      "たら",
+      "に対して",
+      "し"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Digunakan untuk menyebutkan beberapa alasan dari suatu kesimpulan atau keadaan. Sering diterjemahkan sebagai \"dan lagi...\" atau \"selain itu...\".",
+    "particle": "し"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\nテニス___サッカーとかが好きです。\n(Saya suka tenis, sepak bola, dan sejenisnya.)",
+    "options": [
+      "について",
+      "が早いか",
+      "きり",
+      "とか"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'とか' digunakan sebagai Menyebutkan Contoh (Tidak Lengkap). Mirip dengan \"ya\" (dan lain-lain), tapi \"toka\" lebih bersifat bahasa lisan/kasual. Digunakan untuk menyebutkan beberapa contoh yang mewakili.",
+    "particle": "とか"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n休みの日は、本を読む___、寝るとかします。\n(Di hari libur, saya membaca buku, tidur, dan lain-lain.)",
+    "options": [
+      "始末だ",
+      "も",
+      "とか",
+      "よ"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'とか' digunakan sebagai Menyebutkan Contoh (Tidak Lengkap). Mirip dengan \"ya\" (dan lain-lain), tapi \"toka\" lebih bersifat bahasa lisan/kasual. Digunakan untuk menyebutkan beberapa contoh yang mewakili.",
+    "particle": "とか"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n冷蔵庫に肉___野菜とかがあります。\n(Di kulkas ada daging, sayur, dll.)",
+    "options": [
+      "とか",
+      "だに",
+      "ゆえに",
+      "に加えて"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'とか' digunakan sebagai Menyebutkan Contoh (Tidak Lengkap). Mirip dengan \"ya\" (dan lain-lain), tapi \"toka\" lebih bersifat bahasa lisan/kasual. Digunakan untuk menyebutkan beberapa contoh yang mewakili.",
+    "particle": "とか"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n田中さん___鈴木さんとかが来ました。\n(Tanaka, Suzuki, dan yang lainnya datang.)",
+    "options": [
+      "なんて",
+      "とか",
+      "すら",
+      "が早いか"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'とか' digunakan sebagai Menyebutkan Contoh (Tidak Lengkap). Mirip dengan \"ya\" (dan lain-lain), tapi \"toka\" lebih bersifat bahasa lisan/kasual. Digunakan untuk menyebutkan beberapa contoh yang mewakili.",
+    "particle": "とか"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n「バカ」___「アホ」とか言ってはいけません。\n(Tidak boleh bilang \"Bodoh\", \"Tolol\", dan semacamnya.)",
+    "options": [
+      "とか",
+      "に",
+      "きり",
+      "とばかりに"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'とか' digunakan sebagai Menyebutkan Contoh (Tidak Lengkap). Mirip dengan \"ya\" (dan lain-lain), tapi \"toka\" lebih bersifat bahasa lisan/kasual. Digunakan untuk menyebutkan beberapa contoh yang mewakili.",
+    "particle": "とか"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Menyebutkan Contoh (Tidak Lengkap)'?\n\nContoh: テニスとかサッカーとかが好きです (Saya suka tenis, sepak bola, dll).",
+    "options": [
+      "とか",
+      "かな",
+      "し",
+      "たら"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Mirip dengan \"ya\" (dan lain-lain), tapi \"toka\" lebih bersifat bahasa lisan/kasual. Digunakan untuk menyebutkan beberapa contoh yang mewakili.",
+    "particle": "とか"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n机の上に本___ペンがあります。\n(Di atas meja ada buku, pena, dll.)",
+    "options": [
+      "すら",
+      "の",
+      "が早いか",
+      "や"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'や' digunakan sebagai Dan (Daftar Tidak Lengkap). Digunakan untuk menghubungkan kata benda ketika hanya menyebutkan sebagian dari daftar yang ada (implikasinya masih ada benda lain). Sering diikuti \"nado\" (dll).",
+    "particle": "や"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\nカバンの中に財布___鍵などがあります。\n(Di dalam tas ada dompet, kunci, dan sebagainya.)",
+    "options": [
+      "なら",
+      "や",
+      "ないものでもない",
+      "を"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'や' digunakan sebagai Dan (Daftar Tidak Lengkap). Digunakan untuk menghubungkan kata benda ketika hanya menyebutkan sebagian dari daftar yang ada (implikasinya masih ada benda lain). Sering diikuti \"nado\" (dll).",
+    "particle": "や"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n京都___奈良へ行きたいです。\n(Saya ingin pergi ke Kyoto, Nara, dan tempat lainnya.)",
+    "options": [
+      "や",
+      "きり",
+      "のに",
+      "手前"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'や' digunakan sebagai Dan (Daftar Tidak Lengkap). Digunakan untuk menghubungkan kata benda ketika hanya menyebutkan sebagian dari daftar yang ada (implikasinya masih ada benda lain). Sering diikuti \"nado\" (dll).",
+    "particle": "や"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n朝ごはんはパン___卵を食べます。\n(Sarapan saya makan roti, telur, dll.)",
+    "options": [
+      "を",
+      "も",
+      "に対して",
+      "や"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'や' digunakan sebagai Dan (Daftar Tidak Lengkap). Digunakan untuk menghubungkan kata benda ketika hanya menyebutkan sebagian dari daftar yang ada (implikasinya masih ada benda lain). Sering diikuti \"nado\" (dll).",
+    "particle": "や"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n私の趣味はテニス___水泳です。\n(Hobi saya tenis, renang, dll.)",
+    "options": [
+      "なんて",
+      "ではあるまいし",
+      "や",
+      "が"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'や' digunakan sebagai Dan (Daftar Tidak Lengkap). Digunakan untuk menghubungkan kata benda ketika hanya menyebutkan sebagian dari daftar yang ada (implikasinya masih ada benda lain). Sering diikuti \"nado\" (dll).",
+    "particle": "や"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Dan (Daftar Tidak Lengkap)'?\n\nContoh: 店にはパンや牛乳がありました (Di toko ada roti, susu, dll).",
+    "options": [
+      "なくしては",
+      "より",
+      "や",
+      "をこめて"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Digunakan untuk menghubungkan kata benda ketika hanya menyebutkan sebagian dari daftar yang ada (implikasinya masih ada benda lain). Sering diikuti \"nado\" (dll).",
+    "particle": "や"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n一つ___ください。\n(Tolong beri saya satu saja.)",
+    "options": [
+      "だけ",
+      "から",
+      "に対して",
+      "とあって"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'だけ' digunakan sebagai Hanya (Positif). Menyatakan batas \"hanya\". Biasanya digunakan dalam kalimat positif. Menggantikan partikel \"o\" atau \"ga\" (atau menempel padanya).",
+    "particle": "だけ"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\nあなた___が好きです。\n(Hanya kamu yang aku suka.)",
+    "options": [
+      "で",
+      "ばかり",
+      "だけ",
+      "ね"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'だけ' digunakan sebagai Hanya (Positif). Menyatakan batas \"hanya\". Biasanya digunakan dalam kalimat positif. Menggantikan partikel \"o\" atau \"ga\" (atau menempel padanya).",
+    "particle": "だけ"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\nローマ字___書けます。\n(Saya hanya bisa menulis Romaji.)",
+    "options": [
+      "くらい",
+      "つ～つ",
+      "だけ",
+      "から"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'だけ' digunakan sebagai Hanya (Positif). Menyatakan batas \"hanya\". Biasanya digunakan dalam kalimat positif. Menggantikan partikel \"o\" atau \"ga\" (atau menempel padanya).",
+    "particle": "だけ"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n少し___疲れました。\n(Saya cuma sedikit lelah.)",
+    "options": [
+      "だけ",
+      "のみならず",
+      "たら",
+      "さいに"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'だけ' digunakan sebagai Hanya (Positif). Menyatakan batas \"hanya\". Biasanya digunakan dalam kalimat positif. Menggantikan partikel \"o\" atau \"ga\" (atau menempel padanya).",
+    "particle": "だけ"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n日曜日___休みます。\n(Saya libur hanya hari Minggu.)",
+    "options": [
+      "ずくめ",
+      "をめぐって",
+      "にかけては",
+      "だけ"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'だけ' digunakan sebagai Hanya (Positif). Menyatakan batas \"hanya\". Biasanya digunakan dalam kalimat positif. Menggantikan partikel \"o\" atau \"ga\" (atau menempel padanya).",
+    "particle": "だけ"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Hanya (Positif)'?\n\nContoh: これだけ買います (Saya hanya membeli ini).",
+    "options": [
+      "だけ",
+      "に",
+      "をこめて",
+      "だに"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Menyatakan batas \"hanya\". Biasanya digunakan dalam kalimat positif. Menggantikan partikel \"o\" atau \"ga\" (atau menempel padanya).",
+    "particle": "だけ"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\nひらがな___書けません。\n(Saya cuma bisa menulis Hiragana (yang lain tidak bisa).)",
+    "options": [
+      "しか",
+      "のみならず",
+      "に",
+      "なんて"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'しか' digunakan sebagai Hanya (Negatif). Menyatakan \"hanya\", tetapi WAJIB diikuti kata kerja bentuk negatif. Nuansanya: \"Tidak ada pilihan lain selain...\" atau \"Cuma ada sedikit\".",
+    "particle": "しか"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n冷蔵庫に水___ありません。\n(Di kulkas cuma ada air (tidak ada makanan).)",
+    "options": [
+      "ほど",
+      "へ",
+      "あっての",
+      "しか"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'しか' digunakan sebagai Hanya (Negatif). Menyatakan \"hanya\", tetapi WAJIB diikuti kata kerja bentuk negatif. Nuansanya: \"Tidak ada pilihan lain selain...\" atau \"Cuma ada sedikit\".",
+    "particle": "しか"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n１０分___待ちません。\n(Saya cuma mau menunggu 10 menit.)",
+    "options": [
+      "しか",
+      "そばから",
+      "極まりない",
+      "とあって"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'しか' digunakan sebagai Hanya (Negatif). Menyatakan \"hanya\", tetapi WAJIB diikuti kata kerja bentuk negatif. Nuansanya: \"Tidak ada pilihan lain selain...\" atau \"Cuma ada sedikit\".",
+    "particle": "しか"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n彼___知りません。\n(Cuma dia yang tahu.)",
+    "options": [
+      "だに",
+      "しか",
+      "ね",
+      "に沿って"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'しか' digunakan sebagai Hanya (Negatif). Menyatakan \"hanya\", tetapi WAJIB diikuti kata kerja bentuk negatif. Nuansanya: \"Tidak ada pilihan lain selain...\" atau \"Cuma ada sedikit\".",
+    "particle": "しか"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\nこれ___ありません。\n(Cuma ada ini.)",
+    "options": [
+      "か",
+      "しか",
+      "だに",
+      "てやまない"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'しか' digunakan sebagai Hanya (Negatif). Menyatakan \"hanya\", tetapi WAJIB diikuti kata kerja bentuk negatif. Nuansanya: \"Tidak ada pilihan lain selain...\" atau \"Cuma ada sedikit\".",
+    "particle": "しか"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Hanya (Negatif)'?\n\nContoh: 千円しかありません (Cuma punya 1000 yen).",
+    "options": [
+      "ずくめ",
+      "しか",
+      "たびに",
+      "へ"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Menyatakan \"hanya\", tetapi WAJIB diikuti kata kerja bentuk negatif. Nuansanya: \"Tidak ada pilihan lain selain...\" atau \"Cuma ada sedikit\".",
+    "particle": "しか"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n弟はテレビを見て___います。\n(Adik menonton TV melulu.)",
+    "options": [
+      "ばかり",
+      "にわたって",
+      "なくしては",
+      "なら"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'ばかり' digunakan sebagai Melulu / Terus-menerus. Menyatakan suatu kegiatan dilakukan berulang-ulang atau hanya benda itu saja yang ada.",
+    "particle": "ばかり"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n肉___食べないでください。\n(Jangan makan daging melulu.)",
+    "options": [
+      "とか",
+      "をこめて",
+      "なんて",
+      "ばかり"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'ばかり' digunakan sebagai Melulu / Terus-menerus. Menyatakan suatu kegiatan dilakukan berulang-ulang atau hanya benda itu saja yang ada.",
+    "particle": "ばかり"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n嘘___ついています。\n(Bohong melulu.)",
+    "options": [
+      "なんて",
+      "けど",
+      "ばかり",
+      "きり"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'ばかり' digunakan sebagai Melulu / Terus-menerus. Menyatakan suatu kegiatan dilakukan berulang-ulang atau hanya benda itu saja yang ada.",
+    "particle": "ばかり"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\nこの店は高いもの___です。\n(Toko ini barangnya mahal-mahal semua.)",
+    "options": [
+      "だけ",
+      "か",
+      "ばかり",
+      "ごとき"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'ばかり' digunakan sebagai Melulu / Terus-menerus. Menyatakan suatu kegiatan dilakukan berulang-ulang atau hanya benda itu saja yang ada.",
+    "particle": "ばかり"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n寝て___いました。\n(Tidur melulu (kerjaannya).)",
+    "options": [
+      "ばかり",
+      "について",
+      "なくしては",
+      "より"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'ばかり' digunakan sebagai Melulu / Terus-menerus. Menyatakan suatu kegiatan dilakukan berulang-ulang atau hanya benda itu saja yang ada.",
+    "particle": "ばかり"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Melulu / Terus-menerus'?\n\nContoh: 遊んでばかりいます (Main melulu).",
+    "options": [
+      "ばかり",
+      "を通じて",
+      "とか",
+      "あっての"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Menyatakan suatu kegiatan dilakukan berulang-ulang atau hanya benda itu saja yang ada.",
+    "particle": "ばかり"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n今日は昨日___暑いです。\n(Hari ini lebih panas daripada kemarin.)",
+    "options": [
+      "うちに",
+      "すら",
+      "が早いか",
+      "より"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'より' digunakan sebagai Perbandingan (Daripada). Digunakan dalam kalimat perbandingan untuk menandai standar pembandingnya (daripada X).",
+    "particle": "より"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n日本___広いです。\n(Lebih luas daripada Jepang.)",
+    "options": [
+      "より",
+      "のに",
+      "にかけては",
+      "について"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'より' digunakan sebagai Perbandingan (Daripada). Digunakan dalam kalimat perbandingan untuk menandai standar pembandingnya (daripada X).",
+    "particle": "より"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n肉___魚が好きです。\n(Saya lebih suka ikan daripada daging.)",
+    "options": [
+      "ではあるまいし",
+      "より",
+      "さいに",
+      "から"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'より' digunakan sebagai Perbandingan (Daripada). Digunakan dalam kalimat perbandingan untuk menandai standar pembandingnya (daripada X).",
+    "particle": "より"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n誰___美しいです。\n(Lebih cantik daripada siapapun.)",
+    "options": [
+      "くらい",
+      "つ～つ",
+      "より",
+      "に対して"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'より' digunakan sebagai Perbandingan (Daripada). Digunakan dalam kalimat perbandingan untuk menandai standar pembandingnya (daripada X).",
+    "particle": "より"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n花___団子。\n(Dango lebih baik daripada bunga (Lebih mementingkan isi/kenyang daripada estetika).)",
+    "options": [
+      "しか",
+      "に比べて",
+      "つ～つ",
+      "より"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'より' digunakan sebagai Perbandingan (Daripada). Digunakan dalam kalimat perbandingan untuk menandai standar pembandingnya (daripada X).",
+    "particle": "より"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Perbandingan (Daripada)'?\n\nContoh: バスより電車のほうが速いです (Kereta lebih cepat daripada bus).",
+    "options": [
+      "より",
+      "に応えて",
+      "てやまない",
+      "なり"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Digunakan dalam kalimat perbandingan untuk menandai standar pembandingnya (daripada X).",
+    "particle": "より"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n駅まで１０分___かかります。\n(Memakan waktu kira-kira 10 menit sampai stasiun.)",
+    "options": [
+      "たびに",
+      "なんて",
+      "ほど",
+      "のに"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'ほど' digunakan sebagai Kira-kira / Batas. Menunjukkan perkiraan jumlah/waktu (seperti \"gurai\").",
+    "particle": "ほど"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n３人___来ました。\n(Datang kira-kira 3 orang.)",
+    "options": [
+      "ほど",
+      "について",
+      "に基づいて",
+      "に比べて"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'ほど' digunakan sebagai Kira-kira / Batas. Menunjukkan perkiraan jumlah/waktu (seperti \"gurai\").",
+    "particle": "ほど"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n死ぬ___疲れました。\n(Lelah setengah mati (lelah sampai batas mau mati).)",
+    "options": [
+      "ほど",
+      "だけ",
+      "など",
+      "とあって"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'ほど' digunakan sebagai Kira-kira / Batas. Menunjukkan perkiraan jumlah/waktu (seperti \"gurai\").",
+    "particle": "ほど"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n山___宿題があります。\n(Ada PR sebanyak gunung.)",
+    "options": [
+      "に沿って",
+      "あっての",
+      "かな",
+      "ほど"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'ほど' digunakan sebagai Kira-kira / Batas. Menunjukkan perkiraan jumlah/waktu (seperti \"gurai\").",
+    "particle": "ほど"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n泣きたい___嬉しいです。\n(Senang sampai rasanya ingin menangis.)",
+    "options": [
+      "が",
+      "で",
+      "なくしては",
+      "ほど"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'ほど' digunakan sebagai Kira-kira / Batas. Menunjukkan perkiraan jumlah/waktu (seperti \"gurai\").",
+    "particle": "ほど"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Kira-kira / Batas'?\n\nContoh: 1時間ほど待ちました (Menunggu kira-kira 1 jam).",
+    "options": [
+      "も",
+      "ほど",
+      "たりとも",
+      "さいに"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Menunjukkan perkiraan jumlah/waktu (seperti \"gurai\").",
+    "particle": "ほど"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n英語は日本語___難しくないです。\n(Bahasa Inggris tidak sesulit bahasa Jepang.)",
+    "options": [
+      "きり",
+      "つ～つ",
+      "ほど",
+      "うちに"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'ほど' digunakan sebagai Tidak se- (Negatif). Dalam kalimat negatif, berarti \"Tidak se...\". Menunjukkan bahwa subjek tidak mencapai tingkat standar pembanding.",
+    "particle": "ほど"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n彼は私___背が高くありません。\n(Dia tidak setinggi saya.)",
+    "options": [
+      "とも",
+      "や",
+      "よ",
+      "ほど"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'ほど' digunakan sebagai Tidak se- (Negatif). Dalam kalimat negatif, berarti \"Tidak se...\". Menunjukkan bahwa subjek tidak mencapai tingkat standar pembanding.",
+    "particle": "ほど"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n週末___人が多くないです。\n(Orangnya tidak sebanyak saat akhir pekan.)",
+    "options": [
+      "あっての",
+      "ほど",
+      "ではあるまいし",
+      "に沿って"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'ほど' digunakan sebagai Tidak se- (Negatif). Dalam kalimat negatif, berarti \"Tidak se...\". Menunjukkan bahwa subjek tidak mencapai tingkat standar pembanding.",
+    "particle": "ほど"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\nそれ___でもないです。\n(Tidak sampai sebegitunya kok (merendah saat dipuji).)",
+    "options": [
+      "のみならず",
+      "ばかりに",
+      "ほど",
+      "や"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'ほど' digunakan sebagai Tidak se- (Negatif). Dalam kalimat negatif, berarti \"Tidak se...\". Menunjukkan bahwa subjek tidak mencapai tingkat standar pembanding.",
+    "particle": "ほど"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n痛いですが、泣く___ではありません。\n(Sakit sih, tapi tidak sampai (selevel) nangis.)",
+    "options": [
+      "まで",
+      "ほど",
+      "あっての",
+      "手前"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'ほど' digunakan sebagai Tidak se- (Negatif). Dalam kalimat negatif, berarti \"Tidak se...\". Menunjukkan bahwa subjek tidak mencapai tingkat standar pembanding.",
+    "particle": "ほど"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Tidak se- (Negatif)'?\n\nContoh: 今年は去年ほど暑くないです (Tahun ini tidak sepanas tahun lalu).",
+    "options": [
+      "こと",
+      "そばから",
+      "し",
+      "ほど"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Dalam kalimat negatif, berarti \"Tidak se...\". Menunjukkan bahwa subjek tidak mencapai tingkat standar pembanding.",
+    "particle": "ほど"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n映画___見に行きましょうか。\n(Bagaimana kalau kita pergi nonton film atau semacamnya?)",
+    "options": [
+      "は",
+      "ゆえに",
+      "ではあるまいし",
+      "でも"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'でも' digunakan sebagai Saran / Contoh. Mengajukan contoh secara halus, menyiratkan ada pilihan lain. \"Bagaimana kalau... atau semacamnya?\".",
+    "particle": "でも"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\nコーヒー___いかがですか。\n(Mau kopi atau yang lain?)",
+    "options": [
+      "に加えて",
+      "まで",
+      "が",
+      "でも"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'でも' digunakan sebagai Saran / Contoh. Mengajukan contoh secara halus, menyiratkan ada pilihan lain. \"Bagaimana kalau... atau semacamnya?\".",
+    "particle": "でも"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n日曜日___働きます。\n(Hari Minggu pun saya bekerja.)",
+    "options": [
+      "しか",
+      "でも",
+      "や",
+      "が"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'でも' digunakan sebagai Saran / Contoh. Mengajukan contoh secara halus, menyiratkan ada pilihan lain. \"Bagaimana kalau... atau semacamnya?\".",
+    "particle": "でも"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n子供___わかります。\n(Anak kecil pun mengerti.)",
+    "options": [
+      "さいに",
+      "極まりない",
+      "やら",
+      "でも"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'でも' digunakan sebagai Saran / Contoh. Mengajukan contoh secara halus, menyiratkan ada pilihan lain. \"Bagaimana kalau... atau semacamnya?\".",
+    "particle": "でも"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\nいつ___電話してください。\n(Silakan telepon kapan saja.)",
+    "options": [
+      "たびに",
+      "くらい",
+      "の",
+      "でも"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'でも' digunakan sebagai Saran / Contoh. Mengajukan contoh secara halus, menyiratkan ada pilihan lain. \"Bagaimana kalau... atau semacamnya?\".",
+    "particle": "でも"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Saran / Contoh'?\n\nContoh: お茶でも飲みませんか (Mau minum teh atau semacamnya?).",
+    "options": [
+      "にかけては",
+      "でも",
+      "けど",
+      "を通じて"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Mengajukan contoh secara halus, menyiratkan ada pilihan lain. \"Bagaimana kalau... atau semacamnya?\".",
+    "particle": "でも"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\nカバンの中に鍵や財布___があります。\n(Di tas ada kunci, dompet, dan sebagainya.)",
+    "options": [
+      "など",
+      "に基づいて",
+      "きり",
+      "が早いか"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'など' digunakan sebagai Dan lain-lain. Digunakan setelah menyebutkan beberapa contoh untuk menunjukkan masih ada hal lain yang tidak disebutkan.",
+    "particle": "など"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n日本の京都や奈良___へ行きたいです。\n(Saya ingin pergi ke Kyoto, Nara, dll di Jepang.)",
+    "options": [
+      "など",
+      "ばかり",
+      "ごとき",
+      "について"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'など' digunakan sebagai Dan lain-lain. Digunakan setelah menyebutkan beberapa contoh untuk menunjukkan masih ada hal lain yang tidak disebutkan.",
+    "particle": "など"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n休みの日はテニス___をします。\n(Hari libur saya main tenis dan lain-lain.)",
+    "options": [
+      "のに",
+      "にかこつけて",
+      "など",
+      "すら"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'など' digunakan sebagai Dan lain-lain. Digunakan setelah menyebutkan beberapa contoh untuk menunjukkan masih ada hal lain yang tidak disebutkan.",
+    "particle": "など"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n「バカ」___は悪い言葉です。\n(\"Bodoh\" dan sejenisnya adalah kata yang buruk.)",
+    "options": [
+      "なんて",
+      "をこめて",
+      "より",
+      "など"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'など' digunakan sebagai Dan lain-lain. Digunakan setelah menyebutkan beberapa contoh untuk menunjukkan masih ada hal lain yang tidak disebutkan.",
+    "particle": "など"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n納豆___が嫌いです。\n(Saya benci Natto dan semacamnya.)",
+    "options": [
+      "など",
+      "ないものでもない",
+      "ごとき",
+      "さいに"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'など' digunakan sebagai Dan lain-lain. Digunakan setelah menyebutkan beberapa contoh untuk menunjukkan masih ada hal lain yang tidak disebutkan.",
+    "particle": "など"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Dan lain-lain'?\n\nContoh: 机の上に本やペンなどがあります (Ada buku, pena, dsb di meja).",
+    "options": [
+      "とはいえ",
+      "にかけては",
+      "など",
+      "とばかりに"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Digunakan setelah menyebutkan beberapa contoh untuk menunjukkan masih ada hal lain yang tidak disebutkan.",
+    "particle": "など"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n彼___嫌いです。\n(Aku benci dia (dan segala tentang dia).)",
+    "options": [
+      "に応えて",
+      "なんて",
+      "に加えて",
+      "さいに"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'なんて' digunakan sebagai Merendahkan / Hal semacam. Versi percakapan dari \"nado\". Sering mengandung nuansa meremehkan, merendah, atau terkejut.",
+    "particle": "なんて"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n私___まだまだです。\n(Orang sekelas saya ini masih belum apa-apa (merendah).)",
+    "options": [
+      "とあって",
+      "をめぐって",
+      "や",
+      "なんて"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'なんて' digunakan sebagai Merendahkan / Hal semacam. Versi percakapan dari \"nado\". Sering mengandung nuansa meremehkan, merendah, atau terkejut.",
+    "particle": "なんて"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n結婚___したくない。\n(Aku nggak mau tuh yang namanya nikah.)",
+    "options": [
+      "ごとき",
+      "とあって",
+      "なんて",
+      "でも"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'なんて' digunakan sebagai Merendahkan / Hal semacam. Versi percakapan dari \"nado\". Sering mengandung nuansa meremehkan, merendah, atau terkejut.",
+    "particle": "なんて"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\nそんなこと言う___ひどい。\n(Tega sekali ngomong hal seperti itu.)",
+    "options": [
+      "に比べて",
+      "とばかりに",
+      "なんて",
+      "など"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'なんて' digunakan sebagai Merendahkan / Hal semacam. Versi percakapan dari \"nado\". Sering mengandung nuansa meremehkan, merendah, atau terkejut.",
+    "particle": "なんて"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Merendahkan / Hal semacam'?\n\nContoh: 勉強なんかしたくない (Gak mau tuh yang namanya belajar).",
+    "options": [
+      "から",
+      "なんて",
+      "だに",
+      "まで"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Versi percakapan dari \"nado\". Sering mengandung nuansa meremehkan, merendah, atau terkejut.",
+    "particle": "なんて"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n薬を飲みました___、熱が下がりません。\n(Sudah minum obat, tapi demam tidak turun.)",
+    "options": [
+      "が",
+      "について",
+      "を",
+      "てからというもの"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'が' digunakan sebagai Tetapi (Formal). Partikel penyambung kalimat yang menyatakan pertentangan \"Tetapi\". Lebih formal dari \"kedo\".",
+    "particle": "が"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\nすみません___、手伝ってください。\n(Maaf, tapi tolong bantu saya (pembuka percakapan).)",
+    "options": [
+      "が",
+      "と",
+      "なんて",
+      "ではあるまいし"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'が' digunakan sebagai Tetapi (Formal). Partikel penyambung kalimat yang menyatakan pertentangan \"Tetapi\". Lebih formal dari \"kedo\".",
+    "particle": "が"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n日本の食べ物は美味しいです___、高いです。\n(Makanan Jepang enak, tapi mahal.)",
+    "options": [
+      "につき",
+      "より",
+      "が",
+      "なり"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'が' digunakan sebagai Tetapi (Formal). Partikel penyambung kalimat yang menyatakan pertentangan \"Tetapi\". Lebih formal dari \"kedo\".",
+    "particle": "が"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n探しました___見つかりませんでした。\n(Sudah dicari tapi tidak ketemu.)",
+    "options": [
+      "たりとも",
+      "から",
+      "をこめて",
+      "が"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'が' digunakan sebagai Tetapi (Formal). Partikel penyambung kalimat yang menyatakan pertentangan \"Tetapi\". Lebih formal dari \"kedo\".",
+    "particle": "が"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n行きたいです___、時間がありません。\n(Saya ingin pergi, tapi tidak ada waktu.)",
+    "options": [
+      "そばから",
+      "が",
+      "ゆえに",
+      "につき"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'が' digunakan sebagai Tetapi (Formal). Partikel penyambung kalimat yang menyatakan pertentangan \"Tetapi\". Lebih formal dari \"kedo\".",
+    "particle": "が"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Tetapi (Formal)'?\n\nContoh: 行きましたが、閉まっていました (Saya sudah pergi, tapi tutup).",
+    "options": [
+      "から",
+      "の",
+      "だに",
+      "が"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel penyambung kalimat yang menyatakan pertentangan \"Tetapi\". Lebih formal dari \"kedo\".",
+    "particle": "が"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n元気だ___、忙しいです。\n(Sehat sih, tapi sibuk.)",
+    "options": [
+      "けど",
+      "だけ",
+      "手前",
+      "ばかりに"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'けど' digunakan sebagai Tetapi (Kasual). Sama seperti \"ga\" (tetapi), namun digunakan dalam percakapan sehari-hari yang lebih santai.",
+    "particle": "けど"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n雨が降っている___、行きます。\n(Hujan turun, tapi saya akan pergi.)",
+    "options": [
+      "けど",
+      "すら",
+      "きり",
+      "ばかり"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'けど' digunakan sebagai Tetapi (Kasual). Sama seperti \"ga\" (tetapi), namun digunakan dalam percakapan sehari-hari yang lebih santai.",
+    "particle": "けど"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\nこれ、欲しい___お金がない。\n(Aku mau ini, tapi nggak ada uang.)",
+    "options": [
+      "ね",
+      "に加えて",
+      "けど",
+      "だけ"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'けど' digunakan sebagai Tetapi (Kasual). Sama seperti \"ga\" (tetapi), namun digunakan dalam percakapan sehari-hari yang lebih santai.",
+    "particle": "けど"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n昨日は楽しかった___、疲れました。\n(Kemarin menyenangkan sih, tapi capek.)",
+    "options": [
+      "にかけては",
+      "てからというもの",
+      "ばかり",
+      "けど"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'けど' digunakan sebagai Tetapi (Kasual). Sama seperti \"ga\" (tetapi), namun digunakan dalam percakapan sehari-hari yang lebih santai.",
+    "particle": "けど"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\nもしもし、田中です___...。\n(Halo, ini Tanaka... (membiarkan kalimat gantung agar sopan).)",
+    "options": [
+      "につき",
+      "けど",
+      "なり",
+      "なんて"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'けど' digunakan sebagai Tetapi (Kasual). Sama seperti \"ga\" (tetapi), namun digunakan dalam percakapan sehari-hari yang lebih santai.",
+    "particle": "けど"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Tetapi (Kasual)'?\n\nContoh: 美味しいけど、高いです (Enak sih, tapi mahal).",
+    "options": [
+      "につき",
+      "けど",
+      "ばかりに",
+      "だけ"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Sama seperti \"ga\" (tetapi), namun digunakan dalam percakapan sehari-hari yang lebih santai.",
+    "particle": "けど"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n日曜日な___、働かなければなりません。\n(Padahal hari Minggu, tapi harus bekerja.)",
+    "options": [
+      "たら",
+      "のに",
+      "たりとも",
+      "をめぐって"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'のに' digunakan sebagai Padahal / Meskipun. Menyatakan pertentangan dengan nuansa kekecewaan, kaget, atau protes karena hasil tidak sesuai harapan.",
+    "particle": "のに"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n薬を飲んだ___、治りません。\n(Padahal sudah minum obat, tapi tidak sembuh.)",
+    "options": [
+      "くらい",
+      "のに",
+      "に比べて",
+      "たびに"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'のに' digunakan sebagai Padahal / Meskipun. Menyatakan pertentangan dengan nuansa kekecewaan, kaget, atau protes karena hasil tidak sesuai harapan.",
+    "particle": "のに"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n約束した___、彼が来ませんでした。\n(Padahal sudah janji, dia tidak datang.)",
+    "options": [
+      "とばかりに",
+      "だけ",
+      "は",
+      "のに"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'のに' digunakan sebagai Padahal / Meskipun. Menyatakan pertentangan dengan nuansa kekecewaan, kaget, atau protes karena hasil tidak sesuai harapan.",
+    "particle": "のに"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n高い___、美味しくないです。\n(Padahal mahal, tapi tidak enak.)",
+    "options": [
+      "を通じて",
+      "始末だ",
+      "で",
+      "のに"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'のに' digunakan sebagai Padahal / Meskipun. Menyatakan pertentangan dengan nuansa kekecewaan, kaget, atau protes karena hasil tidak sesuai harapan.",
+    "particle": "のに"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\nもう４月な___、寒いです。\n(Padahal sudah bulan April, tapi dingin.)",
+    "options": [
+      "すら",
+      "きり",
+      "ね",
+      "のに"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'のに' digunakan sebagai Padahal / Meskipun. Menyatakan pertentangan dengan nuansa kekecewaan, kaget, atau protes karena hasil tidak sesuai harapan.",
+    "particle": "のに"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Padahal / Meskipun'?\n\nContoh: 勉強したのに、不合格でした (Padahal sudah belajar, tapi tidak lulus).",
+    "options": [
+      "にかこつけて",
+      "ごとき",
+      "が早いか",
+      "のに"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Menyatakan pertentangan dengan nuansa kekecewaan, kaget, atau protes karena hasil tidak sesuai harapan.",
+    "particle": "のに"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n彼が走る___を見ました。\n(Saya melihat dia berlari.)",
+    "options": [
+      "が",
+      "の",
+      "そばから",
+      "は"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'の' digunakan sebagai Nominalisasi (Persepsi/Fokus). Mengubah kata kerja menjadi kata benda. Sering digunakan dengan kata kerja persepsi (melihat, mendengar, merasa) atau kalimat penekanan.",
+    "particle": "の"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n誰かが歌っている___が聞こえます。\n(Terdengar seseorang sedang bernyanyi.)",
+    "options": [
+      "ごとき",
+      "で",
+      "から",
+      "の"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'の' digunakan sebagai Nominalisasi (Persepsi/Fokus). Mengubah kata kerja menjadi kata benda. Sering digunakan dengan kata kerja persepsi (melihat, mendengar, merasa) atau kalimat penekanan.",
+    "particle": "の"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n私が生まれた___は京都です。\n(Tempat saya lahir adalah Kyoto.)",
+    "options": [
+      "かな",
+      "の",
+      "つ～つ",
+      "ばかりに"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'の' digunakan sebagai Nominalisasi (Persepsi/Fokus). Mengubah kata kerja menjadi kata benda. Sering digunakan dengan kata kerja persepsi (melihat, mendengar, merasa) atau kalimat penekanan.",
+    "particle": "の"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n日本語を話す___は難しいです。\n(Berbicara bahasa Jepang itu sulit.)",
+    "options": [
+      "ずくめ",
+      "とばかりに",
+      "の",
+      "なら"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'の' digunakan sebagai Nominalisasi (Persepsi/Fokus). Mengubah kata kerja menjadi kata benda. Sering digunakan dengan kata kerja persepsi (melihat, mendengar, merasa) atau kalimat penekanan.",
+    "particle": "の"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n薬を飲む___を忘れました。\n(Saya lupa minum obat.)",
+    "options": [
+      "か",
+      "の",
+      "に応えて",
+      "こと"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'の' digunakan sebagai Nominalisasi (Persepsi/Fokus). Mengubah kata kerja menjadi kata benda. Sering digunakan dengan kata kerja persepsi (melihat, mendengar, merasa) atau kalimat penekanan.",
+    "particle": "の"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Nominalisasi (Persepsi/Fokus)'?\n\nContoh: 彼が走るのを見ました (Saya melihat dia berlari).",
+    "options": [
+      "の",
+      "だけ",
+      "すら",
+      "たりとも"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Mengubah kata kerja menjadi kata benda. Sering digunakan dengan kata kerja persepsi (melihat, mendengar, merasa) atau kalimat penekanan.",
+    "particle": "の"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n私の趣味は本を読む___です。\n(Hobi saya adalah membaca buku.)",
+    "options": [
+      "とはいえ",
+      "すら",
+      "こと",
+      "たりとも"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'こと' digunakan sebagai Nominalisasi (Konsep/Fakta). Mengubah kata kerja menjadi kata benda. Lebih bersifat abstrak, fakta, atau konsep. Wajib untuk pola \"koto ga aru\", \"koto ga dekiru\".",
+    "particle": "こと"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n泳ぐ___ができます。\n(Saya bisa berenang.)",
+    "options": [
+      "こと",
+      "で",
+      "について",
+      "なり"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'こと' digunakan sebagai Nominalisasi (Konsep/Fakta). Mengubah kata kerja menjadi kata benda. Lebih bersifat abstrak, fakta, atau konsep. Wajib untuk pola \"koto ga aru\", \"koto ga dekiru\".",
+    "particle": "こと"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n富士山に登った___があります。\n(Saya pernah mendaki gunung Fuji.)",
+    "options": [
+      "こと",
+      "やら",
+      "も",
+      "し"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'こと' digunakan sebagai Nominalisasi (Konsep/Fakta). Mengubah kata kerja menjadi kata benda. Lebih bersifat abstrak, fakta, atau konsep. Wajib untuk pola \"koto ga aru\", \"koto ga dekiru\".",
+    "particle": "こと"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n大切な___は、諦めないことです。\n(Yang penting adalah tidak menyerah.)",
+    "options": [
+      "につき",
+      "について",
+      "やら",
+      "こと"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'こと' digunakan sebagai Nominalisasi (Konsep/Fakta). Mengubah kata kerja menjadi kata benda. Lebih bersifat abstrak, fakta, atau konsep. Wajib untuk pola \"koto ga aru\", \"koto ga dekiru\".",
+    "particle": "こと"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n彼が結婚する___を知っていますか。\n(Apa kamu tahu fakta bahwa dia akan menikah?)",
+    "options": [
+      "に先立って",
+      "へ",
+      "など",
+      "こと"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'こと' digunakan sebagai Nominalisasi (Konsep/Fakta). Mengubah kata kerja menjadi kata benda. Lebih bersifat abstrak, fakta, atau konsep. Wajib untuk pola \"koto ga aru\", \"koto ga dekiru\".",
+    "particle": "こと"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Nominalisasi (Konsep/Fakta)'?\n\nContoh: 趣味は映画を見ることです (Hobi saya menonton film).",
+    "options": [
+      "に対して",
+      "こと",
+      "だに",
+      "し"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Mengubah kata kerja menjadi kata benda. Lebih bersifat abstrak, fakta, atau konsep. Wajib untuk pola \"koto ga aru\", \"koto ga dekiru\".",
+    "particle": "こと"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n彼は来る___。\n(Dia bakal datang nggak ya...)",
+    "options": [
+      "が",
+      "かな",
+      "にかこつけて",
+      "のみならず"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'かな' digunakan sebagai Keraguan / Gumaman. Partikel akhir kalimat untuk bertanya pada diri sendiri, menunjukkan keraguan, atau berharap secara halus.",
+    "particle": "かな"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\nどうしよう___。\n(Gimana ya... (harus ngapain ya).)",
+    "options": [
+      "うちに",
+      "かな",
+      "たら",
+      "すら"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'かな' digunakan sebagai Keraguan / Gumaman. Partikel akhir kalimat untuk bertanya pada diri sendiri, menunjukkan keraguan, atau berharap secara halus.",
+    "particle": "かな"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\nこれ、いい___。\n(Ini bagus nggak ya...)",
+    "options": [
+      "とあれば",
+      "あっての",
+      "かな",
+      "と"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'かな' digunakan sebagai Keraguan / Gumaman. Partikel akhir kalimat untuk bertanya pada diri sendiri, menunjukkan keraguan, atau berharap secara halus.",
+    "particle": "かな"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n宝くじ、当たらない___。\n(Menang lotre nggak ya (berharap)...)",
+    "options": [
+      "につき",
+      "し",
+      "に先立って",
+      "かな"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'かな' digunakan sebagai Keraguan / Gumaman. Partikel akhir kalimat untuk bertanya pada diri sendiri, menunjukkan keraguan, atau berharap secara halus.",
+    "particle": "かな"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\nバスはまだ___。\n(Busnya belum datang juga ya...)",
+    "options": [
+      "について",
+      "極まりない",
+      "かな",
+      "くらい"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'かな' digunakan sebagai Keraguan / Gumaman. Partikel akhir kalimat untuk bertanya pada diri sendiri, menunjukkan keraguan, atau berharap secara halus.",
+    "particle": "かな"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Keraguan / Gumaman'?\n\nContoh: 明日は晴れるかな (Besok cerah nggak ya...).",
+    "options": [
+      "ないものでもない",
+      "かな",
+      "つ～つ",
+      "が早いか"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel akhir kalimat untuk bertanya pada diri sendiri, menunjukkan keraguan, atau berharap secara halus.",
+    "particle": "かな"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\nこのボタンを押す___、水が出ます。\n(Jika tombol ini ditekan, air akan keluar.)",
+    "options": [
+      "と",
+      "だに",
+      "こと",
+      "たりとも"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'と' digunakan sebagai Jika (Otomatis/Alamiah). Kondisional: Jika A terjadi, maka B PASTI terjadi. Digunakan untuk instruksi mesin, fenomena alam, atau kebiasaan.",
+    "particle": "と"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n右へ曲がる___、駅があります。\n(Jika belok kanan, ada stasiun.)",
+    "options": [
+      "よ",
+      "ばかりに",
+      "と",
+      "も"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'と' digunakan sebagai Jika (Otomatis/Alamiah). Kondisional: Jika A terjadi, maka B PASTI terjadi. Digunakan untuk instruksi mesin, fenomena alam, atau kebiasaan.",
+    "particle": "と"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n酒を飲む___、顔が赤くなります。\n(Kalau minum alkohol, wajah jadi merah.)",
+    "options": [
+      "かな",
+      "つ～つ",
+      "にわたって",
+      "と"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'と' digunakan sebagai Jika (Otomatis/Alamiah). Kondisional: Jika A terjadi, maka B PASTI terjadi. Digunakan untuk instruksi mesin, fenomena alam, atau kebiasaan.",
+    "particle": "と"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n真っ直ぐ行く___、左にあります。\n(Kalau jalan lurus, ada di sebelah kiri.)",
+    "options": [
+      "ごとき",
+      "とあれば",
+      "きり",
+      "と"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'と' digunakan sebagai Jika (Otomatis/Alamiah). Kondisional: Jika A terjadi, maka B PASTI terjadi. Digunakan untuk instruksi mesin, fenomena alam, atau kebiasaan.",
+    "particle": "と"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n冬になる___、寒くなります。\n(Jika masuk musim dingin, udara jadi dingin.)",
+    "options": [
+      "問わず",
+      "や",
+      "と",
+      "あっての"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'と' digunakan sebagai Jika (Otomatis/Alamiah). Kondisional: Jika A terjadi, maka B PASTI terjadi. Digunakan untuk instruksi mesin, fenomena alam, atau kebiasaan.",
+    "particle": "と"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Jika (Otomatis/Alamiah)'?\n\nContoh: 春になると、花が咲きます (Jika musim semi tiba, bunga mekar).",
+    "options": [
+      "で",
+      "と",
+      "きり",
+      "問わず"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Kondisional: Jika A terjadi, maka B PASTI terjadi. Digunakan untuk instruksi mesin, fenomena alam, atau kebiasaan.",
+    "particle": "と"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\nパソコンを買う___、あの店がいいですよ。\n(Kalau mau beli komputer, toko itu bagus lho.)",
+    "options": [
+      "で",
+      "くらい",
+      "だけ",
+      "なら"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'なら' digunakan sebagai Kalau (Topik/Saran). Mengangkat topik yang dibicarakan lawan bicara lalu memberikan saran atau komentar.",
+    "particle": "なら"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n田中さん___、帰りましたよ。\n(Kalau (yang kamu cari) Sdr. Tanaka, dia sudah pulang.)",
+    "options": [
+      "に比べて",
+      "なら",
+      "とはいえ",
+      "始末だ"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'なら' digunakan sebagai Kalau (Topik/Saran). Mengangkat topik yang dibicarakan lawan bicara lalu memberikan saran atau komentar.",
+    "particle": "なら"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n安い___、買います。\n(Kalau murah, saya beli.)",
+    "options": [
+      "ごとき",
+      "手前",
+      "にかけては",
+      "なら"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'なら' digunakan sebagai Kalau (Topik/Saran). Mengangkat topik yang dibicarakan lawan bicara lalu memberikan saran atau komentar.",
+    "particle": "なら"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n明日___、暇です。\n(Kalau besok, saya senggang.)",
+    "options": [
+      "すら",
+      "なら",
+      "とか",
+      "に加えて"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'なら' digunakan sebagai Kalau (Topik/Saran). Mengangkat topik yang dibicarakan lawan bicara lalu memberikan saran atau komentar.",
+    "particle": "なら"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n嫌___、やらなくてもいいです。\n(Kalau tidak suka, tidak usah dilakukan.)",
+    "options": [
+      "始末だ",
+      "なら",
+      "ではあるまいし",
+      "が早いか"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'なら' digunakan sebagai Kalau (Topik/Saran). Mengangkat topik yang dibicarakan lawan bicara lalu memberikan saran atau komentar.",
+    "particle": "なら"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Kalau (Topik/Saran)'?\n\nContoh: 東京へ行くなら、新幹線が便利です (Kalau pergi ke Tokyo, Shinkansen praktis).",
+    "options": [
+      "こと",
+      "なら",
+      "をこめて",
+      "すら"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Mengangkat topik yang dibicarakan lawan bicara lalu memberikan saran atau komentar.",
+    "particle": "なら"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\nお金があっ___、旅行したいです。\n(Kalau punya uang, saya ingin traveling.)",
+    "options": [
+      "は",
+      "すら",
+      "たら",
+      "始末だ"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'たら' digunakan sebagai Kalau / Setelah. Kondisional paling umum. Bisa berarti \"Jika\" atau \"Setelah\". Fokus pada hasil setelah syarat terpenuhi.",
+    "particle": "たら"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n駅に着い___、電話してください。\n(Kalau/Setelah sampai stasiun, tolong telepon.)",
+    "options": [
+      "たら",
+      "にかこつけて",
+      "か",
+      "とばかりに"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'たら' digunakan sebagai Kalau / Setelah. Kondisional paling umum. Bisa berarti \"Jika\" atau \"Setelah\". Fokus pada hasil setelah syarat terpenuhi.",
+    "particle": "たら"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n夏休みになっ___、国へ帰ります。\n(Kalau sudah libur musim panas, saya pulang kampung.)",
+    "options": [
+      "だけ",
+      "きり",
+      "けど",
+      "たら"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'たら' digunakan sebagai Kalau / Setelah. Kondisional paling umum. Bisa berarti \"Jika\" atau \"Setelah\". Fokus pada hasil setelah syarat terpenuhi.",
+    "particle": "たら"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n時間があっ___、手伝ってください。\n(Kalau ada waktu, tolong bantu saya.)",
+    "options": [
+      "きり",
+      "で",
+      "たら",
+      "にとって"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'たら' digunakan sebagai Kalau / Setelah. Kondisional paling umum. Bisa berarti \"Jika\" atau \"Setelah\". Fokus pada hasil setelah syarat terpenuhi.",
+    "particle": "たら"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Kalau / Setelah'?\n\nContoh: 雨が降ったら、行きません (Kalau hujan, saya tidak pergi).",
+    "options": [
+      "ばかりに",
+      "たら",
+      "たりとも",
+      "かな"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N4",
+    "inputType": "CHOICE",
+    "explanation": "Kondisional paling umum. Bisa berarti \"Jika\" atau \"Setelah\". Fokus pada hasil setelah syarat terpenuhi.",
+    "particle": "たら"
+  }
+]

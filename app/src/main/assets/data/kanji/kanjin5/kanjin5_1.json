@@ -1,0 +1,1202 @@
+[
+  {
+    "kanji": "一",
+    "onyomi": { "hiragana": "イチ, イツ", "romaji": "ichi, itsu" },
+    "kunyomi": { "hiragana": "ひと, ひと（つ）", "romaji": "hito, hito(tsu)" },
+    "vocabulary": [
+      { "word": "一", "reading": "いち", "meaning": "Satu" },
+      { "word": "一つ", "reading": "ひとつ", "meaning": "Satu buah" },
+      { "word": "一日", "reading": "ついたち", "meaning": "Tanggal satu" }
+    ],
+    "example_sentence": { "japanese": "りんごを一つください。", "indonesian": "Tolong beri saya satu buah apel." },
+    "story": "Satu garis horizontal sederhana yang melambangkan angka satu."
+  },
+  {
+    "kanji": "二",
+    "onyomi": { "hiragana": "ニ, ジ", "romaji": "ni, ji" },
+    "kunyomi": { "hiragana": "ふた, ふた（つ）", "romaji": "futa, futa(tsu)" },
+    "vocabulary": [
+      { "word": "二", "reading": "に", "meaning": "Dua" },
+      { "word": "二つ", "reading": "ふたつ", "meaning": "Dua buah" },
+      { "word": "二月", "reading": "にがつ", "meaning": "Februari" }
+    ],
+    "example_sentence": { "japanese": "猫が二匹います。", "indonesian": "Ada dua ekor kucing." },
+    "story": "Dua garis horizontal yang melambangkan angka dua."
+  },
+  {
+    "kanji": "三",
+    "onyomi": { "hiragana": "サン", "romaji": "san" },
+    "kunyomi": { "hiragana": "み, み（っつ）", "romaji": "mi, mi(ttsu)" },
+    "vocabulary": [
+      { "word": "三", "reading": "さん", "meaning": "Tiga" },
+      { "word": "三つ", "reading": "みっつ", "meaning": "Tiga buah" },
+      { "word": "三日", "reading": "みっか", "meaning": "Tanggal tiga / Tiga hari" }
+    ],
+    "example_sentence": { "japanese": "三日後に会いましょう。", "indonesian": "Mari bertemu tiga hari lagi." },
+    "story": "Tiga garis horizontal yang melambangkan angka tiga."
+  },
+  {
+    "kanji": "四",
+    "onyomi": { "hiragana": "シ", "romaji": "shi" },
+    "kunyomi": { "hiragana": "よ, よ（っつ）, よん", "romaji": "yo, yo(ttsu), yon" },
+    "vocabulary": [
+      { "word": "四", "reading": "よん", "meaning": "Empat" },
+      { "word": "四つ", "reading": "よっつ", "meaning": "Empat buah" },
+      { "word": "四月", "reading": "しがつ", "meaning": "April" }
+    ],
+    "example_sentence": { "japanese": "四月に日本へ行きます。", "indonesian": "Saya akan pergi ke Jepang pada bulan April." },
+    "story": "Bentuk kotak yang mewakili empat arah mata angin, dengan sesuatu di dalamnya."
+  },
+  {
+    "kanji": "五",
+    "onyomi": { "hiragana": "ゴ", "romaji": "go" },
+    "kunyomi": { "hiragana": "いつ, いつ（つ）", "romaji": "itsu, itsu(tsu)" },
+    "vocabulary": [
+      { "word": "五", "reading": "ご", "meaning": "Lima" },
+      { "word": "五つ", "reading": "いつつ", "meaning": "Lima buah" },
+      { "word": "五日", "reading": "いつか", "meaning": "Tanggal lima / Lima hari" }
+    ],
+    "example_sentence": { "japanese": "毎日五時に起きます。", "indonesian": "Saya bangun jam lima setiap hari." },
+    "story": "Garis atas dan bawah, bersilangan di tengah, melambangkan angka lima."
+  },
+  {
+    "kanji": "六",
+    "onyomi": { "hiragana": "ロク", "romaji": "roku" },
+    "kunyomi": { "hiragana": "む, む（っつ）", "romaji": "mu, mu(ttsu)" },
+    "vocabulary": [
+      { "word": "六", "reading": "ろく", "meaning": "Enam" },
+      { "word": "六つ", "reading": "むっつ", "meaning": "Enam buah" },
+      { "word": "六日", "reading": "むいか", "meaning": "Tanggal enam / Enam hari" }
+    ],
+    "example_sentence": { "japanese": "六人の学生がいます。", "indonesian": "Ada enam orang siswa." },
+    "story": "Seorang manusia dengan dua kaki direntangkan dan dua tangan menunjuk ke bawah membentuk angka enam."
+  },
+  {
+    "kanji": "七",
+    "onyomi": { "hiragana": "シチ", "romaji": "shichi" },
+    "kunyomi": { "hiragana": "なな, なな（つ）", "romaji": "nana, nana(tsu)" },
+    "vocabulary": [
+      { "word": "七", "reading": "なな", "meaning": "Tujuh" },
+      { "word": "七つ", "reading": "ななつ", "meaning": "Tujuh buah" },
+      { "word": "七月", "reading": "しちがつ", "meaning": "Juli" }
+    ],
+    "example_sentence": { "japanese": "七月はとても暑いです。", "indonesian": "Bulan Juli sangat panas." },
+    "story": "Membentuk silang yang terpotong dan agak terbalik, mirip dengan bentuk angka 7 yang ditulis dengan gaya tertentu."
+  },
+  {
+    "kanji": "八",
+    "onyomi": { "hiragana": "ハチ", "romaji": "hachi" },
+    "kunyomi": { "hiragana": "や, や（っつ）", "romaji": "ya, ya(ttsu)" },
+    "vocabulary": [
+      { "word": "八", "reading": "はち", "meaning": "Delapan" },
+      { "word": "八つ", "reading": "やっつ", "meaning": "Delapan buah" },
+      { "word": "八百屋", "reading": "やおや", "meaning": "Toko sayur" }
+    ],
+    "example_sentence": { "japanese": "八時に仕事が始まります。", "indonesian": "Pekerjaan dimulai pada jam delapan." },
+    "story": "Dua garis yang terbuka ke bawah, melambangkan pemisahan atau pembagian menjadi delapan."
+  },
+  {
+    "kanji": "九",
+    "onyomi": { "hiragana": "キュウ, ク", "romaji": "kyuu, ku" },
+    "kunyomi": { "hiragana": "ここの, ここの（つ）", "romaji": "kokono, kokono(tsu)" },
+    "vocabulary": [
+      { "word": "九", "reading": "きゅう", "meaning": "Sembilan" },
+      { "word": "九つ", "reading": "ここのつ", "meaning": "Sembilan buah" },
+      { "word": "九月", "reading": "くがつ", "meaning": "September" }
+    ],
+    "example_sentence": { "japanese": "九月に大学が始まります。", "indonesian": "Universitas dimulai pada bulan September." },
+    "story": "Terlihat seperti lengan yang sedang menekuk dan mengerahkan tenaga maksimal (angka tunggal terbesar)."
+  },
+  {
+    "kanji": "十",
+    "onyomi": { "hiragana": "ジュウ, ジッ", "romaji": "juu, ji" },
+    "kunyomi": { "hiragana": "とお", "romaji": "too" },
+    "vocabulary": [
+      { "word": "十", "reading": "じゅう", "meaning": "Sepuluh" },
+      { "word": "十日", "reading": "とおか", "meaning": "Tanggal sepuluh / Sepuluh hari" },
+      { "word": "十分", "reading": "じゅっぷん", "meaning": "Sepuluh menit" }
+    ],
+    "example_sentence": { "japanese": "駅まで歩いて十分かかります。", "indonesian": "Butuh sepuluh menit berjalan kaki ke stasiun." },
+    "story": "Garis vertikal dan horizontal yang membentuk salib, melambangkan kepenuhan atau kesempurnaan (sepuluh)."
+  },
+  {
+    "kanji": "日",
+    "onyomi": { "hiragana": "ニチ, ジツ", "romaji": "nichi, jitsu" },
+    "kunyomi": { "hiragana": "ひ, -び, -か", "romaji": "hi, -bi, -ka" },
+    "vocabulary": [
+      { "word": "日本", "reading": "にほん", "meaning": "Jepang" },
+      { "word": "日曜日", "reading": "にちようび", "meaning": "Hari Minggu" },
+      { "word": "今日", "reading": "きょう", "meaning": "Hari ini" }
+    ],
+    "example_sentence": { "japanese": "今日は天気がいいです。", "indonesian": "Hari ini cuacanya cerah." },
+    "story": "Bentuk kotak dengan garis di tengahnya melambangkan matahari."
+  },
+  {
+    "kanji": "月",
+    "onyomi": { "hiragana": "ゲツ, ガツ", "romaji": "getsu, gatsu" },
+    "kunyomi": { "hiragana": "つき", "romaji": "tsuki" },
+    "vocabulary": [
+      { "word": "月", "reading": "つき", "meaning": "Bulan" },
+      { "word": "月曜日", "reading": "げつようび", "meaning": "Hari Senin" },
+      { "word": "一ヶ月", "reading": "いっかげつ", "meaning": "Satu bulan (durasi)" }
+    ],
+    "example_sentence": { "japanese": "夜空にきれいな月が見えます。", "indonesian": "Bulan yang indah terlihat di langit malam." },
+    "story": "Gambar yang menyerupai bentuk bulan sabit dengan awan melintasinya."
+  },
+  {
+    "kanji": "火",
+    "onyomi": { "hiragana": "カ", "romaji": "ka" },
+    "kunyomi": { "hiragana": "ひ, -び, ほ-", "romaji": "hi, -bi, ho-" },
+    "vocabulary": [
+      { "word": "火", "reading": "ひ", "meaning": "Api" },
+      { "word": "火曜日", "reading": "かようび", "meaning": "Hari Selasa" },
+      { "word": "花火", "reading": "はなび", "meaning": "Kembang api" }
+    ],
+    "example_sentence": { "japanese": "火の取り扱いに注意してください。", "indonesian": "Tolong berhati-hati dalam menangani api." },
+    "story": "Terlihat seperti percikan lidah api yang menyala ke atas."
+  },
+  {
+    "kanji": "水",
+    "onyomi": { "hiragana": "スイ", "romaji": "sui" },
+    "kunyomi": { "hiragana": "みず", "romaji": "mizu" },
+    "vocabulary": [
+      { "word": "水", "reading": "みず", "meaning": "Air" },
+      { "word": "水曜日", "reading": "すいようび", "meaning": "Hari Rabu" },
+      { "word": "水道", "reading": "すいどう", "meaning": "Saluran air / PAM" }
+    ],
+    "example_sentence": { "japanese": "冷たい水を飲みます。", "indonesian": "Saya minum air dingin." },
+    "story": "Melambangkan aliran sungai dengan pusaran air di sisi kiri dan kanannya."
+  },
+  {
+    "kanji": "木",
+    "onyomi": { "hiragana": "ボク, モク", "romaji": "boku, moku" },
+    "kunyomi": { "hiragana": "き, こ-", "romaji": "ki, ko-" },
+    "vocabulary": [
+      { "word": "木", "reading": "き", "meaning": "Pohon / Kayu" },
+      { "word": "木曜日", "reading": "もくようび", "meaning": "Hari Kamis" },
+      { "word": "木綿", "reading": "もめん", "meaning": "Kapas" }
+    ],
+    "example_sentence": { "japanese": "庭に大きな木があります。", "indonesian": "Ada pohon besar di halaman." },
+    "story": "Bentuknya menyerupai batang pohon dengan dahan di atas dan akar di bawah."
+  },
+  {
+    "kanji": "金",
+    "onyomi": { "hiragana": "キン, コン, ゴン", "romaji": "kin, kon, gon" },
+    "kunyomi": { "hiragana": "かね, かな-, -がね", "romaji": "kane, kana-, -gane" },
+    "vocabulary": [
+      { "word": "お金", "reading": "おかね", "meaning": "Uang" },
+      { "word": "金曜日", "reading": "きんようび", "meaning": "Hari Jumat" },
+      { "word": "金持ち", "reading": "かねもち", "meaning": "Orang kaya" }
+    ],
+    "example_sentence": { "japanese": "財布の中にお金がありません。", "indonesian": "Tidak ada uang di dalam dompet." },
+    "story": "Melambangkan emas atau bongkahan logam berharga yang terkubur di bawah tanah."
+  },
+  {
+    "kanji": "土",
+    "onyomi": { "hiragana": "ド, ト", "romaji": "do, to" },
+    "kunyomi": { "hiragana": "つち", "romaji": "tsuchi" },
+    "vocabulary": [
+      { "word": "土", "reading": "つち", "meaning": "Tanah" },
+      { "word": "土曜日", "reading": "どようび", "meaning": "Hari Sabtu" },
+      { "word": "お土産", "reading": "おみやげ", "meaning": "Oleh-oleh" }
+    ],
+    "example_sentence": { "japanese": "土曜日に映画を見に行きます。", "indonesian": "Saya pergi menonton film pada hari Sabtu." },
+    "story": "Mewakili tanaman atau bibit yang menembus keluar dari permukaan tanah."
+  },
+  {
+    "kanji": "人",
+    "onyomi": { "hiragana": "ジン, ニン", "romaji": "jin, nin" },
+    "kunyomi": { "hiragana": "ひと", "romaji": "hito" },
+    "vocabulary": [
+      { "word": "人", "reading": "ひと", "meaning": "Orang" },
+      { "word": "日本人", "reading": "にほんじん", "meaning": "Orang Jepang" },
+      { "word": "大人", "reading": "おとな", "meaning": "Orang dewasa" }
+    ],
+    "example_sentence": { "japanese": "あの人は私の先生です。", "indonesian": "Orang itu adalah guru saya." },
+    "story": "Bentuk seseorang yang sedang melangkah maju atau berdiri dengan dua kaki."
+  },
+  {
+    "kanji": "男",
+    "onyomi": { "hiragana": "ダン, ナン", "romaji": "dan, nan" },
+    "kunyomi": { "hiragana": "おとこ", "romaji": "otoko" },
+    "vocabulary": [
+      { "word": "男", "reading": "おとこ", "meaning": "Laki-laki" },
+      { "word": "男の子", "reading": "おとこのこ", "meaning": "Anak laki-laki" },
+      { "word": "男性", "reading": "だんせい", "meaning": "Pria" }
+    ],
+    "example_sentence": { "japanese": "あそこに男の人がいます。", "indonesian": "Ada seorang laki-laki di sana." },
+    "story": "Gabungan dari kanji sawah (田) dan tenaga (力), karena pria zaman dulu bekerja menguras tenaga di sawah."
+  },
+  {
+    "kanji": "女",
+    "onyomi": { "hiragana": "ジョ, ニョ, ニョウ", "romaji": "jo, nyo, nyou" },
+    "kunyomi": { "hiragana": "おんな, め", "romaji": "onna, me" },
+    "vocabulary": [
+      { "word": "女", "reading": "おんな", "meaning": "Perempuan" },
+      { "word": "女の子", "reading": "おんなのこ", "meaning": "Anak perempuan" },
+      { "word": "女性", "reading": "じょせい", "meaning": "Wanita" }
+    ],
+    "example_sentence": { "japanese": "彼女はきれいな女の人です。", "indonesian": "Dia adalah perempuan yang cantik." },
+    "story": "Bentuk siluet seorang perempuan yang sedang duduk dengan sopan bersilang kaki."
+  },
+  {
+    "kanji": "子",
+    "onyomi": { "hiragana": "シ, ス", "romaji": "shi, su" },
+    "kunyomi": { "hiragana": "こ", "romaji": "ko" },
+    "vocabulary": [
+      { "word": "子", "reading": "こ", "meaning": "Anak" },
+      { "word": "子供", "reading": "こども", "meaning": "Anak-anak" },
+      { "word": "女の子", "reading": "おんなのこ", "meaning": "Anak perempuan" }
+    ],
+    "example_sentence": { "japanese": "公園で子供が遊んでいます。", "indonesian": "Anak-anak sedang bermain di taman." },
+    "story": "Gambar bayi yang dibedong dengan kedua tangannya terentang ke samping."
+  },
+  {
+    "kanji": "学",
+    "onyomi": { "hiragana": "ガク", "romaji": "gaku" },
+    "kunyomi": { "hiragana": "まな（ぶ）", "romaji": "mana(bu)" },
+    "vocabulary": [
+      { "word": "学生", "reading": "がくせい", "meaning": "Mahasiswa / Siswa" },
+      { "word": "学校", "reading": "がっこう", "meaning": "Sekolah" },
+      { "word": "大学", "reading": "だいがく", "meaning": "Universitas" }
+    ],
+    "example_sentence": { "japanese": "私は日本語を学んでいます。", "indonesian": "Saya sedang belajar bahasa Jepang." },
+    "story": "Anak (子) yang berada di dalam gedung sekolah yang memiliki atap, tempat ia belajar."
+  },
+  {
+    "kanji": "生",
+    "onyomi": { "hiragana": "セイ, ショウ", "romaji": "sei, shou" },
+    "kunyomi": { "hiragana": "い（きる）, う（まれる）, なま", "romaji": "i(kiru), u(mareru), nama" },
+    "vocabulary": [
+      { "word": "先生", "reading": "せんせい", "meaning": "Guru" },
+      { "word": "誕生日", "reading": "たんじょうび", "meaning": "Hari ulang tahun" },
+      { "word": "生まれる", "reading": "うまれる", "meaning": "Lahir" }
+    ],
+    "example_sentence": { "japanese": "先生、おはようございます。", "indonesian": "Guru, selamat pagi." },
+    "story": "Tunas tanaman muda yang tumbuh menembus dari dalam tanah, melambangkan kehidupan."
+  },
+  {
+    "kanji": "先",
+    "onyomi": { "hiragana": "セン", "romaji": "sen" },
+    "kunyomi": { "hiragana": "さき", "romaji": "saki" },
+    "vocabulary": [
+      { "word": "先生", "reading": "せんせい", "meaning": "Guru" },
+      { "word": "先月", "reading": "せんげつ", "meaning": "Bulan lalu" },
+      { "word": "先週", "reading": "せんしゅう", "meaning": "Minggu lalu" }
+    ],
+    "example_sentence": { "japanese": "先週、日本へ行きました。", "indonesian": "Minggu lalu, saya pergi ke Jepang." },
+    "story": "Seseorang yang sedang melangkahkan kaki mendahului yang lain (berada di depan)."
+  },
+  {
+    "kanji": "校",
+    "onyomi": { "hiragana": "コウ", "romaji": "kou" },
+    "kunyomi": { "hiragana": "-", "romaji": "-" },
+    "vocabulary": [
+      { "word": "学校", "reading": "がっこう", "meaning": "Sekolah" },
+      { "word": "小学校", "reading": "しょうがっこう", "meaning": "Sekolah Dasar (SD)" },
+      { "word": "中学校", "reading": "ちゅうがっこう", "meaning": "Sekolah Menengah Pertama (SMP)" }
+    ],
+    "example_sentence": { "japanese": "明日、学校へ行きます。", "indonesian": "Besok, saya akan pergi ke sekolah." },
+    "story": "Bangunan dari kayu (木) di mana banyak orang berkumpul (交) untuk menuntut ilmu."
+  },
+  {
+    "kanji": "本",
+    "onyomi": { "hiragana": "ホン", "romaji": "hon" },
+    "kunyomi": { "hiragana": "もと", "romaji": "moto" },
+    "vocabulary": [
+      { "word": "本", "reading": "ほん", "meaning": "Buku" },
+      { "word": "日本", "reading": "にほん", "meaning": "Jepang" },
+      { "word": "本棚", "reading": "ほんだな", "meaning": "Rak buku" }
+    ],
+    "example_sentence": { "japanese": "この本はとても面白いです。", "indonesian": "Buku ini sangat menarik." },
+    "story": "Pohon (木) yang diberi garis di bagian pangkalnya/akarnya, melambangkan dasar atau asal mula (seperti buku yang menjadi dasar ilmu)."
+  },
+  {
+    "kanji": "語",
+    "onyomi": { "hiragana": "ゴ", "romaji": "go" },
+    "kunyomi": { "hiragana": "かた（る）", "romaji": "kata(ru)" },
+    "vocabulary": [
+      { "word": "日本語", "reading": "にほんご", "meaning": "Bahasa Jepang" },
+      { "word": "英語", "reading": "えいご", "meaning": "Bahasa Inggris" },
+      { "word": "外国語", "reading": "がいこくご", "meaning": "Bahasa Asing" }
+    ],
+    "example_sentence": { "japanese": "私は日本語を話します。", "indonesian": "Saya berbicara bahasa Jepang." },
+    "story": "Terdiri dari kata/ucapan (言), lima (五), dan mulut (口). Kata-kata yang keluar dari berbagai mulut membentuk sebuah bahasa."
+  },
+  {
+    "kanji": "何",
+    "onyomi": { "hiragana": "カ", "romaji": "ka" },
+    "kunyomi": { "hiragana": "なに, なん", "romaji": "nani, nan" },
+    "vocabulary": [
+      { "word": "何", "reading": "なに", "meaning": "Apa" },
+      { "word": "何時", "reading": "なんじ", "meaning": "Jam berapa" },
+      { "word": "何か", "reading": "なにか", "meaning": "Sesuatu" }
+    ],
+    "example_sentence": { "japanese": "これは何ですか。", "indonesian": "Ini apa?" },
+    "story": "Orang (亻) yang sedang memikul beban sambil bertanya-tanya, 'Barang apa ini?'"
+  },
+  {
+    "kanji": "年",
+    "onyomi": { "hiragana": "ネン", "romaji": "nen" },
+    "kunyomi": { "hiragana": "とし", "romaji": "toshi" },
+    "vocabulary": [
+      { "word": "今年", "reading": "ことし", "meaning": "Tahun ini" },
+      { "word": "来年", "reading": "らいねん", "meaning": "Tahun depan" },
+      { "word": "去年", "reading": "きょねん", "meaning": "Tahun lalu" }
+    ],
+    "example_sentence": { "japanese": "来年、日本に行きます。", "indonesian": "Tahun depan, saya akan pergi ke Jepang." },
+    "story": "Seseorang yang sedang mengumpulkan atau memikul hasil panen yang terjadi sekali setiap tahun."
+  },
+  {
+    "kanji": "大",
+    "onyomi": { "hiragana": "ダイ, タイ", "romaji": "dai, tai" },
+    "kunyomi": { "hiragana": "おお（きい）", "romaji": "oo(kii)" },
+    "vocabulary": [
+      { "word": "大きい", "reading": "おおきい", "meaning": "Besar" },
+      { "word": "大学", "reading": "だいがく", "meaning": "Universitas" },
+      { "word": "大人", "reading": "おとな", "meaning": "Orang dewasa" }
+    ],
+    "example_sentence": { "japanese": "その犬はとても大きいです。", "indonesian": "Anjing itu sangat besar." },
+    "story": "Seseorang yang merentangkan kedua tangan dan kakinya lebar-lebar untuk menggambarkan ukuran yang besar."
+  },
+  {
+    "kanji": "小",
+    "onyomi": { "hiragana": "ショウ", "romaji": "shou" },
+    "kunyomi": { "hiragana": "ちい（さい）, こ-, お-", "romaji": "chii(sai), ko-, o-" },
+    "vocabulary": [
+      { "word": "小さい", "reading": "ちいさい", "meaning": "Kecil" },
+      { "word": "小学校", "reading": "しょうがっこう", "meaning": "Sekolah Dasar (SD)" },
+      { "word": "小川", "reading": "おがわ", "meaning": "Sungai kecil" }
+    ],
+    "example_sentence": { "japanese": "私の部屋は小さいです。", "indonesian": "Kamar saya kecil." },
+    "story": "Benda yang dibelah di tengahnya, lalu serpihannya terbagi ke kiri dan kanan menjadi kecil-kecil."
+  },
+  {
+    "kanji": "中",
+    "onyomi": { "hiragana": "チュウ", "romaji": "chuu" },
+    "kunyomi": { "hiragana": "なか", "romaji": "naka" },
+    "vocabulary": [
+      { "word": "中", "reading": "なか", "meaning": "Di dalam / Tengah" },
+      { "word": "中国", "reading": "ちゅうごく", "meaning": "Tiongkok / China" },
+      { "word": "中学校", "reading": "ちゅうがっこう", "meaning": "Sekolah Menengah Pertama (SMP)" }
+    ],
+    "example_sentence": { "japanese": "かばんの中に本があります。", "indonesian": "Ada buku di dalam tas." },
+    "story": "Sebuah target kotak atau lingkaran yang tertusuk tiang lurus tepat pada bagian tengahnya."
+  },
+  {
+    "kanji": "高",
+    "onyomi": { "hiragana": "コウ", "romaji": "kou" },
+    "kunyomi": { "hiragana": "たか（い）", "romaji": "taka(i)" },
+    "vocabulary": [
+      { "word": "高い", "reading": "たかい", "meaning": "Tinggi / Mahal" },
+      { "word": "高校", "reading": "こうこう", "meaning": "Sekolah Menengah Atas (SMA)" },
+      { "word": "円高", "reading": "えんだか", "meaning": "Nilai tukar yen menguat/tinggi" }
+    ],
+    "example_sentence": { "japanese": "このカメラはとても高いです。", "indonesian": "Kamera ini sangat mahal." },
+    "story": "Sebuah bangunan menara bertingkat yang menjulang tinggi ke atas dengan pintu masuk di bawahnya."
+  },
+  {
+    "kanji": "円",
+    "onyomi": { "hiragana": "エン", "romaji": "en" },
+    "kunyomi": { "hiragana": "まる（い）", "romaji": "maru(i)" },
+    "vocabulary": [
+      { "word": "円", "reading": "えん", "meaning": "Yen (Mata uang Jepang) / Lingkaran" },
+      { "word": "百円", "reading": "ひゃくえん", "meaning": "Seratus Yen" },
+      { "word": "一万円", "reading": "いちまんえん", "meaning": "Sepuluh ribu Yen" }
+    ],
+    "example_sentence": { "japanese": "このペンは百円です。", "indonesian": "Pulpen ini harganya seratus yen." },
+    "story": "Sebuah koin bundar kuno yang disimpan di dalam sebuah kotak."
+  },
+  {
+    "kanji": "見",
+    "onyomi": { "hiragana": "ケン", "romaji": "ken" },
+    "kunyomi": { "hiragana": "み（る）, み（える）, み（せる）", "romaji": "mi(ru), mi(eru), mi(seru)" },
+    "vocabulary": [
+      { "word": "見る", "reading": "みる", "meaning": "Melihat" },
+      { "word": "見せる", "reading": "みせる", "meaning": "Memperlihatkan" },
+      { "word": "花見", "reading": "はなみ", "meaning": "Menikmati bunga sakura" }
+    ],
+    "example_sentence": { "japanese": "毎日テレビを見ます。", "indonesian": "Saya menonton televisi setiap hari." },
+    "story": "Sebuah mata (目) besar yang menempel pada sepasang kaki, sedang berjalan-jalan melihat sekeliling."
+  },
+  {
+    "kanji": "行",
+    "onyomi": { "hiragana": "コウ, ギョウ", "romaji": "kou, gyou" },
+    "kunyomi": { "hiragana": "い（く）, ゆ（く）, おこな（う）", "romaji": "i(ku), yu(ku), okona(u)" },
+    "vocabulary": [
+      { "word": "行く", "reading": "いく", "meaning": "Pergi" },
+      { "word": "旅行", "reading": "りょこう", "meaning": "Jalan-jalan / Wisata" },
+      { "word": "銀行", "reading": "ぎんこう", "meaning": "Bank" }
+    ],
+    "example_sentence": { "japanese": "明日、東京へ行きます。", "indonesian": "Besok, saya akan pergi ke Tokyo." },
+    "story": "Pemandangan perempatan jalan yang sering dilewati oleh orang-orang untuk bepergian."
+  },
+  {
+    "kanji": "来",
+    "onyomi": { "hiragana": "ライ", "romaji": "rai" },
+    "kunyomi": { "hiragana": "く（る）, き（たる）, こ（ない）", "romaji": "ku(ru), ki(taru), ko(nai)" },
+    "vocabulary": [
+      { "word": "来る", "reading": "くる", "meaning": "Datang" },
+      { "word": "来年", "reading": "らいねん", "meaning": "Tahun depan" },
+      { "word": "来月", "reading": "らいげつ", "meaning": "Bulan depan" }
+    ],
+    "example_sentence": { "japanese": "明日、友達が家に来ます。", "indonesian": "Besok, teman akan datang ke rumah." },
+    "story": "Pohon gandum yang menjulang ke atas dan daunnya melambai seolah memanggil orang untuk datang."
+  },
+  {
+    "kanji": "帰",
+    "onyomi": { "hiragana": "キ", "romaji": "ki" },
+    "kunyomi": { "hiragana": "かえ（る）, かえ（す）", "romaji": "kae(ru), kae(su)" },
+    "vocabulary": [
+      { "word": "帰る", "reading": "かえる", "meaning": "Pulang" },
+      { "word": "帰国", "reading": "きこく", "meaning": "Pulang ke negara asal" },
+      { "word": "日帰り", "reading": "ひがえり", "meaning": "Perjalanan pulang-pergi di hari yang sama" }
+    ],
+    "example_sentence": { "japanese": "７時に家へ帰ります。", "indonesian": "Saya pulang ke rumah jam 7." },
+    "story": "Istri di dalam rumah (sebelah kanan) menyapu menunggu suaminya yang kembali / pulang melangkah ke dalam (sebelah kiri)."
+  },
+  {
+    "kanji": "食",
+    "onyomi": { "hiragana": "ショク", "romaji": "shoku" },
+    "kunyomi": { "hiragana": "た（べる）, く（う）", "romaji": "ta(beru), ku(u)" },
+    "vocabulary": [
+      { "word": "食べる", "reading": "たべる", "meaning": "Makan" },
+      { "word": "食事", "reading": "しょくじ", "meaning": "Makanan / Waktu makan" },
+      { "word": "食堂", "reading": "しょくどう", "meaning": "Kantin / Ruang makan" }
+    ],
+    "example_sentence": { "japanese": "毎朝、パンを食べます。", "indonesian": "Setiap pagi, saya makan roti." },
+    "story": "Seseorang yang sedang mengumpulkan makanan enak (良) di bawah sebuah atap perlindungan untuk dimakan bersama."
+  },
+  {
+    "kanji": "飲",
+    "onyomi": { "hiragana": "イン", "romaji": "in" },
+    "kunyomi": { "hiragana": "の（む）", "romaji": "no(mu)" },
+    "vocabulary": [
+      { "word": "飲む", "reading": "のむ", "meaning": "Minum" },
+      { "word": "飲み物", "reading": "のみもの", "meaning": "Minuman" },
+      { "word": "飲食店", "reading": "いんしょくてん", "meaning": "Restoran / Kedai makan dan minum" }
+    ],
+    "example_sentence": { "japanese": "私は毎日、水をたくさん飲みます。", "indonesian": "Saya banyak minum air setiap hari." },
+    "story": "Seseorang yang menguap dengan mulut terbuka lebar (欠) setelah menelan cairan dari wadah makan (食)."
+  },
+  {
+    "kanji": "書",
+    "onyomi": { "hiragana": "ショ", "romaji": "sho" },
+    "kunyomi": { "hiragana": "か（く）", "romaji": "ka(ku)" },
+    "vocabulary": [
+      { "word": "書く", "reading": "かく", "meaning": "Menulis" },
+      { "word": "辞書", "reading": "じしょ", "meaning": "Kamus" },
+      { "word": "読書", "reading": "どくしょ", "meaning": "Membaca buku" }
+    ],
+    "example_sentence": { "japanese": "漢字を書くのは難しいです。", "indonesian": "Menulis kanji itu sulit." },
+    "story": "Sebuah kuas yang sedang dipegang oleh tangan di atas sebuah wadah tinta atau kertas."
+  },
+  {
+    "kanji": "読",
+    "onyomi": { "hiragana": "ドク, トク, トウ", "romaji": "doku, toku, tou" },
+    "kunyomi": { "hiragana": "よ（む）", "romaji": "yo(mu)" },
+    "vocabulary": [
+      { "word": "読む", "reading": "よむ", "meaning": "Membaca" },
+      { "word": "読書", "reading": "どくしょ", "meaning": "Kegiatan membaca" },
+      { "word": "読み方", "reading": "よみかた", "meaning": "Cara baca" }
+    ],
+    "example_sentence": { "japanese": "毎日、新聞を読みます。", "indonesian": "Setiap hari, saya membaca koran." },
+    "story": "Menggunakan kata-kata (言) untuk memahami apa yang tertulis di atas barang (売) atau gulungan."
+  },
+  {
+    "kanji": "聞",
+    "onyomi": { "hiragana": "ブン, モン", "romaji": "bun, mon" },
+    "kunyomi": { "hiragana": "き（く）, き（こえる）", "romaji": "ki(ku), ki(koeru)" },
+    "vocabulary": [
+      { "word": "聞く", "reading": "きく", "meaning": "Mendengar / Bertanya" },
+      { "word": "新聞", "reading": "しんぶん", "meaning": "Koran / Surat kabar" },
+      { "word": "聞き取り", "reading": "ききとり", "meaning": "Menyimak (Listening)" }
+    ],
+    "example_sentence": { "japanese": "ラジオを聞きます。", "indonesian": "Saya mendengarkan radio." },
+    "story": "Menempelkan telinga (耳) ke celah gerbang (門) untuk mendengarkan suara dari dalam."
+  },
+  {
+    "kanji": "話",
+    "onyomi": { "hiragana": "ワ", "romaji": "wa" },
+    "kunyomi": { "hiragana": "はな（す）, はなし", "romaji": "hana(su), hanashi" },
+    "vocabulary": [
+      { "word": "話す", "reading": "はなす", "meaning": "Berbicara" },
+      { "word": "電話", "reading": "でんわ", "meaning": "Telepon" },
+      { "word": "会話", "reading": "かいわ", "meaning": "Percakapan" }
+    ],
+    "example_sentence": { "japanese": "友達と電話で話します。", "indonesian": "Saya berbicara dengan teman melalui telepon." },
+    "story": "Mengeluarkan kata-kata (言) melalui lidah (舌) untuk berkomunikasi."
+  },
+  {
+    "kanji": "買",
+    "onyomi": { "hiragana": "バイ", "romaji": "bai" },
+    "kunyomi": { "hiragana": "か（う）", "romaji": "ka(u)" },
+    "vocabulary": [
+      { "word": "買う", "reading": "かう", "meaning": "Membeli" },
+      { "word": "買い物", "reading": "かいもの", "meaning": "Belanja" },
+      { "word": "売買", "reading": "ばいばい", "meaning": "Jual beli" }
+    ],
+    "example_sentence": { "japanese": "スーパーで卵を買いました。", "indonesian": "Saya membeli telur di supermarket." },
+    "story": "Sebuah jaring (罒) yang digunakan untuk mengumpulkan kerang (貝) yang merupakan mata uang kuno untuk membeli barang."
+  },
+  {
+    "kanji": "出",
+    "onyomi": { "hiragana": "シュツ, スイ", "romaji": "shutsu, sui" },
+    "kunyomi": { "hiragana": "で（る）, だ（す）", "romaji": "de(ru), da(su)" },
+    "vocabulary": [
+      { "word": "出る", "reading": "でる", "meaning": "Keluar" },
+      { "word": "出口", "reading": "でぐち", "meaning": "Pintu keluar" },
+      { "word": "出す", "reading": "だす", "meaning": "Mengeluarkan" }
+    ],
+    "example_sentence": { "japanese": "８時に家を出ます。", "indonesian": "Saya keluar rumah pada jam 8." },
+    "story": "Terlihat seperti dua gunung yang bertumpuk, melambangkan sesuatu yang muncul atau keluar."
+  },
+  {
+    "kanji": "入",
+    "onyomi": { "hiragana": "ニュウ", "romaji": "nyuu" },
+    "kunyomi": { "hiragana": "はい（る）, い（れる）", "romaji": "hai(ru), i(reru)" },
+    "vocabulary": [
+      { "word": "入る", "reading": "はいる", "meaning": "Masuk" },
+      { "word": "入口", "reading": "いりぐち", "meaning": "Pintu masuk" },
+      { "word": "入れる", "reading": "いれる", "meaning": "Memasukkan" }
+    ],
+    "example_sentence": { "japanese": "お風呂に入ります。", "indonesian": "Saya masuk ke (mandi) bak mandi." },
+    "story": "Dua garis yang bertemu di atas, melambangkan seseorang yang melangkah masuk ke dalam ruangan."
+  },
+  {
+    "kanji": "休",
+    "onyomi": { "hiragana": "キュウ", "romaji": "kyuu" },
+    "kunyomi": { "hiragana": "やす（む）, やす（み）", "romaji": "yasu(mu), yasu(mi)" },
+    "vocabulary": [
+      { "word": "休む", "reading": "やすむ", "meaning": "Istirahat / Libur" },
+      { "word": "休み", "reading": "やすみ", "meaning": "Libur / Hari libur" },
+      { "word": "冬休み", "reading": "ふゆやすみ", "meaning": "Libur musim dingin" }
+    ],
+    "example_sentence": { "japanese": "少し休みましょう。", "indonesian": "Mari istirahat sebentar." },
+    "story": "Seorang orang (亻) yang sedang bersandar di bawah pohon (木) untuk beristirahat."
+  },
+  {
+    "kanji": "上",
+    "onyomi": { "hiragana": "ジョウ, ショウ", "romaji": "jou, shou" },
+    "kunyomi": { "hiragana": "うえ, あ（がる）, のぼ（る）", "romaji": "ue, a(garu), nobo(ru)" },
+    "vocabulary": [
+      { "word": "上", "reading": "うえ", "meaning": "Atas" },
+      { "word": "上手", "reading": "じょうず", "meaning": "Pintar / Mahir" },
+      { "word": "上げる", "reading": "あげる", "meaning": "Menaikkan / Memberi" }
+    ],
+    "example_sentence": { "japanese": "机の上に本があります。", "indonesian": "Ada buku di atas meja." },
+    "story": "Sebuah garis horizontal dengan penunjuk yang mengarah ke bagian atas."
+  },
+  {
+    "kanji": "下",
+    "onyomi": { "hiragana": "カ, ゲ", "romaji": "ka, ge" },
+    "kunyomi": { "hiragana": "した, さ（がる）, くだ（る）", "romaji": "shita, sa(garu), kuda(ru)" },
+    "vocabulary": [
+      { "word": "下", "reading": "した", "meaning": "Bawah" },
+      { "word": "下手", "reading": "へた", "meaning": "Payah / Tidak mahir" },
+      { "word": "地下鉄", "reading": "ちかてつ", "meaning": "Kereta bawah tanah" }
+    ],
+    "example_sentence": { "japanese": "椅子の下に猫がいます。", "indonesian": "Ada kucing di bawah kursi." },
+    "story": "Sebuah garis horizontal dengan penunjuk yang mengarah ke bagian bawah."
+  },
+  {
+    "kanji": "左",
+    "onyomi": { "hiragana": "サ", "romaji": "sa" },
+    "kunyomi": { "hiragana": "ひだり", "romaji": "hidari" },
+    "vocabulary": [
+      { "word": "左", "reading": "ひだり", "meaning": "Kiri" },
+      { "word": "左利き", "reading": "ひだりきき", "meaning": "Kidal" },
+      { "word": "左折", "reading": "させつ", "meaning": "Belok kiri" }
+    ],
+    "example_sentence": { "japanese": "左へ曲がってください。", "indonesian": "Tolong belok ke kiri." },
+    "story": "Tangan kiri yang memegang alat pertukangan atau pengukur."
+  },
+  {
+    "kanji": "右",
+    "onyomi": { "hiragana": "ウ, ユウ", "romaji": "u, yuu" },
+    "kunyomi": { "hiragana": "みぎ", "romaji": "migi" },
+    "vocabulary": [
+      { "word": "右", "reading": "みぎ", "meaning": "Kanan" },
+      { "word": "右手", "reading": "みぎて", "meaning": "Tangan kanan" },
+      { "word": "右折", "reading": "うせつ", "meaning": "Belok kanan" }
+    ],
+    "example_sentence": { "japanese": "銀行は右側にあります。", "indonesian": "Bank ada di sisi sebelah kanan." },
+    "story": "Tangan kanan yang digunakan untuk memasukkan makanan ke mulut (口)."
+  },
+  {
+    "kanji": "前",
+    "onyomi": { "hiragana": "ゼン", "romaji": "zen" },
+    "kunyomi": { "hiragana": "まえ", "romaji": "mae" },
+    "vocabulary": [
+      { "word": "前", "reading": "まえ", "meaning": "Depan / Sebelum" },
+      { "word": "名前", "reading": "なまえ", "meaning": "Nama" },
+      { "word": "三日前", "reading": "みっかまえ", "meaning": "Tiga hari yang lalu" }
+    ],
+    "example_sentence": { "japanese": "駅の前で待ちましょう。", "indonesian": "Mari menunggu di depan stasiun." },
+    "story": "Seseorang yang berada di depan daging yang sedang dipotong dengan pisau (刂) untuk dibagikan."
+  },
+  {
+    "kanji": "後",
+    "onyomi": { "hiragana": "ゴ, コウ", "romaji": "go, kou" },
+    "kunyomi": { "hiragana": "うし（ろ）, あと, のち", "romaji": "ushi(ro), ato, nochi" },
+    "vocabulary": [
+      { "word": "後ろ", "reading": "うしろ", "meaning": "Belakang" },
+      { "word": "後で", "reading": "あとで", "meaning": "Nanti" },
+      { "word": "最後", "reading": "さいご", "meaning": "Terakhir" }
+    ],
+    "example_sentence": { "japanese": "後で電話をします。", "indonesian": "Nanti saya akan menelepon." },
+    "story": "Seseorang yang berjalan dengan kaki terikat benang sehingga tertinggal di belakang."
+  },
+  {
+    "kanji": "午",
+    "onyomi": { "hiragana": "ゴ", "romaji": "go" },
+    "kunyomi": { "hiragana": "うま", "romaji": "uma" },
+    "vocabulary": [
+      { "word": "午前", "reading": "ごぜん", "meaning": "AM (Pagi)" },
+      { "word": "午後", "reading": "ごご", "meaning": "PM (Siang/Sore)" },
+      { "word": "正午", "reading": "しょうご", "meaning": "Tengah hari tepat" }
+    ],
+    "example_sentence": { "japanese": "午後１時にランチを食べます。", "indonesian": "Makan siang jam 1 siang." },
+    "story": "Melambangkan sebuah alu (alat penumbuk) yang berdiri tegak, digunakan untuk menandai waktu tengah hari saat bayangan tegak lurus."
+  },
+  {
+    "kanji": "時",
+    "onyomi": { "hiragana": "ジ", "romaji": "ji" },
+    "kunyomi": { "hiragana": "とき", "romaji": "toki" },
+    "vocabulary": [
+      { "word": "時", "reading": "とき", "meaning": "Waktu" },
+      { "word": "一時", "reading": "いちじ", "meaning": "Jam satu" },
+      { "word": "時間", "reading": "じかん", "meaning": "Waktu / Durasi" }
+    ],
+    "example_sentence": { "japanese": "今、何時ですか。", "indonesian": "Sekarang jam berapa?" },
+    "story": "Matahari (日) yang bersinar di atas kuil (寺) untuk menentukan waktu ibadah."
+  },
+  {
+    "kanji": "間",
+    "onyomi": { "hiragana": "カン, ケン", "romaji": "kan, ken" },
+    "kunyomi": { "hiragana": "あいだ, ま", "romaji": "aida, ma" },
+    "vocabulary": [
+      { "word": "間", "reading": "あいだ", "meaning": "Antara" },
+      { "word": "時間", "reading": "じかん", "meaning": "Waktu" },
+      { "word": "一週間", "reading": "いっしゅうかん", "meaning": "Satu minggu (durasi)" }
+    ],
+    "example_sentence": { "japanese": "少しの間、待ってください。", "indonesian": "Tolong tunggu sebentar (selama beberapa waktu)." },
+    "story": "Matahari (日) yang cahayanya terlihat melalui celah gerbang (門) yang terbuka sedikit."
+  },
+  {
+    "kanji": "分",
+    "onyomi": { "hiragana": "ブン, フン, ブ", "romaji": "bun, fun, bu" },
+    "kunyomi": { "hiragana": "わ（かる）, わ（ける）", "romaji": "wa(karu), wa(keru)" },
+    "vocabulary": [
+      { "word": "分かる", "reading": "わかる", "meaning": "Mengerti / Paham" },
+      { "word": "五分", "reading": "ごふん", "meaning": "Lima menit" },
+      { "word": "半分", "reading": "はんぶん", "meaning": "Setengah" }
+    ],
+    "example_sentence": { "japanese": "質問の意味が分かりますか。", "indonesian": "Apakah mengerti arti pertanyaannya?" },
+    "story": "Sebuah pisau (刀) yang membelah sesuatu menjadi beberapa bagian atau menit."
+  },
+  {
+    "kanji": "半",
+    "onyomi": { "hiragana": "ハン", "romaji": "han" },
+    "kunyomi": { "hiragana": "なか（ば）", "romaji": "naka(ba)" },
+    "vocabulary": [
+      { "word": "半", "reading": "はん", "meaning": "Setengah / Setengah jam" },
+      { "word": "三時半", "reading": "さんじはん", "meaning": "Jam tiga lewat tiga puluh menit" },
+      { "word": "半分", "reading": "はんぶん", "meaning": "Setengah bagian" }
+    ],
+    "example_sentence": { "japanese": "二時半に会いましょう。", "indonesian": "Mari bertemu pada jam setengah tiga." },
+    "story": "Sebuah benda yang ditarik garis lurus di tengahnya agar terbagi menjadi dua bagian yang sama (setengah)."
+  },
+  {
+    "kanji": "国",
+    "onyomi": { "hiragana": "コク", "romaji": "koku" },
+    "kunyomi": { "hiragana": "くに", "romaji": "kuni" },
+    "vocabulary": [
+      { "word": "国", "reading": "くに", "meaning": "Negara" },
+      { "word": "外国", "reading": "がいこく", "meaning": "Luar negeri" },
+      { "word": "中国", "reading": "ちゅうごく", "meaning": "Tiongkok" }
+    ],
+    "example_sentence": { "japanese": "お国はどこですか。", "indonesian": "Negara (asal) Anda di mana?" },
+    "story": "Sebuah giok berharga (玉) yang diletakkan di dalam perbatasan (囗) sebuah wilayah negara."
+  },
+  {
+    "kanji": "東",
+    "onyomi": { "hiragana": "トウ", "romaji": "tou" },
+    "kunyomi": { "hiragana": "ひがし", "romaji": "higashi" },
+    "vocabulary": [
+      { "word": "東", "reading": "ひがし", "meaning": "Timur" },
+      { "word": "東京", "reading": "とうきょう", "meaning": "Tokyo" },
+      { "word": "東口", "reading": "ひがしぐち", "meaning": "Pintu keluar timur" }
+    ],
+    "example_sentence": { "japanese": "東京は日本の東にあります。", "indonesian": "Tokyo berada di sebelah timur Jepang." },
+    "story": "Matahari (日) yang baru terbit dan tersangkut di sela-sela pohon (木) di ufuk timur."
+  },
+  {
+    "kanji": "西",
+    "onyomi": { "hiragana": "セイ, サイ", "romaji": "sei, sai" },
+    "kunyomi": { "hiragana": "にし", "romaji": "nishi" },
+    "vocabulary": [
+      { "word": "西", "reading": "にし", "meaning": "Barat" },
+      { "word": "北西", "reading": "ほくせい", "meaning": "Barat laut" },
+      { "word": "西口", "reading": "にしぐち", "meaning": "Pintu keluar barat" }
+    ],
+    "example_sentence": { "japanese": "太陽は西に沈みます。", "indonesian": "Matahari terbenam di barat." },
+    "story": "Gambar seekor burung yang kembali ke sarangnya (囗) saat matahari terbenam di arah barat."
+  },
+  {
+    "kanji": "南",
+    "onyomi": { "hiragana": "ナン", "romaji": "nan" },
+    "kunyomi": { "hiragana": "みなみ", "romaji": "minami" },
+    "vocabulary": [
+      { "word": "南", "reading": "みなみ", "meaning": "Selatan" },
+      { "word": "東南アジア", "reading": "とうなんアジア", "meaning": "Asia Tenggara" },
+      { "word": "南口", "reading": "みなみぐち", "meaning": "Pintu keluar selatan" }
+    ],
+    "example_sentence": { "japanese": "南の国は暖かいです。", "indonesian": "Negara di selatan itu hangat." },
+    "story": "Peralatan musik yang digantung di dalam rumah yang menghadap ke arah selatan yang cerah."
+  },
+  {
+    "kanji": "北",
+    "onyomi": { "hiragana": "ホク", "romaji": "hoku" },
+    "kunyomi": { "hiragana": "きた", "romaji": "kita" },
+    "vocabulary": [
+      { "word": "北", "reading": "きた", "meaning": "Utara" },
+      { "word": "北海道", "reading": "ほっかいどう", "meaning": "Hokkaido" },
+      { "word": "北口", "reading": "きたぐち", "meaning": "Pintu keluar utara" }
+    ],
+    "example_sentence": { "japanese": "北海道は日本の北にあります。", "indonesian": "Hokkaido berada di utara Jepang." },
+    "story": "Dua orang yang duduk saling membelakangi karena kedinginan oleh angin dari utara."
+  },
+  {
+    "kanji": "長",
+    "onyomi": { "hiragana": "チョウ", "romaji": "chou" },
+    "kunyomi": { "hiragana": "なが（い）", "romaji": "naga(i)" },
+    "vocabulary": [
+      { "word": "長い", "reading": "ながい", "meaning": "Panjang" },
+      { "word": "社長", "reading": "しゃちょう", "meaning": "Presiden direktur" },
+      { "word": "学長", "reading": "がくちょう", "meaning": "Rektor" }
+    ],
+    "example_sentence": { "japanese": "この道はとても長いです。", "indonesian": "Jalan ini sangat panjang." },
+    "story": "Seorang tetua dengan rambut panjang yang melambangkan senioritas atau ukuran yang panjang."
+  },
+  {
+    "kanji": "白",
+    "onyomi": { "hiragana": "ハク, ビャク", "romaji": "haku, byaku" },
+    "kunyomi": { "hiragana": "しろ, しろ（い）", "romaji": "shiro, shiro(i)" },
+    "vocabulary": [
+      { "word": "白い", "reading": "しろい", "meaning": "Putih (kata sifat)" },
+      { "word": "白", "reading": "しろ", "meaning": "Warna putih (kata benda)" },
+      { "word": "面白い", "reading": "おもしろい", "meaning": "Menarik / Lucu" }
+    ],
+    "example_sentence": { "japanese": "白いシャツを着ています。", "indonesian": "Saya memakai kemeja putih." },
+    "story": "Satu tetes cahaya matahari (日) yang murni dan bersih, melambangkan warna putih."
+  },
+  {
+    "kanji": "赤",
+    "onyomi": { "hiragana": "セキ, シャク", "romaji": "seki, shaku" },
+    "kunyomi": { "hiragana": "あか, あか（い）", "romaji": "aka, aka(i)" },
+    "vocabulary": [
+      { "word": "赤い", "reading": "あかい", "meaning": "Merah" },
+      { "word": "赤ちゃん", "reading": "あかちゃん", "meaning": "Bayi" },
+      { "word": "赤道", "reading": "せきどう", "meaning": "Khatulistiwa" }
+    ],
+    "example_sentence": { "japanese": "赤いリンゴを食べました。", "indonesian": "Saya makan apel merah." },
+    "story": "Sesuatu yang diletakkan di atas api (火) hingga berubah warna menjadi merah membara."
+  },
+  {
+    "kanji": "青",
+    "onyomi": { "hiragana": "セイ, ショウ", "romaji": "sei, shou" },
+    "kunyomi": { "hiragana": "あお, あお（い）", "romaji": "ao, ao(i)" },
+    "vocabulary": [
+      { "word": "青い", "reading": "あおい", "meaning": "Biru / Hijau muda" },
+      { "word": "青空", "reading": "あおぞら", "meaning": "Langit biru" },
+      { "word": "青年", "reading": "せいねん", "meaning": "Pemuda" }
+    ],
+    "example_sentence": { "japanese": "海はとても青いです。", "indonesian": "Laut sangat biru." },
+    "story": "Tanaman muda yang tumbuh dari sumur air yang jernih, melambangkan warna biru atau hijau segar."
+  },
+  {
+    "kanji": "多",
+    "onyomi": { "hiragana": "タ", "romaji": "ta" },
+    "kunyomi": { "hiragana": "おお（い）", "romaji": "oo(i)" },
+    "vocabulary": [
+      { "word": "多い", "reading": "おおい", "meaning": "Banyak" },
+      { "word": "多分", "reading": "たぶん", "meaning": "Mungkin" },
+      { "word": "多少", "reading": "たしょう", "meaning": "Sedikit banyak" }
+    ],
+    "example_sentence": { "japanese": "この町は人が多いです。", "indonesian": "Kota ini banyak orangnya." },
+    "story": "Dua buah potongan daging (kata-kata 'ta' dalam katakana) yang ditumpuk, melambangkan jumlah yang banyak."
+  },
+  {
+    "kanji": "少",
+    "onyomi": { "hiragana": "ショウ", "romaji": "shou" },
+    "kunyomi": { "hiragana": "すく（ない）, すこ（し）", "romaji": "suku(nai), suko(shi)" },
+    "vocabulary": [
+      { "word": "少し", "reading": "すこし", "meaning": "Sedikit" },
+      { "word": "少ない", "reading": "すくない", "meaning": "Sedikit (jumlahnya)" },
+      { "word": "少年", "reading": "しょうねん", "meaning": "Anak laki-laki / Remaja" }
+    ],
+    "example_sentence": { "japanese": "水を少しください。", "indonesian": "Tolong beri sedikit air." },
+    "story": "Mengambil benda yang sudah kecil (小) dan membelahnya lagi hingga menjadi semakin sedikit."
+  },
+  {
+    "kanji": "万",
+    "onyomi": { "hiragana": "マン, バン", "romaji": "man, ban" },
+    "kunyomi": { "hiragana": "-", "romaji": "-" },
+    "vocabulary": [
+      { "word": "一万", "reading": "いちまん", "meaning": "Sepuluh ribu" },
+      { "word": "万年筆", "reading": "まんねんひつ", "meaning": "Pena / Pulpen" },
+      { "word": "万全", "reading": "ばんぜん", "meaning": "Sangat sempurna" }
+    ],
+    "example_sentence": { "japanese": "これは一万円です。", "indonesian": "Ini harganya sepuluh ribu yen." },
+    "story": "Simbol yang melambangkan angka yang sangat besar atau tak terhingga (sepuluh ribu)."
+  },
+  {
+    "kanji": "百",
+    "onyomi": { "hiragana": "ヒャク", "romaji": "hyaku" },
+    "kunyomi": { "hiragana": "-", "romaji": "-" },
+    "vocabulary": [
+      { "word": "百", "reading": "ひゃく", "meaning": "Seratus" },
+      { "word": "三百", "reading": "さんびゃく", "meaning": "Tiga ratus" },
+      { "word": "六百", "reading": "ろっぴゃく", "meaning": "Enam ratus" }
+    ],
+    "example_sentence": { "japanese": "百円ショップへ行きます。", "indonesian": "Saya pergi ke toko seratus yen." },
+    "story": "Garis satu di atas kanji putih (白), melambangkan angka seratus."
+  },
+  {
+    "kanji": "千",
+    "onyomi": { "hiragana": "セン", "romaji": "sen" },
+    "kunyomi": { "hiragana": "ち", "romaji": "chi" },
+    "vocabulary": [
+      { "word": "千", "reading": "せん", "meaning": "Seribu" },
+      { "word": "三千", "reading": "さんぜん", "meaning": "Tiga ribu" },
+      { "word": "千葉", "reading": "ちば", "meaning": "Chiba (Nama perfektur)" }
+    ],
+    "example_sentence": { "japanese": "このシャツは二千円です。", "indonesian": "Kemeja ini harganya dua ribu yen." },
+    "story": "Garis yang memotong angka sepuluh (十) melambangkan kelipatan yang lebih besar (seribu)."
+  },
+  {
+    "kanji": "天",
+    "onyomi": { "hiragana": "テン", "romaji": "ten" },
+    "kunyomi": { "hiragana": "あめ, あま", "romaji": "ame, ama" },
+    "vocabulary": [
+      { "word": "天気", "reading": "てんき", "meaning": "Cuaca" },
+      { "word": "天国", "reading": "てんごく", "meaning": "Surga" },
+      { "word": "天才", "reading": "てんさい", "meaning": "Jenius" }
+    ],
+    "example_sentence": { "japanese": "明日の天気はどうですか。", "indonesian": "Bagaimana cuaca besok?" },
+    "story": "Garis besar di atas orang (大), melambangkan sesuatu yang berada di atas segalanya, yaitu langit."
+  },
+  {
+    "kanji": "気",
+    "onyomi": { "hiragana": "キ, ケ", "romaji": "ki, ke" },
+    "kunyomi": { "hiragana": "-", "romaji": "-" },
+    "vocabulary": [
+      { "word": "元気", "reading": "げんき", "meaning": "Sehat / Bersemangat" },
+      { "word": "天気", "reading": "てんき", "meaning": "Cuaca" },
+      { "word": "気持ち", "reading": "きもち", "meaning": "Perasaan" }
+    ],
+    "example_sentence": { "japanese": "お元気ですか。", "indonesian": "Apa kabar? (Apakah Anda sehat?)" },
+    "story": "Uap air atau udara yang keluar dari periuk nasi yang sedang dimasak."
+  },
+  {
+    "kanji": "山",
+    "onyomi": { "hiragana": "サン, ザン", "romaji": "san, zan" },
+    "kunyomi": { "hiragana": "やま", "romaji": "yama" },
+    "vocabulary": [
+      { "word": "山", "reading": "やま", "meaning": "Gunung" },
+      { "word": "富士山", "reading": "ふじさん", "meaning": "Gunung Fuji" },
+      { "word": "山道", "reading": "やまみち", "meaning": "Jalan pegunungan" }
+    ],
+    "example_sentence": { "japanese": "山に登るのが好きです。", "indonesian": "Saya suka mendaki gunung." },
+    "story": "Gambar tiga buah puncak gunung yang berjejer."
+  },
+  {
+    "kanji": "川",
+    "onyomi": { "hiragana": "セン", "romaji": "sen" },
+    "kunyomi": { "hiragana": "かわ", "romaji": "kawa" },
+    "vocabulary": [
+      { "word": "川", "reading": "かわ", "meaning": "Sungai" },
+      { "word": "小川", "reading": "おがわ", "meaning": "Sungai kecil" },
+      { "word": "ナイル川", "reading": "ないるがわ", "meaning": "Sungai Nil" }
+    ],
+    "example_sentence": { "japanese": "この川はとてもきれいです。", "indonesian": "Sungai ini sangat bersih." },
+    "story": "Tiga garis vertikal yang melambangkan aliran air di sungai."
+  },
+  {
+    "kanji": "田",
+    "onyomi": { "hiragana": "デン", "romaji": "den" },
+    "kunyomi": { "hiragana": "た", "romaji": "ta" },
+    "vocabulary": [
+      { "word": "田んぼ", "reading": "たんぼ", "meaning": "Sawah" },
+      { "word": "山田さん", "reading": "やまださん", "meaning": "Tuan Yamada" },
+      { "word": "水田", "reading": "すいでん", "meaning": "Sawah berair" }
+    ],
+    "example_sentence": { "japanese": "田舎には田んぼがたくさんあります。", "indonesian": "Di desa ada banyak sawah." },
+    "story": "Gambar petak-petak sawah dilihat dari atas."
+  },
+  {
+    "kanji": "名",
+    "onyomi": { "hiragana": "メイ, ミョウ", "romaji": "mei, myou" },
+    "kunyomi": { "hiragana": "な", "romaji": "na" },
+    "vocabulary": [
+      { "word": "名前", "reading": "なまえ", "meaning": "Nama" },
+      { "word": "有名", "reading": "ゆうめい", "meaning": "Terkenal" },
+      { "word": "名字", "reading": "みょうじ", "meaning": "Nama keluarga" }
+    ],
+    "example_sentence": { "japanese": "お名前は何ですか。", "indonesian": "Siapa nama Anda?" },
+    "story": "Di malam hari (夕), orang harus menyebutkan nama melalui mulut (口) agar dikenali."
+  },
+  {
+    "kanji": "車",
+    "onyomi": { "hiragana": "シャ", "romaji": "sha" },
+    "kunyomi": { "hiragana": "くるま", "romaji": "kuruma" },
+    "vocabulary": [
+      { "word": "車", "reading": "くるま", "meaning": "Mobil" },
+      { "word": "電車", "reading": "でんしゃ", "meaning": "Kereta listrik" },
+      { "word": "自動車", "reading": "じどうしゃ", "meaning": "Mobil / Otomotif" }
+    ],
+    "example_sentence": { "japanese": "電車で会社に行きます。", "indonesian": "Saya pergi ke kantor dengan kereta." },
+    "story": "Gambar gerobak atau kendaraan dilihat dari atas dengan roda di sisi kiri dan kanan."
+  },
+  {
+    "kanji": "外",
+    "onyomi": { "hiragana": "ガイ, ゲ", "romaji": "gai, ge" },
+    "kunyomi": { "hiragana": "そと, ほか, はず（れる）", "romaji": "soto, hoka, hazu(reru)" },
+    "vocabulary": [
+      { "word": "外", "reading": "そと", "meaning": "Luar" },
+      { "word": "外国", "reading": "がいこく", "meaning": "Luar negeri" },
+      { "word": "外国人", "reading": "がいこくじん", "meaning": "Orang asing" }
+    ],
+    "example_sentence": { "japanese": "外は雨が降っています。", "indonesian": "Di luar sedang hujan." },
+    "story": "Di malam hari (夕), seseorang yang berada di luar rumah menggunakan tongkat (ト) untuk berjalan."
+  },
+  {
+    "kanji": "学",
+    "onyomi": { "hiragana": "ガク", "romaji": "gaku" },
+    "kunyomi": { "hiragana": "まな（ぶ）", "romaji": "mana(bu)" },
+    "vocabulary": [
+      { "word": "学生", "reading": "がくせい", "meaning": "Siswa / Mahasiswa" },
+      { "word": "学校", "reading": "がっこう", "meaning": "Sekolah" },
+      { "word": "大学", "reading": "だいがく", "meaning": "Universitas" }
+    ],
+    "example_sentence": { "japanese": "私は大学生です。", "indonesian": "Saya adalah seorang mahasiswa." },
+    "story": "Seorang anak (子) di bawah atap sekolah, belajar dengan giat."
+  },
+  {
+    "kanji": "校",
+    "onyomi": { "hiragana": "コウ", "romaji": "kou" },
+    "kunyomi": { "hiragana": "-", "romaji": "-" },
+    "vocabulary": [
+      { "word": "学校", "reading": "がっこう", "meaning": "Sekolah" },
+      { "word": "高校生", "reading": "こうこうせい", "meaning": "Siswa SMA" },
+      { "word": "小学校", "reading": "しょうがっこう", "meaning": "Sekolah Dasar" }
+    ],
+    "example_sentence": { "japanese": "学校は八時に始まります。", "indonesian": "Sekolah dimulai jam 8." },
+    "story": "Bangunan kayu (木) tempat orang-orang berbaur atau berkumpul (交)."
+  },
+  {
+    "kanji": "山",
+    "onyomi": { "hiragana": "サン", "romaji": "san" },
+    "kunyomi": { "hiragana": "やま", "romaji": "yama" },
+    "vocabulary": [
+      { "word": "山", "reading": "やま", "meaning": "Gunung" },
+      { "word": "富士山", "reading": "ふじさん", "meaning": "Gunung Fuji" },
+      { "word": "火山", "reading": "かざん", "meaning": "Gunung berapi" }
+    ],
+    "example_sentence": { "japanese": "高い山に登りたいです。", "indonesian": "Saya ingin mendaki gunung yang tinggi." },
+    "story": "Tiga puncak gunung yang menjulang tinggi."
+  },
+  {
+    "kanji": "川",
+    "onyomi": { "hiragana": "セン", "romaji": "sen" },
+    "kunyomi": { "hiragana": "かわ", "romaji": "kawa" },
+    "vocabulary": [
+      { "word": "川", "reading": "かわ", "meaning": "Sungai" },
+      { "word": "小川", "reading": "おがわ", "meaning": "Sungai kecil" },
+      { "word": "河川", "reading": "かせん", "meaning": "Sungai-sungai" }
+    ],
+    "example_sentence": { "japanese": "川で泳ぎます。", "indonesian": "Berenang di sungai." },
+    "story": "Aliran air yang mengalir secara paralel di sungai."
+  },
+  {
+    "kanji": "白",
+    "onyomi": { "hiragana": "ハク", "romaji": "haku" },
+    "kunyomi": { "hiragana": "しろ（い）", "romaji": "shiro(i)" },
+    "vocabulary": [
+      { "word": "白い", "reading": "しろい", "meaning": "Putih" },
+      { "word": "白鳥", "reading": "はくちょう", "meaning": "Angsa (Burung putih)" },
+      { "word": "真っ白", "reading": "まっしろ", "meaning": "Putih bersih" }
+    ],
+    "example_sentence": { "japanese": "白い雲が見えます。", "indonesian": "Awan putih terlihat." },
+    "story": "Satu tetes cahaya matahari yang melambangkan kemurnian warna putih."
+  },
+  {
+    "kanji": "天",
+    "onyomi": { "hiragana": "テン", "romaji": "ten" },
+    "kunyomi": { "hiragana": "あめ, あま", "romaji": "ame, ama" },
+    "vocabulary": [
+      { "word": "天気", "reading": "てんき", "meaning": "Cuaca" },
+      { "word": "天国", "reading": "てんごく", "meaning": "Surga" },
+      { "word": "天皇", "reading": "てんのう", "meaning": "Kaisar Jepang" }
+    ],
+    "example_sentence": { "japanese": "今日はいい天気ですね。", "indonesian": "Hari ini cuacanya bagus ya." },
+    "story": "Garis yang berada di atas orang (大) melambangkan langit yang luas."
+  },
+  {
+    "kanji": "気",
+    "onyomi": { "hiragana": "キ, ケ", "romaji": "ki, ke" },
+    "kunyomi": { "hiragana": "-", "romaji": "-" },
+    "vocabulary": [
+      { "word": "元気", "reading": "げんき", "meaning": "Sehat" },
+      { "word": "病気", "reading": "びょうき", "meaning": "Sakit" },
+      { "word": "電気", "reading": "でんき", "meaning": "Listrik" }
+    ],
+    "example_sentence": { "japanese": "電気を消してください。", "indonesian": "Tolong matikan listrik (lampu)." },
+    "story": "Uap atau energi yang mengalir di udara."
+  },
+  {
+    "kanji": "雨",
+    "onyomi": { "hiragana": "ウ", "romaji": "u" },
+    "kunyomi": { "hiragana": "あめ, あま", "romaji": "ame, ama" },
+    "vocabulary": [
+      { "word": "雨", "reading": "あめ", "meaning": "Hujan" },
+      { "word": "大雨", "reading": "おおあめ", "meaning": "Hujan lebat" },
+      { "word": "雨天", "reading": "うてん", "meaning": "Cuaca hujan" }
+    ],
+    "example_sentence": { "japanese": "雨が降ってきました。", "indonesian": "Hujan mulai turun." },
+    "story": "Tetesan air yang jatuh dari awan di bawah langit."
+  },
+  {
+    "kanji": "電",
+    "onyomi": { "hiragana": "デン", "romaji": "den" },
+    "kunyomi": { "hiragana": "-", "romaji": "-" },
+    "vocabulary": [
+      { "word": "電車", "reading": "でんしゃ", "meaning": "Kereta" },
+      { "word": "電話", "reading": "でんわ", "meaning": "Telepon" },
+      { "word": "電池", "reading": "でんち", "meaning": "Baterai" }
+    ],
+    "example_sentence": { "japanese": "電車で学校へ行きます。", "indonesian": "Pergi ke sekolah dengan kereta." },
+    "story": "Listrik yang dihasilkan dari energi hujan (雨) dan kilat (田)."
+  },
+  {
+    "kanji": "聞",
+    "onyomi": { "hiragana": "ブン, モン", "romaji": "bun, mon" },
+    "kunyomi": { "hiragana": "き（く）, き（こえる）", "romaji": "ki(ku), ki(koeru)" },
+    "vocabulary": [
+      { "word": "聞く", "reading": "きく", "meaning": "Mendengar" },
+      { "word": "新聞", "reading": "しんぶん", "meaning": "Koran" },
+      { "word": "聞き取り", "reading": "ききとり", "meaning": "Listening / Menyimak" }
+    ],
+    "example_sentence": { "japanese": "毎朝、新聞を読みます。", "indonesian": "Setiap pagi membaca koran." },
+    "story": "Meletakkan telinga (耳) di pintu (門) untuk mendengarkan."
+  },
+  {
+    "kanji": "読",
+    "onyomi": { "hiragana": "ドク", "romaji": "doku" },
+    "kunyomi": { "hiragana": "よ（む）", "romaji": "yo(mu)" },
+    "vocabulary": [
+      { "word": "読む", "reading": "よむ", "meaning": "Membaca" },
+      { "word": "読書", "reading": "どくしょ", "meaning": "Membaca buku" },
+      { "word": "読み物", "reading": "よみもの", "meaning": "Bahan bacaan" }
+    ],
+    "example_sentence": { "japanese": "本を読みます。", "indonesian": "Membaca buku." },
+    "story": "Mengatakan (言) kata-kata yang dilihat pada sebuah dokumen."
+  },
+  {
+    "kanji": "書",
+    "onyomi": { "hiragana": "ショ", "romaji": "sho" },
+    "kunyomi": { "hiragana": "か（く）", "romaji": "ka(ku)" },
+    "vocabulary": [
+      { "word": "書く", "reading": "かく", "meaning": "Menulis" },
+      { "word": "辞書", "reading": "じしょ", "meaning": "Kamus" },
+      { "word": "図書館", "reading": "としょかん", "meaning": "Perpustakaan" }
+    ],
+    "example_sentence": { "japanese": "辞書を使ってください。", "indonesian": "Tolong gunakan kamus." },
+    "story": "Tangan yang memegang kuas untuk menulis di atas kertas."
+  },
+  {
+    "kanji": "話",
+    "onyomi": { "hiragana": "ワ", "romaji": "wa" },
+    "kunyomi": { "hiragana": "はな（す）, はなし", "romaji": "hana(su), hanashi" },
+    "vocabulary": [
+      { "word": "話す", "reading": "はなす", "meaning": "Berbicara" },
+      { "word": "電話", "reading": "でんわ", "meaning": "Telepon" },
+      { "word": "会話", "reading": "かいわ", "meaning": "Percakapan" }
+    ],
+    "example_sentence": { "japanese": "先生と話します。", "indonesian": "Berbicara dengan guru." },
+    "story": "Menggunakan lidah (舌) untuk mengeluarkan kata-kata (言)."
+  },
+  {
+    "kanji": "買",
+    "onyomi": { "hiragana": "バイ", "romaji": "bai" },
+    "kunyomi": { "hiragana": "か（う）", "romaji": "ka(u)" },
+    "vocabulary": [
+      { "word": "買う", "reading": "かう", "meaning": "Membeli" },
+      { "word": "買い物", "reading": "かいもの", "meaning": "Belanja" },
+      { "word": "売買", "reading": "ばいばい", "meaning": "Jual beli" }
+    ],
+    "example_sentence": { "japanese": "買い物をします。", "indonesian": "Berbelanja." },
+    "story": "Menggunakan uang kerang (貝) untuk membeli sesuatu di pasar."
+  },
+  {
+    "kanji": "食",
+    "onyomi": { "hiragana": "ショク", "romaji": "shoku" },
+    "kunyomi": { "hiragana": "た（べる）", "romaji": "ta(beru)" },
+    "vocabulary": [
+      { "word": "食べる", "reading": "たべる", "meaning": "Makan" },
+      { "word": "食べ物", "reading": "たべもの", "meaning": "Makanan" },
+      { "word": "朝食", "reading": "ちょうしょく", "meaning": "Sarapan" }
+    ],
+    "example_sentence": { "japanese": "朝ごはんを食べましたか。", "indonesian": "Apakah sudah sarapan?" },
+    "story": "Seseorang yang menikmati makanan di bawah atap rumah."
+  },
+  {
+    "kanji": "飲",
+    "onyomi": { "hiragana": "イン", "romaji": "in" },
+    "kunyomi": { "hiragana": "の（む）", "romaji": "no(mu)" },
+    "vocabulary": [
+      { "word": "飲む", "reading": "のむ", "meaning": "Minum" },
+      { "word": "飲み物", "reading": "のみもの", "meaning": "Minuman" },
+      { "word": "飲料水", "reading": "いんりょうすい", "meaning": "Air minum" }
+    ],
+    "example_sentence": { "japanese": "飲み物は何がいいですか。", "indonesian": "Mau minum apa?" },
+    "story": "Seseorang yang membuka mulutnya lebar-lebar untuk menelan minuman."
+  },
+  {
+    "kanji": "来",
+    "onyomi": { "hiragana": "ライ", "romaji": "rai" },
+    "kunyomi": { "hiragana": "く（る）, こ（ない）, き（た）", "romaji": "ku(ru), ko(nai), ki(ta)" },
+    "vocabulary": [
+      { "word": "来る", "reading": "くる", "meaning": "Datang" },
+      { "word": "来週", "reading": "らいしゅう", "meaning": "Minggu depan" },
+      { "word": "来月", "reading": "らいげつ", "meaning": "Bulan depan" }
+    ],
+    "example_sentence": { "japanese": "明日、家に来てください。", "indonesian": "Besok datanglah ke rumah." },
+    "story": "Gambar pohon gandum yang memanggil orang untuk datang memanen."
+  },
+  {
+    "kanji": "行",
+    "onyomi": { "hiragana": "コウ", "romaji": "kou" },
+    "kunyomi": { "hiragana": "い（く）, おこな（う）", "romaji": "i(ku), okona(u)" },
+    "vocabulary": [
+      { "word": "行く", "reading": "いく", "meaning": "Pergi" },
+      { "word": "旅行", "reading": "りょこう", "meaning": "Perjalanan / Wisata" },
+      { "word": "銀行", "reading": "ぎんこう", "meaning": "Bank" }
+    ],
+    "example_sentence": { "japanese": "日本へ行きたいです。", "indonesian": "Saya ingin pergi ke Jepang." },
+    "story": "Persimpangan jalan di mana orang-orang pergi berlalu-lalang."
+  },
+  {
+    "kanji": "帰",
+    "onyomi": { "hiragana": "キ", "romaji": "ki" },
+    "kunyomi": { "hiragana": "かえ（る）", "romaji": "kae(ru)" },
+    "vocabulary": [
+      { "word": "帰る", "reading": "かえる", "meaning": "Pulang" },
+      { "word": "帰国", "reading": "きこく", "meaning": "Pulang ke negara asal" },
+      { "word": "帰り道", "reading": "かえりみち", "meaning": "Jalan pulang" }
+    ],
+    "example_sentence": { "japanese": "早く家に帰ります。", "indonesian": "Pulang cepat ke rumah." },
+    "story": "Kembali ke rumah setelah beraktivitas di luar."
+  }
+]

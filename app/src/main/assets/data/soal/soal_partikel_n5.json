@@ -1,0 +1,2088 @@
+[
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n私___学生です。\n(Saya adalah seorang siswa.)",
+    "options": [
+      "は",
+      "に加えて",
+      "でも",
+      "くらい"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'は' digunakan sebagai Penanda Topik. Partikel \"Wa\" (ditulis Ha) digunakan untuk menandai topik pembicaraan. Apa yang disebutkan sebelum \"wa\" adalah apa yang sedang kita bahas.",
+    "particle": "は"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\nこれ___私の本です。\n(Ini adalah buku saya.)",
+    "options": [
+      "の",
+      "より",
+      "は",
+      "ではあるまいし"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'は' digunakan sebagai Penanda Topik. Partikel \"Wa\" (ditulis Ha) digunakan untuk menandai topik pembicaraan. Apa yang disebutkan sebelum \"wa\" adalah apa yang sedang kita bahas.",
+    "particle": "は"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n山田さん___先生です。\n(Sdr. Yamada adalah guru.)",
+    "options": [
+      "けど",
+      "は",
+      "よ",
+      "を"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'は' digunakan sebagai Penanda Topik. Partikel \"Wa\" (ditulis Ha) digunakan untuk menandai topik pembicaraan. Apa yang disebutkan sebelum \"wa\" adalah apa yang sedang kita bahas.",
+    "particle": "は"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n今日___いい天気です。\n(Hari ini cuacanya bagus.)",
+    "options": [
+      "極まりない",
+      "を",
+      "は",
+      "とあって"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'は' digunakan sebagai Penanda Topik. Partikel \"Wa\" (ditulis Ha) digunakan untuk menandai topik pembicaraan. Apa yang disebutkan sebelum \"wa\" adalah apa yang sedang kita bahas.",
+    "particle": "は"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\nトイレ___どこですか。\n(Toilet ada di mana?)",
+    "options": [
+      "よ",
+      "とあって",
+      "に対して",
+      "は"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'は' digunakan sebagai Penanda Topik. Partikel \"Wa\" (ditulis Ha) digunakan untuk menandai topik pembicaraan. Apa yang disebutkan sebelum \"wa\" adalah apa yang sedang kita bahas.",
+    "particle": "は"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Penanda Topik'?\n\nContoh: 私は学生です (Saya adalah siswa).",
+    "options": [
+      "は",
+      "も",
+      "にかこつけて",
+      "に比べて"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel \"Wa\" (ditulis Ha) digunakan untuk menandai topik pembicaraan. Apa yang disebutkan sebelum \"wa\" adalah apa yang sedang kita bahas.",
+    "particle": "は"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n昼ご___ん食べますが、朝ごはんは食べません。\n(Makan siang saya makan, tapi sarapan tidak.)",
+    "options": [
+      "は",
+      "にかけては",
+      "うちに",
+      "まで"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'は' digunakan sebagai Perbandingan / Kontras. Digunakan untuk menunjukkan kontras atau perbandingan antara dua hal. Biasanya digunakan dalam kalimat negatif.",
+    "particle": "は"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n英語___わかりますが、日本語はわかりません。\n(Bahasa Inggris paham, tapi Bahasa Jepang tidak paham.)",
+    "options": [
+      "は",
+      "うちに",
+      "ゆえに",
+      "やら"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'は' digunakan sebagai Perbandingan / Kontras. Digunakan untuk menunjukkan kontras atau perbandingan antara dua hal. Biasanya digunakan dalam kalimat negatif.",
+    "particle": "は"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\nビール___飲みません。\n((Kalau yang lain minum) Bir saya tidak minum.)",
+    "options": [
+      "極まりない",
+      "は",
+      "に沿って",
+      "だけ"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'は' digunakan sebagai Perbandingan / Kontras. Digunakan untuk menunjukkan kontras atau perbandingan antara dua hal. Biasanya digunakan dalam kalimat negatif.",
+    "particle": "は"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\nテニス___好きではありません。\n(Saya tidak suka tenis (mungkin suka olahraga lain).)",
+    "options": [
+      "と",
+      "すら",
+      "は",
+      "とあれば"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'は' digunakan sebagai Perbandingan / Kontras. Digunakan untuk menunjukkan kontras atau perbandingan antara dua hal. Biasanya digunakan dalam kalimat negatif.",
+    "particle": "は"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\nここで___タバコは吸えません。\n(Di sini rokok tidak boleh dihisap.)",
+    "options": [
+      "にわたって",
+      "を通じて",
+      "つ～つ",
+      "は"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'は' digunakan sebagai Perbandingan / Kontras. Digunakan untuk menunjukkan kontras atau perbandingan antara dua hal. Biasanya digunakan dalam kalimat negatif.",
+    "particle": "は"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Perbandingan / Kontras'?\n\nContoh: 肉は食べますが、魚は食べません (Daging saya makan, tapi ikan tidak).",
+    "options": [
+      "は",
+      "てからというもの",
+      "も",
+      "やら"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Digunakan untuk menunjukkan kontras atau perbandingan antara dua hal. Biasanya digunakan dalam kalimat negatif.",
+    "particle": "は"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n雨___降っています。\n(Hujan sedang turun.)",
+    "options": [
+      "が",
+      "のに",
+      "なり",
+      "と"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'が' digunakan sebagai Penanda Subjek. Menandai subjek gramatikal yang melakukan aksi, atau benda yang dideskripsikan keadaannya. Sering digunakan dengan kata kerja intransitif.",
+    "particle": "が"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n誰___来ましたか。\n(Siapa yang datang?)",
+    "options": [
+      "きり",
+      "より",
+      "が",
+      "うちに"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'が' digunakan sebagai Penanda Subjek. Menandai subjek gramatikal yang melakukan aksi, atau benda yang dideskripsikan keadaannya. Sering digunakan dengan kata kerja intransitif.",
+    "particle": "が"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n猫___います。\n(Ada kucing.)",
+    "options": [
+      "とあって",
+      "さいに",
+      "なくしては",
+      "が"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'が' digunakan sebagai Penanda Subjek. Menandai subjek gramatikal yang melakukan aksi, atau benda yang dideskripsikan keadaannya. Sering digunakan dengan kata kerja intransitif.",
+    "particle": "が"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n桜___咲きました。\n(Bunga sakura sudah mekar.)",
+    "options": [
+      "とはいえ",
+      "ほど",
+      "が",
+      "にわたって"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'が' digunakan sebagai Penanda Subjek. Menandai subjek gramatikal yang melakukan aksi, atau benda yang dideskripsikan keadaannya. Sering digunakan dengan kata kerja intransitif.",
+    "particle": "が"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\nバス___来ました。\n(Bus sudah datang.)",
+    "options": [
+      "の",
+      "が",
+      "まで",
+      "は"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'が' digunakan sebagai Penanda Subjek. Menandai subjek gramatikal yang melakukan aksi, atau benda yang dideskripsikan keadaannya. Sering digunakan dengan kata kerja intransitif.",
+    "particle": "が"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Penanda Subjek'?\n\nContoh: 雨が降っています (Hujan sedang turun).",
+    "options": [
+      "たりとも",
+      "が",
+      "問わず",
+      "だに"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Menandai subjek gramatikal yang melakukan aksi, atau benda yang dideskripsikan keadaannya. Sering digunakan dengan kata kerja intransitif.",
+    "particle": "が"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n私は猫___好きです。\n(Saya suka kucing.)",
+    "options": [
+      "が",
+      "のみならず",
+      "すら",
+      "にかこつけて"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'が' digunakan sebagai Objek Keinginan / Kemampuan. Khusus digunakan sebelum kata sifat \"suki/kirai\" (suka/benci), \"jouzu/heta\" (pandai/bodoh), dan kata kerja bentuk potensial (bisa) atau \"hoshii\" (ingin).",
+    "particle": "が"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n日本語___わかります。\n(Saya mengerti bahasa Jepang.)",
+    "options": [
+      "が",
+      "で",
+      "なんて",
+      "だけ"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'が' digunakan sebagai Objek Keinginan / Kemampuan. Khusus digunakan sebelum kata sifat \"suki/kirai\" (suka/benci), \"jouzu/heta\" (pandai/bodoh), dan kata kerja bentuk potensial (bisa) atau \"hoshii\" (ingin).",
+    "particle": "が"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n歌___上手です。\n(Pandai bernyanyi.)",
+    "options": [
+      "が",
+      "は",
+      "かな",
+      "を"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'が' digunakan sebagai Objek Keinginan / Kemampuan. Khusus digunakan sebelum kata sifat \"suki/kirai\" (suka/benci), \"jouzu/heta\" (pandai/bodoh), dan kata kerja bentuk potensial (bisa) atau \"hoshii\" (ingin).",
+    "particle": "が"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n新しい車___欲しいです。\n(Saya ingin mobil baru.)",
+    "options": [
+      "つ～つ",
+      "が",
+      "や",
+      "けど"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'が' digunakan sebagai Objek Keinginan / Kemampuan. Khusus digunakan sebelum kata sifat \"suki/kirai\" (suka/benci), \"jouzu/heta\" (pandai/bodoh), dan kata kerja bentuk potensial (bisa) atau \"hoshii\" (ingin).",
+    "particle": "が"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n漢字___書けます。\n(Saya bisa menulis Kanji.)",
+    "options": [
+      "に",
+      "が",
+      "たら",
+      "やら"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'が' digunakan sebagai Objek Keinginan / Kemampuan. Khusus digunakan sebelum kata sifat \"suki/kirai\" (suka/benci), \"jouzu/heta\" (pandai/bodoh), dan kata kerja bentuk potensial (bisa) atau \"hoshii\" (ingin).",
+    "particle": "が"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Objek Keinginan / Kemampuan'?\n\nContoh: 私は猫が好きです (Saya suka kucing).",
+    "options": [
+      "だに",
+      "極まりない",
+      "かな",
+      "が"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Khusus digunakan sebelum kata sifat \"suki/kirai\" (suka/benci), \"jouzu/heta\" (pandai/bodoh), dan kata kerja bentuk potensial (bisa) atau \"hoshii\" (ingin).",
+    "particle": "が"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\nご飯___食べます。\n(Makan nasi.)",
+    "options": [
+      "けど",
+      "なくしては",
+      "に基づいて",
+      "を"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'を' digunakan sebagai Penanda Objek Langsung. Menandai objek yang dikenai tindakan oleh kata kerja transitif.",
+    "particle": "を"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n本___読みます。\n(Membaca buku.)",
+    "options": [
+      "から",
+      "に加えて",
+      "かな",
+      "を"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'を' digunakan sebagai Penanda Objek Langsung. Menandai objek yang dikenai tindakan oleh kata kerja transitif.",
+    "particle": "を"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n水___飲みます。\n(Minum air.)",
+    "options": [
+      "ほど",
+      "を",
+      "始末だ",
+      "くらい"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'を' digunakan sebagai Penanda Objek Langsung. Menandai objek yang dikenai tindakan oleh kata kerja transitif.",
+    "particle": "を"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\nテレビ___見ます。\n(Menonton TV.)",
+    "options": [
+      "つ～つ",
+      "は",
+      "を",
+      "とはいえ"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'を' digunakan sebagai Penanda Objek Langsung. Menandai objek yang dikenai tindakan oleh kata kerja transitif.",
+    "particle": "を"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n日本語___勉強します。\n(Belajar bahasa Jepang.)",
+    "options": [
+      "すら",
+      "始末だ",
+      "に先立って",
+      "を"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'を' digunakan sebagai Penanda Objek Langsung. Menandai objek yang dikenai tindakan oleh kata kerja transitif.",
+    "particle": "を"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Penanda Objek Langsung'?\n\nContoh: ご飯を食べます (Makan nasi).",
+    "options": [
+      "に対して",
+      "すら",
+      "なくしては",
+      "を"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Menandai objek yang dikenai tindakan oleh kata kerja transitif.",
+    "particle": "を"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n公園___散歩します。\n(Jalan-jalan di taman.)",
+    "options": [
+      "すら",
+      "とあって",
+      "を",
+      "について"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'を' digunakan sebagai Tempat yang Dilalui / Ditinggalkan. Digunakan dengan kata kerja gerak untuk menunjukkan tempat yang dilalui (seperti lewat jalan) atau tempat asal keluar (seperti turun dari kereta).",
+    "particle": "を"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n道___渡ります。\n(Menyeberang jalan.)",
+    "options": [
+      "こと",
+      "を",
+      "たりとも",
+      "を通じて"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'を' digunakan sebagai Tempat yang Dilalui / Ditinggalkan. Digunakan dengan kata kerja gerak untuk menunjukkan tempat yang dilalui (seperti lewat jalan) atau tempat asal keluar (seperti turun dari kereta).",
+    "particle": "を"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n電車___降ります。\n(Turun dari kereta.)",
+    "options": [
+      "てからというもの",
+      "を",
+      "なくしては",
+      "とか"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'を' digunakan sebagai Tempat yang Dilalui / Ditinggalkan. Digunakan dengan kata kerja gerak untuk menunjukkan tempat yang dilalui (seperti lewat jalan) atau tempat asal keluar (seperti turun dari kereta).",
+    "particle": "を"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n家___出ます。\n(Keluar dari rumah.)",
+    "options": [
+      "を",
+      "につき",
+      "や",
+      "ごとき"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'を' digunakan sebagai Tempat yang Dilalui / Ditinggalkan. Digunakan dengan kata kerja gerak untuk menunjukkan tempat yang dilalui (seperti lewat jalan) atau tempat asal keluar (seperti turun dari kereta).",
+    "particle": "を"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n空___飛びます。\n(Terbang di langit.)",
+    "options": [
+      "を",
+      "ばかりに",
+      "など",
+      "かな"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'を' digunakan sebagai Tempat yang Dilalui / Ditinggalkan. Digunakan dengan kata kerja gerak untuk menunjukkan tempat yang dilalui (seperti lewat jalan) atau tempat asal keluar (seperti turun dari kereta).",
+    "particle": "を"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Tempat yang Dilalui / Ditinggalkan'?\n\nContoh: 公園を散歩します (Jalan-jalan di taman).",
+    "options": [
+      "問わず",
+      "を",
+      "とはいえ",
+      "たびに"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Digunakan dengan kata kerja gerak untuk menunjukkan tempat yang dilalui (seperti lewat jalan) atau tempat asal keluar (seperti turun dari kereta).",
+    "particle": "を"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n毎朝、６時___起きます。\n(Setiap pagi saya bangun jam 6.)",
+    "options": [
+      "手前",
+      "に",
+      "ないものでもない",
+      "など"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'に' digunakan sebagai Titik Waktu. Digunakan untuk menunjukkan waktu spesifik terjadinya suatu kegiatan. Wajib digunakan untuk jam, tanggal, hari (opsional). Tidak digunakan untuk \"hari ini\", \"besok\", \"pagi\", dll.",
+    "particle": "に"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n日曜日___テニスをします。\n(Saya bermain tenis pada hari Minggu.)",
+    "options": [
+      "しか",
+      "につき",
+      "に",
+      "ないものでもない"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'に' digunakan sebagai Titik Waktu. Digunakan untuk menunjukkan waktu spesifik terjadinya suatu kegiatan. Wajib digunakan untuk jam, tanggal, hari (opsional). Tidak digunakan untuk \"hari ini\", \"besok\", \"pagi\", dll.",
+    "particle": "に"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n１２月２５日___パーティーがあります。\n(Ada pesta pada tanggal 25 Desember.)",
+    "options": [
+      "たびに",
+      "に",
+      "に比べて",
+      "を"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'に' digunakan sebagai Titik Waktu. Digunakan untuk menunjukkan waktu spesifik terjadinya suatu kegiatan. Wajib digunakan untuk jam, tanggal, hari (opsional). Tidak digunakan untuk \"hari ini\", \"besok\", \"pagi\", dll.",
+    "particle": "に"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n３時___会いましょう。\n(Ayo bertemu jam 3.)",
+    "options": [
+      "へ",
+      "こと",
+      "に",
+      "てやまない"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'に' digunakan sebagai Titik Waktu. Digunakan untuk menunjukkan waktu spesifik terjadinya suatu kegiatan. Wajib digunakan untuk jam, tanggal, hari (opsional). Tidak digunakan untuk \"hari ini\", \"besok\", \"pagi\", dll.",
+    "particle": "に"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\nいつ日本___来ましたか。\n(Kapan kamu datang ke Jepang?)",
+    "options": [
+      "なら",
+      "に基づいて",
+      "の",
+      "に"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'に' digunakan sebagai Titik Waktu. Digunakan untuk menunjukkan waktu spesifik terjadinya suatu kegiatan. Wajib digunakan untuk jam, tanggal, hari (opsional). Tidak digunakan untuk \"hari ini\", \"besok\", \"pagi\", dll.",
+    "particle": "に"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Titik Waktu'?\n\nContoh: 6時に起きます (Bangun pada jam 6).",
+    "options": [
+      "に",
+      "なり",
+      "極まりない",
+      "かな"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Digunakan untuk menunjukkan waktu spesifik terjadinya suatu kegiatan. Wajib digunakan untuk jam, tanggal, hari (opsional). Tidak digunakan untuk \"hari ini\", \"besok\", \"pagi\", dll.",
+    "particle": "に"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\nあそこ___コンビニがあります。\n(Di sana ada minimarket.)",
+    "options": [
+      "なんて",
+      "より",
+      "ね",
+      "に"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'に' digunakan sebagai Keberadaan (Di). Menunjukkan lokasi keberadaan benda mati (arimasu) atau makhluk hidup (imasu).",
+    "particle": "に"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n庭___犬がいます。\n(Di halaman ada anjing.)",
+    "options": [
+      "たびに",
+      "ほど",
+      "に",
+      "について"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'に' digunakan sebagai Keberadaan (Di). Menunjukkan lokasi keberadaan benda mati (arimasu) atau makhluk hidup (imasu).",
+    "particle": "に"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n机の上___本があります。\n(Di atas meja ada buku.)",
+    "options": [
+      "さいに",
+      "なくしては",
+      "から",
+      "に"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'に' digunakan sebagai Keberadaan (Di). Menunjukkan lokasi keberadaan benda mati (arimasu) atau makhluk hidup (imasu).",
+    "particle": "に"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n田中さんは事務所___います。\n(Sdr. Tanaka ada di kantor.)",
+    "options": [
+      "極まりない",
+      "など",
+      "とばかりに",
+      "に"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'に' digunakan sebagai Keberadaan (Di). Menunjukkan lokasi keberadaan benda mati (arimasu) atau makhluk hidup (imasu).",
+    "particle": "に"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n冷蔵庫___卵があります。\n(Di kulkas ada telur.)",
+    "options": [
+      "きり",
+      "たりとも",
+      "こと",
+      "に"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'に' digunakan sebagai Keberadaan (Di). Menunjukkan lokasi keberadaan benda mati (arimasu) atau makhluk hidup (imasu).",
+    "particle": "に"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Keberadaan (Di)'?\n\nContoh: 教室に学生がいます (Di kelas ada siswa).",
+    "options": [
+      "ないものでもない",
+      "に",
+      "そばから",
+      "が"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Menunjukkan lokasi keberadaan benda mati (arimasu) atau makhluk hidup (imasu).",
+    "particle": "に"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n明日、東京___行きます。\n(Besok saya pergi ke Tokyo.)",
+    "options": [
+      "つ～つ",
+      "ゆえに",
+      "に先立って",
+      "に"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'に' digunakan sebagai Tujuan Pergerakan (Ke). Menunjukkan tujuan dari perpindahan tempat. Bisa digantikan dengan \"e\".",
+    "particle": "に"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n家___来てください。\n(Silakan datang ke rumah saya.)",
+    "options": [
+      "のみならず",
+      "に",
+      "に応えて",
+      "で"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'に' digunakan sebagai Tujuan Pergerakan (Ke). Menunjukkan tujuan dari perpindahan tempat. Bisa digantikan dengan \"e\".",
+    "particle": "に"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n国___帰ります。\n(Saya pulang ke negara asal.)",
+    "options": [
+      "うちに",
+      "なり",
+      "ね",
+      "に"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'に' digunakan sebagai Tujuan Pergerakan (Ke). Menunjukkan tujuan dari perpindahan tempat. Bisa digantikan dengan \"e\".",
+    "particle": "に"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n買い物___行きます。\n(Pergi berbelanja.)",
+    "options": [
+      "だけ",
+      "たりとも",
+      "にとって",
+      "に"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'に' digunakan sebagai Tujuan Pergerakan (Ke). Menunjukkan tujuan dari perpindahan tempat. Bisa digantikan dengan \"e\".",
+    "particle": "に"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n山___登ります。\n(Mendaki gunung.)",
+    "options": [
+      "や",
+      "に",
+      "ばかり",
+      "かな"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'に' digunakan sebagai Tujuan Pergerakan (Ke). Menunjukkan tujuan dari perpindahan tempat. Bisa digantikan dengan \"e\".",
+    "particle": "に"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Tujuan Pergerakan (Ke)'?\n\nContoh: 学校に行きます (Pergi ke sekolah).",
+    "options": [
+      "のみならず",
+      "ほど",
+      "たびに",
+      "に"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Menunjukkan tujuan dari perpindahan tempat. Bisa digantikan dengan \"e\".",
+    "particle": "に"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n友達___プレゼントをあげます。\n(Memberikan kado kepada teman.)",
+    "options": [
+      "始末だ",
+      "で",
+      "に基づいて",
+      "に"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'に' digunakan sebagai Sasaran (Kepada). Menunjukkan penerima aksi atau orang yang kita tuju dalam suatu kegiatan.",
+    "particle": "に"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n先生___聞きます。\n(Bertanya kepada guru.)",
+    "options": [
+      "へ",
+      "に",
+      "など",
+      "より"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'に' digunakan sebagai Sasaran (Kepada). Menunjukkan penerima aksi atau orang yang kita tuju dalam suatu kegiatan.",
+    "particle": "に"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n母___電話しました。\n(Menelepon ibu.)",
+    "options": [
+      "のに",
+      "に",
+      "けど",
+      "か"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'に' digunakan sebagai Sasaran (Kepada). Menunjukkan penerima aksi atau orang yang kita tuju dalam suatu kegiatan.",
+    "particle": "に"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n彼___会いたいです。\n(Saya ingin bertemu dia.)",
+    "options": [
+      "に",
+      "とはいえ",
+      "つ～つ",
+      "ほど"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'に' digunakan sebagai Sasaran (Kepada). Menunjukkan penerima aksi atau orang yang kita tuju dalam suatu kegiatan.",
+    "particle": "に"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n木村さん___本を借りました。\n(Saya meminjam buku dari (kepada) Sdr. Kimura.)",
+    "options": [
+      "に",
+      "にかこつけて",
+      "なり",
+      "か"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'に' digunakan sebagai Sasaran (Kepada). Menunjukkan penerima aksi atau orang yang kita tuju dalam suatu kegiatan.",
+    "particle": "に"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Sasaran (Kepada)'?\n\nContoh: 友達に電話をかけます (Menelepon teman).",
+    "options": [
+      "を通じて",
+      "に",
+      "のみならず",
+      "と"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Menunjukkan penerima aksi atau orang yang kita tuju dalam suatu kegiatan.",
+    "particle": "に"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n駅___新聞を買いました。\n(Membeli koran di stasiun.)",
+    "options": [
+      "そばから",
+      "を通じて",
+      "ばかりに",
+      "で"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'で' digunakan sebagai Tempat Aktivitas (Di). Menunjukkan lokasi di mana suatu aksi/kegiatan dilakukan (bukan sekedar keberadaan).",
+    "particle": "で"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\nレストラン___ご飯を食べます。\n(Makan nasi di restoran.)",
+    "options": [
+      "を通じて",
+      "ゆえに",
+      "とあれば",
+      "で"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'で' digunakan sebagai Tempat Aktivitas (Di). Menunjukkan lokasi di mana suatu aksi/kegiatan dilakukan (bukan sekedar keberadaan).",
+    "particle": "で"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n部屋___寝ます。\n(Tidur di kamar.)",
+    "options": [
+      "かな",
+      "なら",
+      "ごとき",
+      "で"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'で' digunakan sebagai Tempat Aktivitas (Di). Menunjukkan lokasi di mana suatu aksi/kegiatan dilakukan (bukan sekedar keberadaan).",
+    "particle": "で"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n海___泳ぎました。\n(Berenang di laut.)",
+    "options": [
+      "で",
+      "あっての",
+      "し",
+      "にかこつけて"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'で' digunakan sebagai Tempat Aktivitas (Di). Menunjukkan lokasi di mana suatu aksi/kegiatan dilakukan (bukan sekedar keberadaan).",
+    "particle": "で"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\nどこ___働いていますか。\n(Bekerja di mana?)",
+    "options": [
+      "で",
+      "より",
+      "に沿って",
+      "ではあるまいし"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'で' digunakan sebagai Tempat Aktivitas (Di). Menunjukkan lokasi di mana suatu aksi/kegiatan dilakukan (bukan sekedar keberadaan).",
+    "particle": "で"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Tempat Aktivitas (Di)'?\n\nContoh: 図書館で勉強します (Belajar di perpustakaan).",
+    "options": [
+      "たら",
+      "で",
+      "ゆえに",
+      "しか"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Menunjukkan lokasi di mana suatu aksi/kegiatan dilakukan (bukan sekedar keberadaan).",
+    "particle": "で"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n箸___食べます。\n(Makan menggunakan sumpit.)",
+    "options": [
+      "ほど",
+      "とか",
+      "が",
+      "で"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'で' digunakan sebagai Alat / Cara. Menunjukkan sarana, alat, bahasa, atau cara yang digunakan untuk melakukan sesuatu.",
+    "particle": "で"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n日本語___レポートを書きました。\n(Menulis laporan dalam bahasa Jepang.)",
+    "options": [
+      "で",
+      "しか",
+      "ではあるまいし",
+      "が"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'で' digunakan sebagai Alat / Cara. Menunjukkan sarana, alat, bahasa, atau cara yang digunakan untuk melakukan sesuatu.",
+    "particle": "で"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n自転車___学校へ行きます。\n(Pergi ke sekolah naik sepeda.)",
+    "options": [
+      "たら",
+      "そばから",
+      "で",
+      "にとって"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'で' digunakan sebagai Alat / Cara. Menunjukkan sarana, alat, bahasa, atau cara yang digunakan untuk melakukan sesuatu.",
+    "particle": "で"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\nこれは日本語___何ですか。\n(Ini bahasa Jepangnya apa?)",
+    "options": [
+      "で",
+      "こと",
+      "ではあるまいし",
+      "につき"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'で' digunakan sebagai Alat / Cara. Menunjukkan sarana, alat, bahasa, atau cara yang digunakan untuk melakukan sesuatu.",
+    "particle": "で"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\nクレジットカード___払えますか。\n(Bisakah membayar dengan kartu kredit?)",
+    "options": [
+      "が",
+      "を通じて",
+      "で",
+      "に先立って"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'で' digunakan sebagai Alat / Cara. Menunjukkan sarana, alat, bahasa, atau cara yang digunakan untuk melakukan sesuatu.",
+    "particle": "で"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Alat / Cara'?\n\nContoh: バスで帰ります (Pulang dengan bus).",
+    "options": [
+      "に比べて",
+      "とばかりに",
+      "くらい",
+      "で"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Menunjukkan sarana, alat, bahasa, atau cara yang digunakan untuk melakukan sesuatu.",
+    "particle": "で"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\nどこ___行きますか。\n(Mau pergi ke mana?)",
+    "options": [
+      "でも",
+      "を通じて",
+      "へ",
+      "ゆえに"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'へ' digunakan sebagai Arah Pergerakan. Menunjukkan arah tujuan. Mirip dengan \"Ni\", tetapi \"E\" lebih menekankan arah perjalanan.",
+    "particle": "へ"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n京都___旅行します。\n(Traveling ke Kyoto.)",
+    "options": [
+      "ね",
+      "さいに",
+      "なくしては",
+      "へ"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'へ' digunakan sebagai Arah Pergerakan. Menunjukkan arah tujuan. Mirip dengan \"Ni\", tetapi \"E\" lebih menekankan arah perjalanan.",
+    "particle": "へ"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n未来___向かいます。\n(Menuju ke masa depan.)",
+    "options": [
+      "へ",
+      "極まりない",
+      "とあれば",
+      "手前"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'へ' digunakan sebagai Arah Pergerakan. Menunjukkan arah tujuan. Mirip dengan \"Ni\", tetapi \"E\" lebih menekankan arah perjalanan.",
+    "particle": "へ"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n右___曲がってください。\n(Tolong belok ke kanan.)",
+    "options": [
+      "始末だ",
+      "にとって",
+      "へ",
+      "で"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'へ' digunakan sebagai Arah Pergerakan. Menunjukkan arah tujuan. Mirip dengan \"Ni\", tetapi \"E\" lebih menekankan arah perjalanan.",
+    "particle": "へ"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\nようこそ日本___。\n(Selamat datang di Jepang.)",
+    "options": [
+      "やら",
+      "とはいえ",
+      "へ",
+      "くらい"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'へ' digunakan sebagai Arah Pergerakan. Menunjukkan arah tujuan. Mirip dengan \"Ni\", tetapi \"E\" lebih menekankan arah perjalanan.",
+    "particle": "へ"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Arah Pergerakan'?\n\nContoh: 日本へ行きます (Pergi ke Jepang).",
+    "options": [
+      "とか",
+      "問わず",
+      "きり",
+      "へ"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Menunjukkan arah tujuan. Mirip dengan \"Ni\", tetapi \"E\" lebih menekankan arah perjalanan.",
+    "particle": "へ"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\nこれは私___傘です。\n(Ini adalah payung saya.)",
+    "options": [
+      "で",
+      "なんて",
+      "の",
+      "とはいえ"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'の' digunakan sebagai Kepemilikan / Modifikasi. Menghubungkan dua kata benda. Sering berarti \"milik\", \"buatan\", atau \"tentang\". KB1 menerangkan KB2.",
+    "particle": "の"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n日本語___本を読みます。\n(Membaca buku bahasa Jepang.)",
+    "options": [
+      "に対して",
+      "でも",
+      "なり",
+      "の"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'の' digunakan sebagai Kepemilikan / Modifikasi. Menghubungkan dua kata benda. Sering berarti \"milik\", \"buatan\", atau \"tentang\". KB1 menerangkan KB2.",
+    "particle": "の"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n東京___天気はどうですか。\n(Bagaimana cuaca di Tokyo?)",
+    "options": [
+      "にわたって",
+      "問わず",
+      "の",
+      "ずくめ"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'の' digunakan sebagai Kepemilikan / Modifikasi. Menghubungkan dua kata benda. Sering berarti \"milik\", \"buatan\", atau \"tentang\". KB1 menerangkan KB2.",
+    "particle": "の"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\nあ___人は会社の社長です。\n(Orang itu adalah presiden direktur perusahaan.)",
+    "options": [
+      "きり",
+      "とか",
+      "につき",
+      "の"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'の' digunakan sebagai Kepemilikan / Modifikasi. Menghubungkan dua kata benda. Sering berarti \"milik\", \"buatan\", atau \"tentang\". KB1 menerangkan KB2.",
+    "particle": "の"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\nそれはどこ___靴ですか。\n(Itu sepatu buatan mana?)",
+    "options": [
+      "の",
+      "すら",
+      "あっての",
+      "しか"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'の' digunakan sebagai Kepemilikan / Modifikasi. Menghubungkan dua kata benda. Sering berarti \"milik\", \"buatan\", atau \"tentang\". KB1 menerangkan KB2.",
+    "particle": "の"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Kepemilikan / Modifikasi'?\n\nContoh: 私の本 (Buku saya).",
+    "options": [
+      "をこめて",
+      "の",
+      "だに",
+      "とも"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Menghubungkan dua kata benda. Sering berarti \"milik\", \"buatan\", atau \"tentang\". KB1 menerangkan KB2.",
+    "particle": "の"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n肉___野菜を食べます。\n(Makan daging dan sayur.)",
+    "options": [
+      "ゆえに",
+      "こと",
+      "へ",
+      "と"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'と' digunakan sebagai Dan (Lengkap). Digunakan untuk menghubungkan kata benda secara setara. Nuansanya menyebutkan semua item secara lengkap.",
+    "particle": "と"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\nこれ___それをください。\n(Tolong berikan ini dan itu.)",
+    "options": [
+      "ずくめ",
+      "をめぐって",
+      "と",
+      "に加えて"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'と' digunakan sebagai Dan (Lengkap). Digunakan untuk menghubungkan kata benda secara setara. Nuansanya menyebutkan semua item secara lengkap.",
+    "particle": "と"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n父___母は元気です。\n(Ayah dan ibu sehat.)",
+    "options": [
+      "ではあるまいし",
+      "へ",
+      "と",
+      "てやまない"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'と' digunakan sebagai Dan (Lengkap). Digunakan untuk menghubungkan kata benda secara setara. Nuansanya menyebutkan semua item secara lengkap.",
+    "particle": "と"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n時計___眼鏡を忘れました。\n(Saya lupa jam tangan dan kacamata.)",
+    "options": [
+      "のみならず",
+      "し",
+      "と",
+      "うちに"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'と' digunakan sebagai Dan (Lengkap). Digunakan untuk menghubungkan kata benda secara setara. Nuansanya menyebutkan semua item secara lengkap.",
+    "particle": "と"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n春___秋が好きです。\n(Saya suka musim semi dan musim gugur.)",
+    "options": [
+      "まで",
+      "そばから",
+      "と",
+      "を"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'と' digunakan sebagai Dan (Lengkap). Digunakan untuk menghubungkan kata benda secara setara. Nuansanya menyebutkan semua item secara lengkap.",
+    "particle": "と"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Dan (Lengkap)'?\n\nContoh: ペンとノートを買いました (Membeli pena dan buku catatan).",
+    "options": [
+      "と",
+      "とあって",
+      "にかけては",
+      "から"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Digunakan untuk menghubungkan kata benda secara setara. Nuansanya menyebutkan semua item secara lengkap.",
+    "particle": "と"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n週末、友達___映画を見ました。\n(Akhir pekan saya menonton film bersama teman.)",
+    "options": [
+      "に基づいて",
+      "と",
+      "ずくめ",
+      "あっての"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'と' digunakan sebagai Bersama (Dengan). Menunjukkan orang/hewan yang menemani melakukan aktivitas.",
+    "particle": "と"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n誰___行きますか。\n(Pergi dengan siapa?)",
+    "options": [
+      "に基づいて",
+      "つ～つ",
+      "と",
+      "きり"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'と' digunakan sebagai Bersama (Dengan). Menunjukkan orang/hewan yang menemani melakukan aktivitas.",
+    "particle": "と"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n家族___食事します。\n(Makan bersama keluarga.)",
+    "options": [
+      "と",
+      "の",
+      "そばから",
+      "や"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'と' digunakan sebagai Bersama (Dengan). Menunjukkan orang/hewan yang menemani melakukan aktivitas.",
+    "particle": "と"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n恋人___デートします。\n(Kencan dengan pacar.)",
+    "options": [
+      "の",
+      "にかけては",
+      "と",
+      "も"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'と' digunakan sebagai Bersama (Dengan). Menunjukkan orang/hewan yang menemani melakukan aktivitas.",
+    "particle": "と"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Bersama (Dengan)'?\n\nContoh: 友達と遊びます (Bermain bersama teman).",
+    "options": [
+      "について",
+      "の",
+      "うちに",
+      "と"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Menunjukkan orang/hewan yang menemani melakukan aktivitas.",
+    "particle": "と"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n箱の中にリンゴ___ミカンがあります。\n(Di dalam kotak ada apel, jeruk, dll.)",
+    "options": [
+      "のみならず",
+      "を",
+      "たら",
+      "や"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'や' digunakan sebagai Dan (Sebagian). Menyebutkan contoh sebagian benda dari kelompok yang lebih besar. Sering diikuti \"nado\" (dll).",
+    "particle": "や"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n私の趣味はテニス___水泳です。\n(Hobi saya tenis, renang, dan lainnya.)",
+    "options": [
+      "ごとき",
+      "のみならず",
+      "や",
+      "ゆえに"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'や' digunakan sebagai Dan (Sebagian). Menyebutkan contoh sebagian benda dari kelompok yang lebih besar. Sering diikuti \"nado\" (dll).",
+    "particle": "や"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n休みの日には、掃除___洗濯をします。\n(Di hari libur, saya bersih-bersih, mencuci, dll.)",
+    "options": [
+      "さいに",
+      "ほど",
+      "や",
+      "すら"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'や' digunakan sebagai Dan (Sebagian). Menyebutkan contoh sebagian benda dari kelompok yang lebih besar. Sering diikuti \"nado\" (dll).",
+    "particle": "や"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n部屋にテレビ___ベッドがあります。\n(Di kamar ada TV, kasur, dsb.)",
+    "options": [
+      "しか",
+      "や",
+      "は",
+      "ばかりに"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'や' digunakan sebagai Dan (Sebagian). Menyebutkan contoh sebagian benda dari kelompok yang lebih besar. Sering diikuti \"nado\" (dll).",
+    "particle": "や"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n動物園でパンダ___ライオンを見ました。\n(Di kebun binatang saya melihat panda, singa, dll.)",
+    "options": [
+      "にわたって",
+      "や",
+      "ゆえに",
+      "だに"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'や' digunakan sebagai Dan (Sebagian). Menyebutkan contoh sebagian benda dari kelompok yang lebih besar. Sering diikuti \"nado\" (dll).",
+    "particle": "や"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Dan (Sebagian)'?\n\nContoh: 机の上に本やペンがあります (Di meja ada buku, pena, dll).",
+    "options": [
+      "や",
+      "ではあるまいし",
+      "とばかりに",
+      "しか"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Menyebutkan contoh sebagian benda dari kelompok yang lebih besar. Sering diikuti \"nado\" (dll).",
+    "particle": "や"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n今日___明日、電話します。\n(Hari ini atau besok, saya akan menelepon.)",
+    "options": [
+      "たら",
+      "のに",
+      "しか",
+      "か"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'か' digunakan sebagai Atau / Pilihan. Menunjukkan pilihan antara dua hal atau lebih.",
+    "particle": "か"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\nバス___タクシーで行きましょう。\n(Ayo pergi naik bus atau taksi.)",
+    "options": [
+      "か",
+      "すら",
+      "にかけては",
+      "さいに"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'か' digunakan sebagai Atau / Pilihan. Menunjukkan pilihan antara dua hal atau lebih.",
+    "particle": "か"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n青___赤が好きです。\n(Saya suka biru atau merah.)",
+    "options": [
+      "について",
+      "うちに",
+      "か",
+      "に"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'か' digunakan sebagai Atau / Pilihan. Menunjukkan pilihan antara dua hal atau lebih.",
+    "particle": "か"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n右___左かわかりません。\n(Saya tidak tahu kanan atau kiri.)",
+    "options": [
+      "か",
+      "に先立って",
+      "にかけては",
+      "手前"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'か' digunakan sebagai Atau / Pilihan. Menunjukkan pilihan antara dua hal atau lebih.",
+    "particle": "か"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n肉___魚、どちらがいいですか。\n(Daging atau ikan, mana yang lebih baik?)",
+    "options": [
+      "しか",
+      "ないものでもない",
+      "ゆえに",
+      "か"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'か' digunakan sebagai Atau / Pilihan. Menunjukkan pilihan antara dua hal atau lebih.",
+    "particle": "か"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Atau / Pilihan'?\n\nContoh: コーヒーか紅茶を飲みます (Minum kopi atau teh).",
+    "options": [
+      "に先立って",
+      "とあって",
+      "とばかりに",
+      "か"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Menunjukkan pilihan antara dua hal atau lebih.",
+    "particle": "か"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\nお元気です___。\n(Apa kabar?)",
+    "options": [
+      "とばかりに",
+      "は",
+      "か",
+      "をこめて"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'か' digunakan sebagai Tanda Tanya. Diletakkan di akhir kalimat untuk mengubahnya menjadi kalimat tanya.",
+    "particle": "か"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n今、何時です___。\n(Sekarang jam berapa?)",
+    "options": [
+      "にかこつけて",
+      "とばかりに",
+      "か",
+      "ばかり"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'か' digunakan sebagai Tanda Tanya. Diletakkan di akhir kalimat untuk mengubahnya menjadi kalimat tanya.",
+    "particle": "か"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\nわ___りましたか。\n(Apakah sudah mengerti?)",
+    "options": [
+      "手前",
+      "など",
+      "やら",
+      "か"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'か' digunakan sebagai Tanda Tanya. Diletakkan di akhir kalimat untuk mengubahnya menjadi kalimat tanya.",
+    "particle": "か"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\nそうです___。\n(Begitu ya?)",
+    "options": [
+      "たりとも",
+      "うちに",
+      "か",
+      "くらい"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'か' digunakan sebagai Tanda Tanya. Diletakkan di akhir kalimat untuk mengubahnya menjadi kalimat tanya.",
+    "particle": "か"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\nだれです___。\n(Siapa itu?)",
+    "options": [
+      "さいに",
+      "から",
+      "か",
+      "ないものでもない"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'か' digunakan sebagai Tanda Tanya. Diletakkan di akhir kalimat untuk mengubahnya menjadi kalimat tanya.",
+    "particle": "か"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Tanda Tanya'?\n\nContoh: これは何ですか (Ini apa?).",
+    "options": [
+      "とあれば",
+      "か",
+      "に加えて",
+      "やら"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Diletakkan di akhir kalimat untuk mengubahnya menjadi kalimat tanya.",
+    "particle": "か"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\nあの方___日本人です。\n(Beliau itu juga orang Jepang.)",
+    "options": [
+      "さいに",
+      "も",
+      "ないものでもない",
+      "始末だ"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'も' digunakan sebagai Juga / Pun. Menggantikan partikel \"wa\", \"ga\", atau \"o\" untuk menunjukkan kesamaan dengan hal yang disebutkan sebelumnya.",
+    "particle": "も"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\nこれ___ください。\n(Tolong yang ini juga.)",
+    "options": [
+      "も",
+      "に比べて",
+      "うちに",
+      "てやまない"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'も' digunakan sebagai Juga / Pun. Menggantikan partikel \"wa\", \"ga\", atau \"o\" untuk menunjukkan kesamaan dengan hal yang disebutkan sebelumnya.",
+    "particle": "も"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n昨日___雨でした。\n(Kemarin juga hujan.)",
+    "options": [
+      "ばかりに",
+      "も",
+      "手前",
+      "うちに"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'も' digunakan sebagai Juga / Pun. Menggantikan partikel \"wa\", \"ga\", atau \"o\" untuk menunjukkan kesamaan dengan hal yang disebutkan sebelumnya.",
+    "particle": "も"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n英語___話せます。\n(Bahasa Inggris pun saya bisa.)",
+    "options": [
+      "こと",
+      "なり",
+      "きり",
+      "も"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'も' digunakan sebagai Juga / Pun. Menggantikan partikel \"wa\", \"ga\", atau \"o\" untuk menunjukkan kesamaan dengan hal yang disebutkan sebelumnya.",
+    "particle": "も"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\nコーヒーが好きです。紅茶___好きです。\n(Saya suka kopi. Teh juga suka.)",
+    "options": [
+      "ほど",
+      "も",
+      "つ～つ",
+      "に応えて"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'も' digunakan sebagai Juga / Pun. Menggantikan partikel \"wa\", \"ga\", atau \"o\" untuk menunjukkan kesamaan dengan hal yang disebutkan sebelumnya.",
+    "particle": "も"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Juga / Pun'?\n\nContoh: 私も学生です (Saya juga siswa).",
+    "options": [
+      "も",
+      "ではあるまいし",
+      "と",
+      "あっての"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Menggantikan partikel \"wa\", \"ga\", atau \"o\" untuk menunjukkan kesamaan dengan hal yang disebutkan sebelumnya.",
+    "particle": "も"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n会議は１時___始まります。\n(Rapat dimulai dari jam 1.)",
+    "options": [
+      "から",
+      "にとって",
+      "問わず",
+      "につき"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'から' digunakan sebagai Titik Awal (Dari). Menunjukkan titik permulaan waktu atau tempat.",
+    "particle": "から"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\nここ___駅まで近いです。\n(Dari sini sampai stasiun dekat.)",
+    "options": [
+      "や",
+      "から",
+      "しか",
+      "をこめて"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'から' digunakan sebagai Titik Awal (Dari). Menunjukkan titik permulaan waktu atau tempat.",
+    "particle": "から"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n大阪___来ました。\n(Saya datang dari Osaka.)",
+    "options": [
+      "とあって",
+      "だけ",
+      "とあれば",
+      "から"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'から' digunakan sebagai Titik Awal (Dari). Menunjukkan titik permulaan waktu atau tempat.",
+    "particle": "から"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n何時___ですか。\n(Dari jam berapa?)",
+    "options": [
+      "など",
+      "さいに",
+      "から",
+      "けど"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'から' digunakan sebagai Titik Awal (Dari). Menunjukkan titik permulaan waktu atau tempat.",
+    "particle": "から"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n月曜日___金曜日まで働きます。\n(Bekerja dari Senin sampai Jumat.)",
+    "options": [
+      "し",
+      "くらい",
+      "から",
+      "手前"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'から' digunakan sebagai Titik Awal (Dari). Menunjukkan titik permulaan waktu atau tempat.",
+    "particle": "から"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Titik Awal (Dari)'?\n\nContoh: 9時から働きます (Bekerja dari jam 9).",
+    "options": [
+      "とばかりに",
+      "しか",
+      "から",
+      "なくしては"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Menunjukkan titik permulaan waktu atau tempat.",
+    "particle": "から"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n時間がない___、タクシーで行きましょう。\n(Karena tidak ada waktu, ayo pergi naik taksi.)",
+    "options": [
+      "を通じて",
+      "手前",
+      "ばかりに",
+      "から"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'から' digunakan sebagai Alasan (Karena). Diletakkan di akhir kalimat penyebab untuk menyatakan alasan.",
+    "particle": "から"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n危ないです___、触らないでください。\n(Karena berbahaya, tolong jangan disentuh.)",
+    "options": [
+      "に",
+      "から",
+      "ずくめ",
+      "ないものでもない"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'から' digunakan sebagai Alasan (Karena). Diletakkan di akhir kalimat penyebab untuk menyatakan alasan.",
+    "particle": "から"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n高いです___、買いません。\n(Karena mahal, saya tidak beli.)",
+    "options": [
+      "ゆえに",
+      "から",
+      "をめぐって",
+      "とも"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'から' digunakan sebagai Alasan (Karena). Diletakkan di akhir kalimat penyebab untuk menyatakan alasan.",
+    "particle": "から"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n好きだ___、毎日食べます。\n(Karena suka, saya makan setiap hari.)",
+    "options": [
+      "から",
+      "てからというもの",
+      "にわたって",
+      "とも"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'から' digunakan sebagai Alasan (Karena). Diletakkan di akhir kalimat penyebab untuk menyatakan alasan.",
+    "particle": "から"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n雨だ___、出かけません。\n(Karena hujan, saya tidak keluar.)",
+    "options": [
+      "で",
+      "に加えて",
+      "とはいえ",
+      "から"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'から' digunakan sebagai Alasan (Karena). Diletakkan di akhir kalimat penyebab untuk menyatakan alasan.",
+    "particle": "から"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Alasan (Karena)'?\n\nContoh: 暑いですから、窓を開けます (Karena panas, saya buka jendela).",
+    "options": [
+      "こと",
+      "に先立って",
+      "なら",
+      "から"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Diletakkan di akhir kalimat penyebab untuk menyatakan alasan.",
+    "particle": "から"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n駅___歩きます。\n(Berjalan sampai stasiun.)",
+    "options": [
+      "とばかりに",
+      "とも",
+      "まで",
+      "と"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'まで' digunakan sebagai Batas Akhir (Sampai). Menunjukkan titik akhir waktu atau tempat.",
+    "particle": "まで"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n昼休みは１時___です。\n(Istirahat siang sampai jam 1.)",
+    "options": [
+      "でも",
+      "まで",
+      "をめぐって",
+      "だけ"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'まで' digunakan sebagai Batas Akhir (Sampai). Menunjukkan titik akhir waktu atau tempat.",
+    "particle": "まで"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n東京___どのぐらいかかりますか。\n(Sampai Tokyo memakan waktu berapa lama?)",
+    "options": [
+      "にかけては",
+      "を通じて",
+      "まで",
+      "から"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'まで' digunakan sebagai Batas Akhir (Sampai). Menunjukkan titik akhir waktu atau tempat.",
+    "particle": "まで"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n朝___寝ませんでした。\n(Saya tidak tidur sampai pagi.)",
+    "options": [
+      "まで",
+      "に沿って",
+      "やら",
+      "たら"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'まで' digunakan sebagai Batas Akhir (Sampai). Menunjukkan titik akhir waktu atau tempat.",
+    "particle": "まで"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\nここ___お願いします。\n(Tolong antar sampai sini.)",
+    "options": [
+      "まで",
+      "に加えて",
+      "問わず",
+      "すら"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'まで' digunakan sebagai Batas Akhir (Sampai). Menunjukkan titik akhir waktu atau tempat.",
+    "particle": "まで"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Batas Akhir (Sampai)'?\n\nContoh: 5時まで勉強します (Belajar sampai jam 5).",
+    "options": [
+      "たら",
+      "は",
+      "ばかりに",
+      "まで"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Menunjukkan titik akhir waktu atau tempat.",
+    "particle": "まで"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n今日は暑いです___。\n(Hari ini panas ya.)",
+    "options": [
+      "を通じて",
+      "なり",
+      "ね",
+      "くらい"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'ね' digunakan sebagai Persetujuan / Konfirmasi. Digunakan di akhir kalimat untuk meminta persetujuan lawan bicara (Ya kan?) atau memastikan sesuatu.",
+    "particle": "ね"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\nきれいな花です___。\n(Bunga yang indah ya.)",
+    "options": [
+      "たら",
+      "ね",
+      "あっての",
+      "に基づいて"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'ね' digunakan sebagai Persetujuan / Konfirmasi. Digunakan di akhir kalimat untuk meminta persetujuan lawan bicara (Ya kan?) atau memastikan sesuatu.",
+    "particle": "ね"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n日本語は難しいです___。\n(Bahasa Jepang sulit ya.)",
+    "options": [
+      "し",
+      "ね",
+      "について",
+      "ばかり"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'ね' digunakan sebagai Persetujuan / Konfirmasi. Digunakan di akhir kalimat untuk meminta persetujuan lawan bicara (Ya kan?) atau memastikan sesuatu.",
+    "particle": "ね"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n明日ですよ(___)。\n(Besok kan ya?)",
+    "options": [
+      "だに",
+      "つ～つ",
+      "とか",
+      "ね"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'ね' digunakan sebagai Persetujuan / Konfirmasi. Digunakan di akhir kalimat untuk meminta persetujuan lawan bicara (Ya kan?) atau memastikan sesuatu.",
+    "particle": "ね"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\nそうです___。\n(Benar juga ya / Begitu ya.)",
+    "options": [
+      "を通じて",
+      "に沿って",
+      "ね",
+      "てやまない"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'ね' digunakan sebagai Persetujuan / Konfirmasi. Digunakan di akhir kalimat untuk meminta persetujuan lawan bicara (Ya kan?) atau memastikan sesuatu.",
+    "particle": "ね"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Persetujuan / Konfirmasi'?\n\nContoh: いい天気ですね (Cuaca bagus ya).",
+    "options": [
+      "とばかりに",
+      "ね",
+      "たびに",
+      "ではあるまいし"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Digunakan di akhir kalimat untuk meminta persetujuan lawan bicara (Ya kan?) atau memastikan sesuatu.",
+    "particle": "ね"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\nこの映画は面白いです___。\n(Film ini menarik lho.)",
+    "options": [
+      "も",
+      "ごとき",
+      "よ",
+      "うちに"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'よ' digunakan sebagai Informasi Baru / Penekanan. Digunakan di akhir kalimat untuk memberitahu informasi yang lawan bicara belum tahu, atau menekankan pernyataan.",
+    "particle": "よ"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n明日は休みです___。\n(Besok libur lho (memberitahu).)",
+    "options": [
+      "に基づいて",
+      "よ",
+      "こと",
+      "とあって"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'よ' digunakan sebagai Informasi Baru / Penekanan. Digunakan di akhir kalimat untuk memberitahu informasi yang lawan bicara belum tahu, atau menekankan pernyataan.",
+    "particle": "よ"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n違います___。\n(Bukan begitu lho / Salah lho.)",
+    "options": [
+      "をめぐって",
+      "に加えて",
+      "とあって",
+      "よ"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'よ' digunakan sebagai Informasi Baru / Penekanan. Digunakan di akhir kalimat untuk memberitahu informasi yang lawan bicara belum tahu, atau menekankan pernyataan.",
+    "particle": "よ"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n塩じゃなくて、砂糖です___。\n(Bukan garam, tapi gula lho.)",
+    "options": [
+      "よ",
+      "だに",
+      "とも",
+      "のみならず"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'よ' digunakan sebagai Informasi Baru / Penekanan. Digunakan di akhir kalimat untuk memberitahu informasi yang lawan bicara belum tahu, atau menekankan pernyataan.",
+    "particle": "よ"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n行きましょう___。\n(Ayo pergi dong (ajakan kuat).)",
+    "options": [
+      "にかけては",
+      "に先立って",
+      "よ",
+      "の"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'よ' digunakan sebagai Informasi Baru / Penekanan. Digunakan di akhir kalimat untuk memberitahu informasi yang lawan bicara belum tahu, atau menekankan pernyataan.",
+    "particle": "よ"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Informasi Baru / Penekanan'?\n\nContoh: あそこに犬がいますよ (Di sana ada anjing lho!).",
+    "options": [
+      "ではあるまいし",
+      "よ",
+      "さいに",
+      "と"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N5",
+    "inputType": "CHOICE",
+    "explanation": "Digunakan di akhir kalimat untuk memberitahu informasi yang lawan bicara belum tahu, atau menekankan pernyataan.",
+    "particle": "よ"
+  }
+]

@@ -1,0 +1,982 @@
+[
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n課長は部屋に入ってくる___、怒鳴った。\n(Begitu kepala seksi masuk ruangan, dia langsung berteriak marah.)",
+    "options": [
+      "きり",
+      "なり",
+      "なんて",
+      "ほど"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N1",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'なり' digunakan sebagai Segera setelah (Mengejutkan). [Rumus: KK(Kamus) + なり] Segera setelah melakukan A, langsung melakukan B. Biasanya subjeknya sama, dan aksi B adalah sesuatu yang mengejutkan atau di luar kebiasaan.",
+    "particle": "なり"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n子供は母親の顔を見る___、泣き出した。\n(Begitu melihat wajah ibunya, anak itu langsung menangis.)",
+    "options": [
+      "さいに",
+      "ね",
+      "なり",
+      "にとって"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N1",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'なり' digunakan sebagai Segera setelah (Mengejutkan). [Rumus: KK(Kamus) + なり] Segera setelah melakukan A, langsung melakukan B. Biasanya subjeknya sama, dan aksi B adalah sesuatu yang mengejutkan atau di luar kebiasaan.",
+    "particle": "なり"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n電話を切る___、彼は外へ飛び出した。\n(Segera setelah menutup telepon, dia berlari keluar.)",
+    "options": [
+      "なり",
+      "に対して",
+      "くらい",
+      "始末だ"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N1",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'なり' digunakan sebagai Segera setelah (Mengejutkan). [Rumus: KK(Kamus) + なり] Segera setelah melakukan A, langsung melakukan B. Biasanya subjeknya sama, dan aksi B adalah sesuatu yang mengejutkan atau di luar kebiasaan.",
+    "particle": "なり"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Segera setelah (Mengejutkan)'?\n\nContoh: 彼はコーヒーを飲むなり、吐き出してしまった (Begitu minum kopi, dia langsung memuntahkannya).",
+    "options": [
+      "に先立って",
+      "なり",
+      "より",
+      "にかこつけて"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N1",
+    "inputType": "CHOICE",
+    "explanation": "[Rumus: KK(Kamus) + なり] Segera setelah melakukan A, langsung melakukan B. Biasanya subjeknya sama, dan aksi B adalah sesuatu yang mengejutkan atau di luar kebiasaan.",
+    "particle": "なり"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n彼女は僕の顔を見る___、逃げ出した。\n(Begitu melihat wajahku, dia langsung kabur.)",
+    "options": [
+      "が早いか",
+      "に加えて",
+      "さいに",
+      "に先立って"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N1",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'が早いか' digunakan sebagai Segera setelah (Hampir bersamaan). [Rumus: KK(Kamus) + が早いか] Aksi A dan B terjadi hampir dalam waktu yang sama. Menekankan kecepatan reaksi.",
+    "particle": "が早いか"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n電車が着く___、乗客はドアに殺到した。\n(Begitu kereta tiba, penumpang langsung menyerbu pintu.)",
+    "options": [
+      "ないものでもない",
+      "たら",
+      "を通じて",
+      "が早いか"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N1",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'が早いか' digunakan sebagai Segera setelah (Hampir bersamaan). [Rumus: KK(Kamus) + が早いか] Aksi A dan B terjadi hampir dalam waktu yang sama. Menekankan kecepatan reaksi.",
+    "particle": "が早いか"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n父は帰宅する___、テレビをつけた。\n(Begitu pulang ke rumah, ayah langsung menyalakan TV.)",
+    "options": [
+      "が早いか",
+      "くらい",
+      "こと",
+      "を"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N1",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'が早いか' digunakan sebagai Segera setelah (Hampir bersamaan). [Rumus: KK(Kamus) + が早いか] Aksi A dan B terjadi hampir dalam waktu yang sama. Menekankan kecepatan reaksi.",
+    "particle": "が早いか"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Segera setelah (Hampir bersamaan)'?\n\nContoh: ベルが鳴るが早いか、生徒たちは教室を出た (Begitu bel berbunyi, siswa langsung keluar kelas).",
+    "options": [
+      "とか",
+      "すら",
+      "まで",
+      "が早いか"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N1",
+    "inputType": "CHOICE",
+    "explanation": "[Rumus: KK(Kamus) + が早いか] Aksi A dan B terjadi hampir dalam waktu yang sama. Menekankan kecepatan reaksi.",
+    "particle": "が早いか"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\nその男は警官の姿を見る___、逃げ出した。\n(Pria itu segera kabur begitu melihat sosok polisi.)",
+    "options": [
+      "極まりない",
+      "より",
+      "や",
+      "とも"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N1",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'や' digunakan sebagai Baru saja... tiba-tiba.... [Rumus: KK(Kamus) + や / や否や] Segera setelah A terjadi, B terjadi. Sering digunakan untuk kejadian alam atau situasi di luar kendali.",
+    "particle": "や"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n開演のベルが鳴る___否や、会場は静まり返った。\n(Begitu bel tanda mulai berbunyi, tempat acara menjadi sunyi senyap.)",
+    "options": [
+      "たら",
+      "や",
+      "なくしては",
+      "すら"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N1",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'や' digunakan sebagai Baru saja... tiba-tiba.... [Rumus: KK(Kamus) + や / や否や] Segera setelah A terjadi, B terjadi. Sering digunakan untuk kejadian alam atau situasi di luar kendali.",
+    "particle": "や"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Baru saja... tiba-tiba...'?\n\nContoh: 空が暗くなるや否や、激しい雨が降り始めた (Begitu langit gelap, hujan deras mulai turun).",
+    "options": [
+      "とか",
+      "や",
+      "つ～つ",
+      "すら"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N1",
+    "inputType": "CHOICE",
+    "explanation": "[Rumus: KK(Kamus) + や / や否や] Segera setelah A terjadi, B terjadi. Sering digunakan untuk kejadian alam atau situasi di luar kendali.",
+    "particle": "や"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n辞書で単語を覚える___忘れていく。\n(Baru saja menghafal kosakata dari kamus, langsung lupa lagi.)",
+    "options": [
+      "たりとも",
+      "から",
+      "ないものでもない",
+      "そばから"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N1",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'そばから' digunakan sebagai Baru saja... (Langsung terulang lagi). [Rumus: KK(Kamus/Ta) + そばから] Meskipun sudah melakukan A, segera terjadi B yang membatalkan/merusak hasil A. Menunjukkan pengulangan yang sia-sia.",
+    "particle": "そばから"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n雑草は抜く___生えてくる。\n(Rumput liar itu baru dicabut langsung tumbuh lagi.)",
+    "options": [
+      "そばから",
+      "が早いか",
+      "のに",
+      "につき"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N1",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'そばから' digunakan sebagai Baru saja... (Langsung terulang lagi). [Rumus: KK(Kamus/Ta) + そばから] Meskipun sudah melakukan A, segera terjadi B yang membatalkan/merusak hasil A. Menunjukkan pengulangan yang sia-sia.",
+    "particle": "そばから"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Baru saja... (Langsung terulang lagi)'?\n\nContoh: 片付けるそばから、子供が散らかす (Baru saja dibereskan, anak-anak langsung memberantakkannya lagi).",
+    "options": [
+      "に",
+      "について",
+      "だけ",
+      "そばから"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N1",
+    "inputType": "CHOICE",
+    "explanation": "[Rumus: KK(Kamus/Ta) + そばから] Meskipun sudah melakukan A, segera terjadi B yang membatalkan/merusak hasil A. Menunjukkan pengulangan yang sia-sia.",
+    "particle": "そばから"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n娘が生まれ___、彼は酒を飲まなくなった。\n(Semenjak putrinya lahir, dia sama sekali tidak minum alkohol lagi.)",
+    "options": [
+      "てからというもの",
+      "が早いか",
+      "てやまない",
+      "ないものでもない"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N1",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'てからというもの' digunakan sebagai Semenjak (Perubahan besar). [Rumus: KK(Te) + からというもの] Sejak peristiwa A, terjadi perubahan besar dan keadaan B terus berlanjut hingga sekarang. Tidak dipakai untuk waktu yang singkat.",
+    "particle": "てからというもの"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\nあの事故があっ___、彼は運転をやめた。\n(Semenjak kecelakaan itu, dia berhenti mengemudi.)",
+    "options": [
+      "てからというもの",
+      "やら",
+      "よ",
+      "につき"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N1",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'てからというもの' digunakan sebagai Semenjak (Perubahan besar). [Rumus: KK(Te) + からというもの] Sejak peristiwa A, terjadi perubahan besar dan keadaan B terus berlanjut hingga sekarang. Tidak dipakai untuk waktu yang singkat.",
+    "particle": "てからというもの"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Semenjak (Perubahan besar)'?\n\nContoh: 日本に来てからというもの、考え方が変わった (Semenjak datang ke Jepang, cara pandang saya berubah).",
+    "options": [
+      "とあって",
+      "てからというもの",
+      "やら",
+      "さいに"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N1",
+    "inputType": "CHOICE",
+    "explanation": "[Rumus: KK(Te) + からというもの] Sejak peristiwa A, terjadi perubahan besar dan keadaan B terus berlanjut hingga sekarang. Tidak dipakai untuk waktu yang singkat.",
+    "particle": "てからというもの"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n健康___仕事だ。無理はいけない。\n(Pekerjaan itu ada karena kesehatan (kesehatan yang utama). Jangan memaksakan diri.)",
+    "options": [
+      "とか",
+      "てやまない",
+      "ごとき",
+      "あっての"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N1",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'あっての' digunakan sebagai Ada berkat / Bergantung pada. [Rumus: KB + あっての + KB] B bisa eksis/sukses KARENA ada A. Tanpa A, B tidak mungkin ada. Menunjukkan rasa syukur atau pentingnya A.",
+    "particle": "あっての"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n日々の練習___勝利だ。\n(Kemenangan ini ada berkat latihan setiap hari.)",
+    "options": [
+      "うちに",
+      "ごとき",
+      "あっての",
+      "こと"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N1",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'あっての' digunakan sebagai Ada berkat / Bergantung pada. [Rumus: KB + あっての + KB] B bisa eksis/sukses KARENA ada A. Tanpa A, B tidak mungkin ada. Menunjukkan rasa syukur atau pentingnya A.",
+    "particle": "あっての"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Ada berkat / Bergantung pada'?\n\nContoh: お客様あっての私たちです (Kami ada karena adanya pelanggan).",
+    "options": [
+      "きり",
+      "あっての",
+      "なんて",
+      "ほど"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N1",
+    "inputType": "CHOICE",
+    "explanation": "[Rumus: KB + あっての + KB] B bisa eksis/sukses KARENA ada A. Tanpa A, B tidak mungkin ada. Menunjukkan rasa syukur atau pentingnya A.",
+    "particle": "あっての"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n危険___行為だ。\n(Itu adalah tindakan yang sangat berbahaya.)",
+    "options": [
+      "を",
+      "とか",
+      "とあって",
+      "極まりない"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N1",
+    "inputType": "CHOICE",
+    "explanation": "Partikel '極まりない' digunakan sebagai Sangat / Tak terhingga (Negatif). [Rumus: KS-Na(tanpa na) + 極まりない] Menunjukkan tingkat yang ekstrem, biasanya untuk hal negatif atau kritis.",
+    "particle": "極まりない"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\nその説明は不愉快___。\n(Penjelasan itu sangat tidak menyenangkan.)",
+    "options": [
+      "ほど",
+      "極まりない",
+      "たら",
+      "について"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N1",
+    "inputType": "CHOICE",
+    "explanation": "Partikel '極まりない' digunakan sebagai Sangat / Tak terhingga (Negatif). [Rumus: KS-Na(tanpa na) + 極まりない] Menunjukkan tingkat yang ekstrem, biasanya untuk hal negatif atau kritis.",
+    "particle": "極まりない"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Sangat / Tak terhingga (Negatif)'?\n\nContoh: 失礼極まりない態度だ (Sikap yang sungguh sangat tidak sopan).",
+    "options": [
+      "極まりない",
+      "とはいえ",
+      "にとって",
+      "そばから"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N1",
+    "inputType": "CHOICE",
+    "explanation": "[Rumus: KS-Na(tanpa na) + 極まりない] Menunjukkan tingkat yang ekstrem, biasanya untuk hal negatif atau kritis.",
+    "particle": "極まりない"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\nお前___に何ができる。\n(Apa yang bisa dilakukan oleh orang sepertimu?)",
+    "options": [
+      "にわたって",
+      "し",
+      "ごとき",
+      "なんて"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N1",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'ごとき' digunakan sebagai Seperti / Sekelas (Merendahkan). [Rumus: KB + の + ごとき] Seperti... (Kiasan). Jika dipakai untuk orang (terutama diri sendiri), bermakna merendahkan (\"Orang sekelas saya...\").",
+    "particle": "ごとき"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Seperti / Sekelas (Merendahkan)'?\n\nContoh: 私ごときが意見を言うのは失礼ですが... (Tidak sopan bagi orang rendahan seperti saya berpendapat, tapi...).",
+    "options": [
+      "たら",
+      "ごとき",
+      "ではあるまいし",
+      "について"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N1",
+    "inputType": "CHOICE",
+    "explanation": "[Rumus: KB + の + ごとき] Seperti... (Kiasan). Jika dipakai untuk orang (terutama diri sendiri), bermakna merendahkan (\"Orang sekelas saya...\").",
+    "particle": "ごとき"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n息子は家出をして、警察に補導される___。\n(Anaknya kabur, dan akhirnya diamankan polisi.)",
+    "options": [
+      "始末だ",
+      "で",
+      "を",
+      "きり"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N1",
+    "inputType": "CHOICE",
+    "explanation": "Partikel '始末だ' digunakan sebagai Berakhir menjadi... (Buruk). [Rumus: KK(Kamus) + 始末だ] Akhirnya menjadi... (hasil yang buruk). Setelah proses negatif, berakhir dengan keadaan menyedihkan ini.",
+    "particle": "始末だ"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n昨日は飲みすぎて、駅で寝てしまう___った。\n(Kemarin minum terlalu banyak, akhirnya malah tidur di stasiun.)",
+    "options": [
+      "か",
+      "さいに",
+      "やら",
+      "始末だ"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N1",
+    "inputType": "CHOICE",
+    "explanation": "Partikel '始末だ' digunakan sebagai Berakhir menjadi... (Buruk). [Rumus: KK(Kamus) + 始末だ] Akhirnya menjadi... (hasil yang buruk). Setelah proses negatif, berakhir dengan keadaan menyedihkan ini.",
+    "particle": "始末だ"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Berakhir menjadi... (Buruk)'?\n\nContoh: 遊んでばかりいて、学校を辞める始末だ (Main melulu, akhirnya sampai berhenti sekolah).",
+    "options": [
+      "だに",
+      "など",
+      "始末だ",
+      "ではあるまいし"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N1",
+    "inputType": "CHOICE",
+    "explanation": "[Rumus: KK(Kamus) + 始末だ] Akhirnya menjadi... (hasil yang buruk). Setelah proses negatif, berakhir dengan keadaan menyedihkan ini.",
+    "particle": "始末だ"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\nこの旅行はいいこと___だった。\n(Perjalanan ini penuh dengan hal-hal baik.)",
+    "options": [
+      "ずくめ",
+      "で",
+      "だけ",
+      "へ"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N1",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'ずくめ' digunakan sebagai Penuh dengan / Serba. [Rumus: KB + ずくめ] Penuh dengan... / Semuanya... (Biasanya hal yang baik atau warna pakaian).",
+    "particle": "ずくめ"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n幸せ___の人生なんてない。\n(Tidak ada hidup yang isinya bahagia melulu.)",
+    "options": [
+      "あっての",
+      "ずくめ",
+      "ではあるまいし",
+      "をめぐって"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N1",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'ずくめ' digunakan sebagai Penuh dengan / Serba. [Rumus: KB + ずくめ] Penuh dengan... / Semuanya... (Biasanya hal yang baik atau warna pakaian).",
+    "particle": "ずくめ"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Penuh dengan / Serba'?\n\nContoh: 黒ずくめの男 (Pria berpakaian serba hitam).",
+    "options": [
+      "とか",
+      "より",
+      "てからというもの",
+      "ずくめ"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N1",
+    "inputType": "CHOICE",
+    "explanation": "[Rumus: KB + ずくめ] Penuh dengan... / Semuanya... (Biasanya hal yang baik atau warna pakaian).",
+    "particle": "ずくめ"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n約束した___、行かないわけにはいかない。\n(Karena sudah terlanjur janji, tidak mungkin saya tidak pergi.)",
+    "options": [
+      "こと",
+      "ね",
+      "手前",
+      "とか"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N1",
+    "inputType": "CHOICE",
+    "explanation": "Partikel '手前' digunakan sebagai Karena di depan... (Gengsi). [Rumus: KB + の + 手前] Karena di depan... / Karena sudah terlanjur..., maka harus (menjaga gengsi/tanggung jawab/citra diri).",
+    "particle": "手前"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n世間体の___、派手な生活はできない。\n(Demi pandangan masyarakat, saya tidak bisa hidup bermewah-mewah.)",
+    "options": [
+      "ずくめ",
+      "手前",
+      "うちに",
+      "に比べて"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N1",
+    "inputType": "CHOICE",
+    "explanation": "Partikel '手前' digunakan sebagai Karena di depan... (Gengsi). [Rumus: KB + の + 手前] Karena di depan... / Karena sudah terlanjur..., maka harus (menjaga gengsi/tanggung jawab/citra diri).",
+    "particle": "手前"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Karena di depan... (Gengsi)'?\n\nContoh: 子供の手前、泣くわけにはいかない (Karena di depan anak-anak, saya tidak boleh menangis).",
+    "options": [
+      "なら",
+      "手前",
+      "を",
+      "ね"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N1",
+    "inputType": "CHOICE",
+    "explanation": "[Rumus: KB + の + 手前] Karena di depan... / Karena sudah terlanjur..., maka harus (menjaga gengsi/tanggung jawab/citra diri).",
+    "particle": "手前"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n社長の命令___は、従わざるを得ない。\n(Karena ini perintah presdir, mau tidak mau harus patuh.)",
+    "options": [
+      "など",
+      "をめぐって",
+      "なんて",
+      "とあって"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N1",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'とあって' digunakan sebagai Karena kondisinya... (Wajar). [Rumus: KB/Kalimat Biasa + とあって] Karena berada dalam situasi khusus/luar biasa tersebut, maka wajar jika terjadi...",
+    "particle": "とあって"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n有名人の結婚式___、多くのマスコミが集まった。\n(Karena ini pernikahan selebriti, banyak media massa berkumpul.)",
+    "options": [
+      "をこめて",
+      "が早いか",
+      "の",
+      "とあって"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N1",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'とあって' digunakan sebagai Karena kondisinya... (Wajar). [Rumus: KB/Kalimat Biasa + とあって] Karena berada dalam situasi khusus/luar biasa tersebut, maka wajar jika terjadi...",
+    "particle": "とあって"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Karena kondisinya... (Wajar)'?\n\nContoh: 久しぶりの連休とあって、どこも人でいっぱいだ (Karena ini libur panjang yang jarang, di mana pun penuh orang).",
+    "options": [
+      "にわたって",
+      "が早いか",
+      "とあって",
+      "ね"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N1",
+    "inputType": "CHOICE",
+    "explanation": "[Rumus: KB/Kalimat Biasa + とあって] Karena berada dalam situasi khusus/luar biasa tersebut, maka wajar jika terjadi...",
+    "particle": "とあって"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n不況___、この会社は業績を伸ばしている。\n(Meskipun dibilang sedang resesi, perusahaan ini kinerjanya meningkat.)",
+    "options": [
+      "につき",
+      "を",
+      "とはいえ",
+      "にとって"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N1",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'とはいえ' digunakan sebagai Meskipun dikatakan.... [Rumus: Kalimat Biasa + とはいえ] Meskipun benar bahwa..., tapi kenyataannya... (Menyangkal asumsi umum).",
+    "particle": "とはいえ"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n静かだ___、山の中の一軒家は寂しすぎる。\n(Meskipun tenang, rumah sendirian di tengah gunung itu terlalu kesepian.)",
+    "options": [
+      "とも",
+      "とか",
+      "とはいえ",
+      "たら"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N1",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'とはいえ' digunakan sebagai Meskipun dikatakan.... [Rumus: Kalimat Biasa + とはいえ] Meskipun benar bahwa..., tapi kenyataannya... (Menyangkal asumsi umum).",
+    "particle": "とはいえ"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Meskipun dikatakan...'?\n\nContoh: 春とはいえ、まだ寒い (Meskipun dibilang sudah musim semi, masih dingin).",
+    "options": [
+      "とあれば",
+      "とはいえ",
+      "について",
+      "にわたって"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N1",
+    "inputType": "CHOICE",
+    "explanation": "[Rumus: Kalimat Biasa + とはいえ] Meskipun benar bahwa..., tapi kenyataannya... (Menyangkal asumsi umum).",
+    "particle": "とはいえ"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n彼女は聞こえない___、無視して歩き続けた。\n(Dia terus berjalan mengabaikan, seolah-olah (bilang) tidak dengar.)",
+    "options": [
+      "か",
+      "は",
+      "とばかりに",
+      "でも"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N1",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'とばかりに' digunakan sebagai Seolah-olah berkata.... [Rumus: Kalimat + とばかりに] Menunjukkan emosi/sikap lewat tindakan yang sangat jelas, seolah-olah sedang meneriakkan kalimat tersebut.",
+    "particle": "とばかりに"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\nここぞ___、日頃の不満をぶちまけた。\n(Seolah-olah (bilang) \"inilah saatnya\", dia meluapkan ketidakpuasan sehari-harinya.)",
+    "options": [
+      "とばかりに",
+      "に応えて",
+      "だけ",
+      "に"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N1",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'とばかりに' digunakan sebagai Seolah-olah berkata.... [Rumus: Kalimat + とばかりに] Menunjukkan emosi/sikap lewat tindakan yang sangat jelas, seolah-olah sedang meneriakkan kalimat tersebut.",
+    "particle": "とばかりに"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Seolah-olah berkata...'?\n\nContoh: 彼は「出て行け」とばかりに、ドアを指差した (Dia menunjuk pintu seolah-olah berkata \"Keluar sana!\").",
+    "options": [
+      "とか",
+      "なんて",
+      "とばかりに",
+      "やら"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N1",
+    "inputType": "CHOICE",
+    "explanation": "[Rumus: Kalimat + とばかりに] Menunjukkan emosi/sikap lewat tindakan yang sangat jelas, seolah-olah sedang meneriakkan kalimat tersebut.",
+    "particle": "とばかりに"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n条件によっては、引き受け___。\n(Tergantung syaratnya, bukan tidak mungkin saya terima (mungkin mau).)",
+    "options": [
+      "ね",
+      "やら",
+      "そばから",
+      "ないものでもない"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N1",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'ないものでもない' digunakan sebagai Bukan tidak mungkin.... [Rumus: KK(Nai) + ものでもない] Ada kemungkinan kecil untuk dilakukan/terjadi jika kondisinya pas. Ungkapan ragu-ragu.",
+    "particle": "ないものでもない"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\nこの服、少し派手だが、着られ___。\n(Baju ini agak mencolok, tapi bukan berarti tidak bisa dipakai.)",
+    "options": [
+      "など",
+      "ないものでもない",
+      "よ",
+      "をこめて"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N1",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'ないものでもない' digunakan sebagai Bukan tidak mungkin.... [Rumus: KK(Nai) + ものでもない] Ada kemungkinan kecil untuk dilakukan/terjadi jika kondisinya pas. Ungkapan ragu-ragu.",
+    "particle": "ないものでもない"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Bukan tidak mungkin...'?\n\nContoh: 今すぐ行けば、間に合わないものでもない (Kalau pergi sekarang, bukan tidak mungkin keburu).",
+    "options": [
+      "ないものでもない",
+      "など",
+      "うちに",
+      "けど"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N1",
+    "inputType": "CHOICE",
+    "explanation": "[Rumus: KK(Nai) + ものでもない] Ada kemungkinan kecil untuk dilakukan/terjadi jika kondisinya pas. Ungkapan ragu-ragu.",
+    "particle": "ないものでもない"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Oleh karena...'?\n\nContoh: 貧しさゆえに、進学をあきらめた (Dikarenakan kemiskinan, menyerah lanjut sekolah).",
+    "options": [
+      "なくしては",
+      "ゆえに",
+      "てやまない",
+      "なり"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N1",
+    "inputType": "CHOICE",
+    "explanation": "[Rumus: KB(の)/KK(Biasa) + ゆえ（に）] Karena... / Disebabkan oleh... (Bahasa tulisan/kuno/sangat formal).",
+    "particle": "ゆえに"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n父の病気___、会社を休んだ。\n(Bolos kerja dengan alasan sakitnya ayah.)",
+    "options": [
+      "きり",
+      "ゆえに",
+      "につき",
+      "にかこつけて"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N1",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'にかこつけて' digunakan sebagai Dengan alasan.... [Rumus: KB + にかこつけて] Menjadikan ... sebagai alasan (padahal ada tujuan lain yang sebenarnya).",
+    "particle": "にかこつけて"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n正月にあまった餅の消費___、パーティーを開いた。\n(Mengadakan pesta dengan alasan menghabiskan mochi sisa tahun baru.)",
+    "options": [
+      "しか",
+      "について",
+      "にかこつけて",
+      "とか"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N1",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'にかこつけて' digunakan sebagai Dengan alasan.... [Rumus: KB + にかこつけて] Menjadikan ... sebagai alasan (padahal ada tujuan lain yang sebenarnya).",
+    "particle": "にかこつけて"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Dengan alasan...'?\n\nContoh: 取材にかこつけて、旅行した (Jalan-jalan dengan alasan peliputan).",
+    "options": [
+      "にかこつけて",
+      "でも",
+      "の",
+      "極まりない"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N1",
+    "inputType": "CHOICE",
+    "explanation": "[Rumus: KB + にかこつけて] Menjadikan ... sebagai alasan (padahal ada tujuan lain yang sebenarnya).",
+    "particle": "にかこつけて"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n無料___、長蛇の列ができるのも当然だ。\n(Kalau gratis, wajar saja antreannya mengular.)",
+    "options": [
+      "に基づいて",
+      "に加えて",
+      "とあれば",
+      "なんて"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N1",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'とあれば' digunakan sebagai Jika memang.... [Rumus: KB / Kalimat Biasa + とあれば] Jika memang untuk/karena..., (maka akan melakukan apa saja/wajar jika...).",
+    "particle": "とあれば"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Jika memang...'?\n\nContoh: 子供のためとあれば、何でもする (Jika memang demi anak, aku lakukan apa saja).",
+    "options": [
+      "とあれば",
+      "ずくめ",
+      "が早いか",
+      "きり"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N1",
+    "inputType": "CHOICE",
+    "explanation": "[Rumus: KB / Kalimat Biasa + とあれば] Jika memang untuk/karena..., (maka akan melakukan apa saja/wajar jika...).",
+    "particle": "とあれば"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n神様___、未来のことはわからない。\n(Aku bukan Tuhan, jadi tidak tahu masa depan.)",
+    "options": [
+      "の",
+      "始末だ",
+      "ではあるまいし",
+      "に比べて"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N1",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'ではあるまいし' digunakan sebagai Bukanlah... (Kritik). [Rumus: KB + ではあるまいし] Bukanlah... (jadi kenapa bersikap begitu?). Mengandung kritik atau saran.",
+    "particle": "ではあるまいし"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n旅行に行くわけ___、そんな大きな荷物は要らない。\n(Bukan mau pergi traveling kan, tidak perlu barang sebanyak itu.)",
+    "options": [
+      "とばかりに",
+      "が早いか",
+      "ではあるまいし",
+      "で"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N1",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'ではあるまいし' digunakan sebagai Bukanlah... (Kritik). [Rumus: KB + ではあるまいし] Bukanlah... (jadi kenapa bersikap begitu?). Mengandung kritik atau saran.",
+    "particle": "ではあるまいし"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Bukanlah... (Kritik)'?\n\nContoh: 子供じゃあるまいし、泣くな (Bukan anak kecil lagi kan, jangan nangis).",
+    "options": [
+      "ではあるまいし",
+      "にかけては",
+      "こと",
+      "まで"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N1",
+    "inputType": "CHOICE",
+    "explanation": "[Rumus: KB + ではあるまいし] Bukanlah... (jadi kenapa bersikap begitu?). Mengandung kritik atau saran.",
+    "particle": "ではあるまいし"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n愛___、幸せな家庭は築けない。\n(Tanpa cinta, tidak bisa membangun keluarga bahagia.)",
+    "options": [
+      "たら",
+      "あっての",
+      "なくしては",
+      "くらい"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N1",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'なくしては' digunakan sebagai Tanpa... (Mustahil). [Rumus: KB + なくして（は）] Tanpa adanya A, maka B tidak bisa terwujud.",
+    "particle": "なくしては"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n涙___語れない物語だ。\n(Ini adalah kisah yang tidak bisa diceritakan tanpa air mata.)",
+    "options": [
+      "なくしては",
+      "よ",
+      "たりとも",
+      "で"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N1",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'なくしては' digunakan sebagai Tanpa... (Mustahil). [Rumus: KB + なくして（は）] Tanpa adanya A, maka B tidak bisa terwujud.",
+    "particle": "なくしては"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Tanpa... (Mustahil)'?\n\nContoh: 努力なくして成功なし (Tanpa usaha, tidak ada kesuksesan).",
+    "options": [
+      "や",
+      "でも",
+      "なくしては",
+      "について"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N1",
+    "inputType": "CHOICE",
+    "explanation": "[Rumus: KB + なくして（は）] Tanpa adanya A, maka B tidak bisa terwujud.",
+    "particle": "なくしては"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\nそんなことは夢に___思わなかった。\n(Hal itu bahkan dalam mimpi pun tidak pernah terpikirkan.)",
+    "options": [
+      "なり",
+      "そばから",
+      "し",
+      "だに"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N1",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'だに' digunakan sebagai Hanya dengan... saja sudah.... [Rumus: KK(Kamus) / KB + だに] Membayangkannya/Mengingatnya saja sudah... (biasanya perasaan negatif/takut/terharu).",
+    "particle": "だに"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n微動___しない。\n(Tidak bergerak sedikitpun (bahkan gerakan kecil pun tidak).)",
+    "options": [
+      "のみならず",
+      "に比べて",
+      "だに",
+      "や"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N1",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'だに' digunakan sebagai Hanya dengan... saja sudah.... [Rumus: KK(Kamus) / KB + だに] Membayangkannya/Mengingatnya saja sudah... (biasanya perasaan negatif/takut/terharu).",
+    "particle": "だに"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Hanya dengan... saja sudah...'?\n\nContoh: 想像するだに恐ろしい (Membayangkannya saja sudah mengerikan).",
+    "options": [
+      "さいに",
+      "だに",
+      "てやまない",
+      "に先立って"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N1",
+    "inputType": "CHOICE",
+    "explanation": "[Rumus: KK(Kamus) / KB + だに] Membayangkannya/Mengingatnya saja sudah... (biasanya perasaan negatif/takut/terharu).",
+    "particle": "だに"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n忙しくて、食事をとる時間___ありません。\n(Sangat sibuk, bahkan waktu makan pun tidak ada.)",
+    "options": [
+      "けど",
+      "すら",
+      "に沿って",
+      "くらい"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N1",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'すら' digunakan sebagai Bahkan.... [Rumus: KB (+Partikel) + すら] Bahkan... (Hal yang ekstrem/mendasar saja begitu, apalagi yang lain). Mirip \"sae\".",
+    "particle": "すら"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\nこの問題は先生で___解けなかった。\n(Masalah ini bahkan guru pun tidak bisa memecahkannya.)",
+    "options": [
+      "すら",
+      "だに",
+      "より",
+      "は"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N1",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'すら' digunakan sebagai Bahkan.... [Rumus: KB (+Partikel) + すら] Bahkan... (Hal yang ekstrem/mendasar saja begitu, apalagi yang lain). Mirip \"sae\".",
+    "particle": "すら"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Bahkan...'?\n\nContoh: 自分の名前すら書けない (Bahkan nama sendiri pun tidak bisa tulis).",
+    "options": [
+      "のに",
+      "だに",
+      "すら",
+      "に"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N1",
+    "inputType": "CHOICE",
+    "explanation": "[Rumus: KB (+Partikel) + すら] Bahkan... (Hal yang ekstrem/mendasar saja begitu, apalagi yang lain). Mirip \"sae\".",
+    "particle": "すら"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n一円___無駄にはできない。\n(Satu yen pun tidak boleh disia-siakan.)",
+    "options": [
+      "ずくめ",
+      "たりとも",
+      "ね",
+      "や"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N1",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'たりとも' digunakan sebagai Walau hanya (satu)... pun tidak. [Rumus: KB(Satuan Terkecil) + たりとも + ...ない] Meskipun hanya (satu detik/satu yen)... pun tidak (akan ditoleransi/dibiarkan).",
+    "particle": "たりとも"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n敵は一人___逃がさない。\n(Musuh tidak akan kubiarkan lolos seorang pun.)",
+    "options": [
+      "のに",
+      "きり",
+      "たりとも",
+      "にかけては"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N1",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'たりとも' digunakan sebagai Walau hanya (satu)... pun tidak. [Rumus: KB(Satuan Terkecil) + たりとも + ...ない] Meskipun hanya (satu detik/satu yen)... pun tidak (akan ditoleransi/dibiarkan).",
+    "particle": "たりとも"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Walau hanya (satu)... pun tidak'?\n\nContoh: 一瞬たりとも気が抜けない (Tidak boleh lengah satu detik pun).",
+    "options": [
+      "なくしては",
+      "と",
+      "から",
+      "たりとも"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N1",
+    "inputType": "CHOICE",
+    "explanation": "[Rumus: KB(Satuan Terkecil) + たりとも + ...ない] Meskipun hanya (satu detik/satu yen)... pun tidak (akan ditoleransi/dibiarkan).",
+    "particle": "たりとも"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Saling... (Bergantian)'?\n\nContoh: 持ちつ持たれつ (Saling tolong menolong / Take and give).",
+    "options": [
+      "し",
+      "だに",
+      "や",
+      "つ～つ"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N1",
+    "inputType": "CHOICE",
+    "explanation": "[Rumus: KK(Masu-stem) + つ + KK(Masu-stem) + つ] Aksi berbalasan atau kontras yang terjadi bergantian (Saling).",
+    "particle": "つ～つ"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n彼を尊敬し___。\n(Saya sangat menghormatinya.)",
+    "options": [
+      "てやまない",
+      "か",
+      "だに",
+      "とも"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N1",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'てやまない' digunakan sebagai Sangat / Tulus.... [Rumus: KK(Te) + やまない] Perasaan yang kuat dan tidak berhenti (tak henti-hentinya). Biasanya untuk doa, harapan, hormat.",
+    "particle": "てやまない"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Sangat / Tulus...'?\n\nContoh: ご活躍を願ってやみません (Saya tak henti-hentinya berharap kesuksesan Anda).",
+    "options": [
+      "手前",
+      "てやまない",
+      "てからというもの",
+      "ね"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N1",
+    "inputType": "CHOICE",
+    "explanation": "[Rumus: KK(Te) + やまない] Perasaan yang kuat dan tidak berhenti (tak henti-hentinya). Biasanya untuk doa, harapan, hormat.",
+    "particle": "てやまない"
+  }
+]

@@ -1,0 +1,828 @@
+[
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n食べた___ですから、お腹がいっぱいです。\n(Karena baru saja makan, saya kenyang.)",
+    "options": [
+      "なくしては",
+      "こと",
+      "のに",
+      "ばかり"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N3",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'ばかり' digunakan sebagai Melulu / Baru saja. 1. Menunjukkan aksi yang terus menerus atau hanya benda itu saja. 2. Baru saja selesai melakukan sesuatu (Ta-form + bakari).",
+    "particle": "ばかり"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n娘はテレビを見て___います。\n(Anak perempuan saya nonton TV melulu.)",
+    "options": [
+      "とも",
+      "ばかり",
+      "さいに",
+      "ずくめ"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N3",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'ばかり' digunakan sebagai Melulu / Baru saja. 1. Menunjukkan aksi yang terus menerus atau hanya benda itu saja. 2. Baru saja selesai melakukan sesuatu (Ta-form + bakari).",
+    "particle": "ばかり"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n文句___言わないでください。\n(Jangan mengeluh melulu.)",
+    "options": [
+      "ばかり",
+      "ばかりに",
+      "けど",
+      "ではあるまいし"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N3",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'ばかり' digunakan sebagai Melulu / Baru saja. 1. Menunjukkan aksi yang terus menerus atau hanya benda itu saja. 2. Baru saja selesai melakukan sesuatu (Ta-form + bakari).",
+    "particle": "ばかり"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n日本に来た___で、まだ右も左もわかりません。\n(Karena baru saja datang ke Jepang, saya belum tahu apa-apa.)",
+    "options": [
+      "さいに",
+      "とあって",
+      "ばかり",
+      "だけ"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N3",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'ばかり' digunakan sebagai Melulu / Baru saja. 1. Menunjukkan aksi yang terus menerus atau hanya benda itu saja. 2. Baru saja selesai melakukan sesuatu (Ta-form + bakari).",
+    "particle": "ばかり"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\nこの店は高いもの___置いてある。\n(Toko ini hanya menyediakan barang-barang mahal saja.)",
+    "options": [
+      "ほど",
+      "ばかり",
+      "に基づいて",
+      "にわたって"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N3",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'ばかり' digunakan sebagai Melulu / Baru saja. 1. Menunjukkan aksi yang terus menerus atau hanya benda itu saja. 2. Baru saja selesai melakukan sesuatu (Ta-form + bakari).",
+    "particle": "ばかり"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Melulu / Baru saja'?\n\nContoh: 彼は遊んでばかりいる (Dia main melulu).",
+    "options": [
+      "とか",
+      "まで",
+      "ばかり",
+      "つ～つ"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N3",
+    "inputType": "CHOICE",
+    "explanation": "1. Menunjukkan aksi yang terus menerus atau hanya benda itu saja. 2. Baru saja selesai melakukan sesuatu (Ta-form + bakari).",
+    "particle": "ばかり"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n彼は頭がいい___でなく、親切だ。\n(Dia tidak hanya pintar, tapi juga ramah.)",
+    "options": [
+      "に加えて",
+      "けど",
+      "だけ",
+      "やら"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N3",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'だけ' digunakan sebagai Hanya / Tidak hanya... tapi juga. Sering digabung dalam pola \"dake de naku\" (tidak hanya... tetapi juga).",
+    "particle": "だけ"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n肉___でなく、野菜も食べてください。\n(Jangan cuma makan daging, makan sayur juga.)",
+    "options": [
+      "に対して",
+      "は",
+      "だけ",
+      "けど"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N3",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'だけ' digunakan sebagai Hanya / Tidak hanya... tapi juga. Sering digabung dalam pola \"dake de naku\" (tidak hanya... tetapi juga).",
+    "particle": "だけ"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\nこの映画は大人___でなく、子供も楽しめます。\n(Film ini tidak hanya bisa dinikmati orang dewasa, tapi juga anak-anak.)",
+    "options": [
+      "なくしては",
+      "に沿って",
+      "こと",
+      "だけ"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N3",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'だけ' digunakan sebagai Hanya / Tidak hanya... tapi juga. Sering digabung dalam pola \"dake de naku\" (tidak hanya... tetapi juga).",
+    "particle": "だけ"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\nできる___早く来てください。\n(Datanglah secepat mungkin (sebisa mungkin).)",
+    "options": [
+      "だけ",
+      "ないものでもない",
+      "つ～つ",
+      "なり"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N3",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'だけ' digunakan sebagai Hanya / Tidak hanya... tapi juga. Sering digabung dalam pola \"dake de naku\" (tidak hanya... tetapi juga).",
+    "particle": "だけ"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n好きな___食べてもいいです。\n(Boleh makan sebanyak yang kamu suka.)",
+    "options": [
+      "だけ",
+      "つ～つ",
+      "に基づいて",
+      "ね"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N3",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'だけ' digunakan sebagai Hanya / Tidak hanya... tapi juga. Sering digabung dalam pola \"dake de naku\" (tidak hanya... tetapi juga).",
+    "particle": "だけ"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Hanya / Tidak hanya... tapi juga'?\n\nContoh: 英語だけでなく、日本語も話せます (Tidak hanya bahasa Inggris, bahasa Jepang pun bisa).",
+    "options": [
+      "だけ",
+      "など",
+      "とか",
+      "ばかり"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N3",
+    "inputType": "CHOICE",
+    "explanation": "Sering digabung dalam pola \"dake de naku\" (tidak hanya... tetapi juga).",
+    "particle": "だけ"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n彼とは去年のパーティーで会った___だ。\n(Saya terakhir bertemu dengannya di pesta tahun lalu (dan belum bertemu lagi).)",
+    "options": [
+      "手前",
+      "なんて",
+      "きり",
+      "うちに"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N3",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'きり' digunakan sebagai Hanya / Sejak (tidak lagi). 1. Hanya itu saja (limit). 2. Sejak terakhir kali terjadi, tidak terjadi lagi.",
+    "particle": "きり"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n一度___の人生を大切にしたい。\n(Saya ingin menghargai hidup yang hanya sekali ini.)",
+    "options": [
+      "か",
+      "に基づいて",
+      "のみならず",
+      "きり"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N3",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'きり' digunakan sebagai Hanya / Sejak (tidak lagi). 1. Hanya itu saja (limit). 2. Sejak terakhir kali terjadi, tidak terjadi lagi.",
+    "particle": "きり"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\nお金はこれっ___です。\n(Uang saya tinggal ini saja.)",
+    "options": [
+      "にとって",
+      "に加えて",
+      "が早いか",
+      "きり"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N3",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'きり' digunakan sebagai Hanya / Sejak (tidak lagi). 1. Hanya itu saja (limit). 2. Sejak terakhir kali terjadi, tidak terjadi lagi.",
+    "particle": "きり"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n彼女は部屋に入った___、出てこない。\n(Dia masuk kamar dan belum keluar-keluar lagi sejak itu.)",
+    "options": [
+      "きり",
+      "始末だ",
+      "よ",
+      "やら"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N3",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'きり' digunakan sebagai Hanya / Sejak (tidak lagi). 1. Hanya itu saja (limit). 2. Sejak terakhir kali terjadi, tidak terjadi lagi.",
+    "particle": "きり"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Hanya / Sejak (tidak lagi)'?\n\nContoh: 二人きりで話したいです (Saya ingin bicara berdua saja).",
+    "options": [
+      "うちに",
+      "に比べて",
+      "きり",
+      "なり"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N3",
+    "inputType": "CHOICE",
+    "explanation": "1. Hanya itu saja (limit). 2. Sejak terakhir kali terjadi, tidak terjadi lagi.",
+    "particle": "きり"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n今年の夏は去年___暑くない。\n(Musim panas tahun ini tidak sepanas tahun lalu.)",
+    "options": [
+      "ほど",
+      "こと",
+      "にかこつけて",
+      "問わず"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N3",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'ほど' digunakan sebagai Sejauh / Sampai-sampai / Tidak se.... Menunjukkan tingkat yang ekstrem, atau perbandingan negatif (tidak se...).",
+    "particle": "ほど"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n言葉にできない___美しい景色だ。\n(Pemandangan yang indahnya tak terlukiskan kata-kata.)",
+    "options": [
+      "ごとき",
+      "あっての",
+      "につき",
+      "ほど"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N3",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'ほど' digunakan sebagai Sejauh / Sampai-sampai / Tidak se.... Menunjukkan tingkat yang ekstrem, atau perbandingan negatif (tidak se...).",
+    "particle": "ほど"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n若い人___よく眠る。\n(Semakin muda, semakin banyak tidurnya (Orang muda tidur lebih banyak).)",
+    "options": [
+      "に比べて",
+      "ほど",
+      "について",
+      "が早いか"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N3",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'ほど' digunakan sebagai Sejauh / Sampai-sampai / Tidak se.... Menunjukkan tingkat yang ekstrem, atau perbandingan negatif (tidak se...).",
+    "particle": "ほど"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n早ければ早い___いいです。\n(Semakin cepat semakin baik.)",
+    "options": [
+      "ほど",
+      "とばかりに",
+      "ごとき",
+      "だに"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N3",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'ほど' digunakan sebagai Sejauh / Sampai-sampai / Tidak se.... Menunjukkan tingkat yang ekstrem, atau perbandingan negatif (tidak se...).",
+    "particle": "ほど"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\nこれ___面白い本は読んだことがない。\n(Saya belum pernah membaca buku semenarik ini.)",
+    "options": [
+      "ほど",
+      "ばかり",
+      "なり",
+      "が早いか"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N3",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'ほど' digunakan sebagai Sejauh / Sampai-sampai / Tidak se.... Menunjukkan tingkat yang ekstrem, atau perbandingan negatif (tidak se...).",
+    "particle": "ほど"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Sejauh / Sampai-sampai / Tidak se...'?\n\nContoh: 死ぬほど疲れました (Lelah sampai rasanya mau mati).",
+    "options": [
+      "くらい",
+      "うちに",
+      "ほど",
+      "でも"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N3",
+    "inputType": "CHOICE",
+    "explanation": "Menunjukkan tingkat yang ekstrem, atau perbandingan negatif (tidak se...).",
+    "particle": "ほど"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n簡単な挨拶___なら言えます。\n(Kalau sekadar salam sederhana, saya bisa.)",
+    "options": [
+      "とばかりに",
+      "より",
+      "そばから",
+      "くらい"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N3",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'くらい' digunakan sebagai Kira-kira / Setidaknya / Sampai. Menunjukkan perkiraan, tingkat ringan (meremehkan), atau derajat.",
+    "particle": "くらい"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n疲れて、一歩も歩けない___だ。\n(Lelah sampai-sampai selangkah pun tak bisa jalan.)",
+    "options": [
+      "くらい",
+      "を通じて",
+      "なんて",
+      "なら"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N3",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'くらい' digunakan sebagai Kira-kira / Setidaknya / Sampai. Menunjukkan perkiraan, tingkat ringan (meremehkan), atau derajat.",
+    "particle": "くらい"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\nどの___日本にいますか。\n(Berapa lama Anda berada di Jepang?)",
+    "options": [
+      "くらい",
+      "だけ",
+      "ほど",
+      "てやまない"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N3",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'くらい' digunakan sebagai Kira-kira / Setidaknya / Sampai. Menunjukkan perkiraan, tingkat ringan (meremehkan), atau derajat.",
+    "particle": "くらい"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Kira-kira / Setidaknya / Sampai'?\n\nContoh: お茶ぐらい飲んでいってください (Minumlah teh setidaknya / mampir sebentar).",
+    "options": [
+      "ね",
+      "しか",
+      "てやまない",
+      "くらい"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N3",
+    "inputType": "CHOICE",
+    "explanation": "Menunjukkan perkiraan, tingkat ringan (meremehkan), atau derajat.",
+    "particle": "くらい"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n部屋には本___服やらが散らかっている。\n(Di kamar berserakan buku, baju, dan lain-lain.)",
+    "options": [
+      "たびに",
+      "やら",
+      "ね",
+      "だに"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N3",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'やら' digunakan sebagai Dan lain-lain / Entah...entah. Menyebutkan contoh yang banyak/kacau, atau menunjukkan ketidakpastian.",
+    "particle": "やら"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\nどこに鍵を置いたの___、見つからない。\n(Entah di mana menaruh kuncinya, tidak ketemu.)",
+    "options": [
+      "かな",
+      "やら",
+      "手前",
+      "なくしては"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N3",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'やら' digunakan sebagai Dan lain-lain / Entah...entah. Menyebutkan contoh yang banyak/kacau, atau menunjukkan ketidakpastian.",
+    "particle": "やら"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n来月は出張___会議やらで忙しい。\n(Bulan depan sibuk dengan dinas luar kota, rapat, dan sebagainya.)",
+    "options": [
+      "を",
+      "に",
+      "やら",
+      "とはいえ"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N3",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'やら' digunakan sebagai Dan lain-lain / Entah...entah. Menyebutkan contoh yang banyak/kacau, atau menunjukkan ketidakpastian.",
+    "particle": "やら"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n何___怪しい音がする。\n(Terdengar suara yang entah kenapa mencurigakan.)",
+    "options": [
+      "やら",
+      "てからというもの",
+      "極まりない",
+      "にとって"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N3",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'やら' digunakan sebagai Dan lain-lain / Entah...entah. Menyebutkan contoh yang banyak/kacau, atau menunjukkan ketidakpastian.",
+    "particle": "やら"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Dan lain-lain / Entah...entah'?\n\nContoh: 嬉しいやら悲しいやらで、複雑な気持ちだ (Antara senang dan sedih, perasaanku campur aduk).",
+    "options": [
+      "に比べて",
+      "だけ",
+      "やら",
+      "なり"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N3",
+    "inputType": "CHOICE",
+    "explanation": "Menyebutkan contoh yang banyak/kacau, atau menunjukkan ketidakpastian.",
+    "particle": "やら"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n遅く___５時までには来てください。\n(Paling lambat datanglah sebelum jam 5.)",
+    "options": [
+      "ばかりに",
+      "とも",
+      "が早いか",
+      "の"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N3",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'とも' digunakan sebagai Tentu saja / Walaupun / Paling tidak. 1. Penekanan persetujuan (Tentu!). 2. Walaupun (dengan kata tanya/negatif). 3. Paling sedikit (Sukunakutomo).",
+    "particle": "とも"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n「手伝ってくれる？」「いい___。」\n(\"Mau bantu?\" \"Tentu saja/Oke!\")",
+    "options": [
+      "ね",
+      "は",
+      "のみならず",
+      "とも"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N3",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'とも' digunakan sebagai Tentu saja / Walaupun / Paling tidak. 1. Penekanan persetujuan (Tentu!). 2. Walaupun (dengan kata tanya/negatif). 3. Paling sedikit (Sukunakutomo).",
+    "particle": "とも"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\nどんなに難しく___、やり遂げたい。\n(Sesulit apapun itu, saya ingin menyelesaikannya.)",
+    "options": [
+      "とばかりに",
+      "でも",
+      "とも",
+      "ばかりに"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N3",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'とも' digunakan sebagai Tentu saja / Walaupun / Paling tidak. 1. Penekanan persetujuan (Tentu!). 2. Walaupun (dengan kata tanya/negatif). 3. Paling sedikit (Sukunakutomo).",
+    "particle": "とも"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n少なく___３人は必要だ。\n(Setidaknya butuh 3 orang.)",
+    "options": [
+      "てからというもの",
+      "やら",
+      "だけ",
+      "とも"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N3",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'とも' digunakan sebagai Tentu saja / Walaupun / Paling tidak. 1. Penekanan persetujuan (Tentu!). 2. Walaupun (dengan kata tanya/negatif). 3. Paling sedikit (Sukunakutomo).",
+    "particle": "とも"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Tentu saja / Walaupun / Paling tidak'?\n\nContoh: 行きますとも (Tentu saja saya pergi).",
+    "options": [
+      "のみならず",
+      "とも",
+      "ばかりに",
+      "か"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N3",
+    "inputType": "CHOICE",
+    "explanation": "1. Penekanan persetujuan (Tentu!). 2. Walaupun (dengan kata tanya/negatif). 3. Paling sedikit (Sukunakutomo).",
+    "particle": "とも"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n雨が降らない___帰りましょう。\n(Ayo pulang selagi hujan belum turun.)",
+    "options": [
+      "うちに",
+      "だけ",
+      "とあって",
+      "けど"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N3",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'うちに' digunakan sebagai Selagi / Mumpung / Sebelum. Melakukan sesuatu selagi keadaan masih berlangsung/belum berubah.",
+    "particle": "うちに"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n日本にいる___富士山に登りたい。\n(Selagi ada di Jepang, saya ingin mendaki G. Fuji.)",
+    "options": [
+      "の",
+      "うちに",
+      "で",
+      "たら"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N3",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'うちに' digunakan sebagai Selagi / Mumpung / Sebelum. Melakukan sesuatu selagi keadaan masih berlangsung/belum berubah.",
+    "particle": "うちに"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\nアイスクリームが溶けない___食べてください。\n(Makanlah es krimnya selagi belum meleleh.)",
+    "options": [
+      "ないものでもない",
+      "しか",
+      "に加えて",
+      "うちに"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N3",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'うちに' digunakan sebagai Selagi / Mumpung / Sebelum. Melakukan sesuatu selagi keadaan masih berlangsung/belum berubah.",
+    "particle": "うちに"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n知らない___寝てしまった。\n(Tanpa sadar (selagi tidak tahu) saya tertidur.)",
+    "options": [
+      "うちに",
+      "始末だ",
+      "ないものでもない",
+      "へ"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N3",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'うちに' digunakan sebagai Selagi / Mumpung / Sebelum. Melakukan sesuatu selagi keadaan masih berlangsung/belum berubah.",
+    "particle": "うちに"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Selagi / Mumpung / Sebelum'?\n\nContoh: 若いうちに勉強しなさい (Belajarlah selagi muda).",
+    "options": [
+      "をこめて",
+      "か",
+      "を",
+      "うちに"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N3",
+    "inputType": "CHOICE",
+    "explanation": "Melakukan sesuatu selagi keadaan masih berlangsung/belum berubah.",
+    "particle": "うちに"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n会う___、彼は大きくなっている。\n(Setiap kali bertemu, dia bertambah besar.)",
+    "options": [
+      "たびに",
+      "に比べて",
+      "など",
+      "をめぐって"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N3",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'たびに' digunakan sebagai Setiap kali. [Rumus: KK(Kamus) / KB+の + たびに] Setiap kali melakukan A, selalu terjadi B.",
+    "particle": "たびに"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n買い物の___、袋をもらう。\n(Setiap kali belanja, saya mendapat kantong.)",
+    "options": [
+      "は",
+      "が",
+      "たびに",
+      "でも"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N3",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'たびに' digunakan sebagai Setiap kali. [Rumus: KK(Kamus) / KB+の + たびに] Setiap kali melakukan A, selalu terjadi B.",
+    "particle": "たびに"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n父は出張の___、お土産を買ってきてくれる。\n(Ayah selalu membelikan oleh-oleh setiap kali dinas luar kota.)",
+    "options": [
+      "に比べて",
+      "のみならず",
+      "ほど",
+      "たびに"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N3",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'たびに' digunakan sebagai Setiap kali. [Rumus: KK(Kamus) / KB+の + たびに] Setiap kali melakukan A, selalu terjadi B.",
+    "particle": "たびに"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Setiap kali'?\n\nContoh: この曲を聞くたびに、故郷を思い出す (Setiap mendengar lagu ini, saya teringat kampung halaman).",
+    "options": [
+      "たびに",
+      "のみならず",
+      "とあって",
+      "も"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N3",
+    "inputType": "CHOICE",
+    "explanation": "[Rumus: KK(Kamus) / KB+の + たびに] Setiap kali melakukan A, selalu terjadi B.",
+    "particle": "たびに"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Saat / Ketika (Formal)'?\n\nContoh: お困りの際は、ご連絡ください (Jika Anda kesulitan, silakan hubungi kami).",
+    "options": [
+      "し",
+      "をめぐって",
+      "さいに",
+      "にとって"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N3",
+    "inputType": "CHOICE",
+    "explanation": "[Rumus: KK(Kamus/Ta) / KB+の + 際に] Digunakan dalam situasi formal untuk menyatakan \"pada saat\".",
+    "particle": "さいに"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\nこの問題___どう思いますか。\n(Apa pendapat Anda tentang masalah ini?)",
+    "options": [
+      "問わず",
+      "なんて",
+      "について",
+      "に対して"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N3",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'について' digunakan sebagai Tentang / Mengenai. [Rumus: KB + について] Menyatakan topik pembicaraan atau pemikiran.",
+    "particle": "について"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n将来の仕事___考えている。\n(Saya sedang memikirkan tentang pekerjaan masa depan.)",
+    "options": [
+      "を通じて",
+      "うちに",
+      "ないものでもない",
+      "について"
+    ],
+    "correct": 3,
+    "type": "PARTICLE_N3",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'について' digunakan sebagai Tentang / Mengenai. [Rumus: KB + について] Menyatakan topik pembicaraan atau pemikiran.",
+    "particle": "について"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n詳しいこと___は、後で説明します。\n(Mengenai detailnya, akan saya jelaskan nanti.)",
+    "options": [
+      "について",
+      "しか",
+      "とか",
+      "あっての"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N3",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'について' digunakan sebagai Tentang / Mengenai. [Rumus: KB + について] Menyatakan topik pembicaraan atau pemikiran.",
+    "particle": "について"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Tentang / Mengenai'?\n\nContoh: 日本の文化について勉強しています (Saya sedang belajar tentang budaya Jepang).",
+    "options": [
+      "について",
+      "にかけては",
+      "など",
+      "極まりない"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N3",
+    "inputType": "CHOICE",
+    "explanation": "[Rumus: KB + について] Menyatakan topik pembicaraan atau pemikiran.",
+    "particle": "について"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n外国人___、漢字は難しい。\n(Bagi orang asing, kanji itu sulit.)",
+    "options": [
+      "につき",
+      "について",
+      "にとって",
+      "を"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N3",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'にとって' digunakan sebagai Bagi / Menurut (Sudut pandang). [Rumus: KB + にとって] Menyatakan penilaian atau dampak dari sudut pandang seseorang.",
+    "particle": "にとって"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n現代人___、スマホはなくてはならないものだ。\n(Bagi orang modern, smartphone adalah benda yang harus ada.)",
+    "options": [
+      "にとって",
+      "かな",
+      "きり",
+      "でも"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N3",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'にとって' digunakan sebagai Bagi / Menurut (Sudut pandang). [Rumus: KB + にとって] Menyatakan penilaian atau dampak dari sudut pandang seseorang.",
+    "particle": "にとって"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\nこれはただの石ですが、私___は宝物です。\n(Ini cuma batu biasa, tapi bagi saya ini harta karun.)",
+    "options": [
+      "にとって",
+      "と",
+      "たりとも",
+      "かな"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N3",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'にとって' digunakan sebagai Bagi / Menurut (Sudut pandang). [Rumus: KB + にとって] Menyatakan penilaian atau dampak dari sudut pandang seseorang.",
+    "particle": "にとって"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Bagi / Menurut (Sudut pandang)'?\n\nContoh: 私にとって家族は一番大切です (Bagi saya, keluarga adalah yang paling penting).",
+    "options": [
+      "にとって",
+      "ばかりに",
+      "始末だ",
+      "極まりない"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N3",
+    "inputType": "CHOICE",
+    "explanation": "[Rumus: KB + にとって] Menyatakan penilaian atau dampak dari sudut pandang seseorang.",
+    "particle": "にとって"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n彼は誰___も親切だ。\n(Dia ramah terhadap siapa saja.)",
+    "options": [
+      "や",
+      "に先立って",
+      "に対して",
+      "ゆえに"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N3",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'に対して' digunakan sebagai Terhadap / Berlawanan dengan. [Rumus: KB + に対して] 1. Sikap/tindakan terhadap target. 2. Perbandingan kontras.",
+    "particle": "に対して"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\n活発な姉___、妹は静かだ。\n(Berlawanan dengan kakaknya yang aktif, adiknya pendiam.)",
+    "options": [
+      "に対して",
+      "ではあるまいし",
+      "を",
+      "にかこつけて"
+    ],
+    "correct": 0,
+    "type": "PARTICLE_N3",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'に対して' digunakan sebagai Terhadap / Berlawanan dengan. [Rumus: KB + に対して] 1. Sikap/tindakan terhadap target. 2. Perbandingan kontras.",
+    "particle": "に対して"
+  },
+  {
+    "q": "Pilih partikel yang tepat untuk melengkapi kalimat berikut:\n\nお客様___失礼なことを言ってはいけない。\n(Tidak boleh berkata tidak sopan terhadap pelanggan.)",
+    "options": [
+      "あっての",
+      "について",
+      "に対して",
+      "でも"
+    ],
+    "correct": 2,
+    "type": "PARTICLE_N3",
+    "inputType": "CHOICE",
+    "explanation": "Partikel 'に対して' digunakan sebagai Terhadap / Berlawanan dengan. [Rumus: KB + に対して] 1. Sikap/tindakan terhadap target. 2. Perbandingan kontras.",
+    "particle": "に対して"
+  },
+  {
+    "q": "Partikel apa yang berfungsi sebagai 'Terhadap / Berlawanan dengan'?\n\nContoh: 目上の人に対しては敬語を使うべきだ (Terhadap atasan, harus menggunakan bahasa hormat).",
+    "options": [
+      "から",
+      "に対して",
+      "こと",
+      "くらい"
+    ],
+    "correct": 1,
+    "type": "PARTICLE_N3",
+    "inputType": "CHOICE",
+    "explanation": "[Rumus: KB + に対して] 1. Sikap/tindakan terhadap target. 2. Perbandingan kontras.",
+    "particle": "に対して"
+  }
+]
