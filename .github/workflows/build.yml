@@ -1,18 +1,102 @@
-find app/src/main/kotlin -type f -name "*.kt" | sort
-app/src/main/kotlin/com/nihongoquest/app/MainActivity.kt
-app/src/main/kotlin/com/nihongoquest/app/data/model/Models.kt
-app/src/main/kotlin/com/nihongoquest/app/data/repository/NihongoRepository.kt
-app/src/main/kotlin/com/nihongoquest/app/navigation/Navigation.kt
-app/src/main/kotlin/com/nihongoquest/app/ui/SharedComponents.kt
-app/src/main/kotlin/com/nihongoquest/app/ui/bunpou/BunpouDetailScreen.kt
-app/src/main/kotlin/com/nihongoquest/app/ui/bunpou/BunpouScreen.kt
-app/src/main/kotlin/com/nihongoquest/app/ui/bunpou/BunpouScreens.kt
-app/src/main/kotlin/com/nihongoquest/app/ui/home/HomeScreen.kt
-app/src/main/kotlin/com/nihongoquest/app/ui/kana/KanaDetailScreen.kt
-app/src/main/kotlin/com/nihongoquest/app/ui/kana/KanaScreen.kt
-app/src/main/kotlin/com/nihongoquest/app/ui/kana/KanaViewModel.kt
-app/src/main/kotlin/com/nihongoquest/app/ui/kanji/KanjiDetailScreen.kt
-app/src/main/kotlin/com/nihongoquest/app/ui/kanji/KanjiScreen.kt
-app/src/main/kotlin/com/nihongoquest/app/ui/kanji/KanjiViewModel.kt
-app/src/main/kotlin/com/nihongoquest/app/ui/theme/Theme.kt
-.../Nihongoquest/NihongoQuest $
+name: Build Android APK
+
+on:
+  push:
+    branches: [ main, master ]
+  pull_request:
+    branches: [ main, master ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up JDK 21
+        uses: actions/setup-java@v4
+        with:
+          java-version: '21'
+          distribution: 'temurin'
+
+      - name: Setup Android SDK
+        uses: android-actions/setup-android@v3
+
+      - name: Fix - Remove old conflicting Kotlin files
+        run: |
+          # Hapus file dari package lama yang konflik
+          rm -f app/src/main/kotlin/com/nihongoquest/app/viewmodel/KanaViewModel.kt
+          rm -f app/src/main/kotlin/com/nihongoquest/app/viewmodel/KanjiViewModel.kt
+          rm -f app/src/main/kotlin/com/nihongoquest/app/viewmodel/QuizViewModel.kt
+          rm -f app/src/main/kotlin/com/nihongoquest/app/navigation/NavGraph.kt
+          rm -f app/src/main/kotlin/com/nihongoquest/app/theme/Theme.kt
+          rm -f app/src/main/kotlin/com/nihongoquest/app/ui/components/CommonComponents.kt
+          rm -f app/src/main/kotlin/com/nihongoquest/app/ui/home/HomeScreen.kt.bak
+          # Hapus folder viewmodel lama jika ada
+          rm -rf app/src/main/kotlin/com/nihongoquest/app/viewmodel/
+          rm -rf app/src/main/kotlin/com/nihongoquest/app/theme/
+          rm -rf app/src/main/kotlin/com/nihongoquest/app/ui/components/
+          echo "=== Remaining Kotlin files ==="
+          find app/src/main/kotlin -name "*.kt" | sort
+
+      - name: Fix - Remove duplicate PNG icons
+        run: |
+          find app/src/main/res -name "ic_launcher.png" -delete
+          find app/src/main/res -name "ic_launcher_round.png" -delete
+
+      - name: Fix - drawable XML files
+        run: |
+          cat > app/src/main/res/drawable/ic_launcher_foreground.xml << 'EOF'
+          <?xml version="1.0" encoding="utf-8"?>
+          <vector xmlns:android="http://schemas.android.com/apk/res/android"
+              android:width="108dp"
+              android:height="108dp"
+              android:viewportWidth="108"
+              android:viewportHeight="108">
+              <path
+                  android:fillColor="#1a1a2e"
+                  android:pathData="M0,0 L108,0 L108,108 L0,108 Z"/>
+              <path
+                  android:fillColor="#E879F9"
+                  android:pathData="M54,15 C54,15 25,33 25,54 C25,70.6 38,84 54,84 C70,84 83,70.6 83,54 C83,33 54,15 54,15Z" />
+          </vector>
+          EOF
+
+          cat > app/src/main/res/drawable/ic_splash.xml << 'EOF'
+          <?xml version="1.0" encoding="utf-8"?>
+          <vector xmlns:android="http://schemas.android.com/apk/res/android"
+              android:width="108dp"
+              android:height="108dp"
+              android:viewportWidth="108"
+              android:viewportHeight="108">
+              <path
+                  android:fillColor="#E879F9"
+                  android:pathData="M54,20 C54,20 30,35 30,54 C30,67.8 40.8,79 54,79 C67.2,79 78,67.8 78,54 C78,35 54,20 54,20Z" />
+          </vector>
+          EOF
+
+      - name: Fix - gradle.properties
+        run: |
+          cat > gradle.properties << 'EOF'
+          android.useAndroidX=true
+          android.suppressUnsupportedCompileSdk=35
+          org.gradle.jvmargs=-Xmx2g
+          org.gradle.daemon=true
+          org.gradle.parallel=true
+          kotlin.code.style=official
+          EOF
+
+      - name: Grant execute permission for gradlew
+        run: chmod +x gradlew
+
+      - name: Build Debug APK
+        run: ./gradlew assembleDebug
+
+      - name: Upload APK
+        uses: actions/upload-artifact@v4
+        with:
+          name: NihongoQuest-debug
+          path: app/build/outputs/apk/debug/app-debug.apk
+          retention-days: 30
